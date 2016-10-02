@@ -18,10 +18,10 @@ Audio File: [Zurako] Kyoukai Senjou no Horizon - 02 - Innocents at the Table (BD
 Video File: [Zurako] Kyoukai Senjou no Horizon - 02 - Innocents at the Table (BD 1080p AAC) [1E51A951].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 33
-Active Line: 46
-Video Position: 5016
+Video Zoom Percent: 0.375000
+Scroll Position: 183
+Active Line: 188
+Video Position: 14011
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,149 +88,146 @@ Dialogue: 0,0:03:14.96,0:03:17.76,Default,,0,0,30,,Nechceš snad umřít hlady, 
 Dialogue: 0,0:03:17.76,0:03:21.52,Default,,0,0,30,,Nezkusíš nějakou brigádu, která ti vydělá na pořádné jídlo?
 Dialogue: 0,0:03:24.52,0:03:26.12,Default,,0,0,0,,Budu se o sebe lépe starat.
 Dialogue: 0,0:03:26.12,0:03:28.48,Default,,0,0,0,,U nás máš vždy dveře otevřené.
-Dialogue: 0,0:03:28.48,0:03:31.40,Default,,0,0,0,,Do you have any student council work later today?
-Dialogue: 0,0:03:31.40,0:03:33.64,Default,,0,0,0,,Yes, it's my duty as vice president
-Dialogue: 0,0:03:33.64,0:03:36.67,Default,,0,0,0,,to accompany President Sakai to Mikawa's checkpoint.
-Dialogue: 0,0:03:36.67,0:03:39.37,Default,,0,0,0,,But I'd like to visit my mother's grave first.
-Dialogue: 0,0:03:39.37,0:03:43.20,Default,,0,0,0,,You see, we're both originally from Mikawa, so...
-Dialogue: 0,0:03:43.20,0:03:47.04,Default,,0,0,0,,Also, I apologize for constantly imposing on you.
-Dialogue: 0,0:03:47.04,0:03:49.78,Default,,0,0,0,,Someday I'll become a good politician and...
-Dialogue: 0,0:03:49.78,0:03:51.53,Default,,0,0,0,,Don't worry about it!
-Dialogue: 0,0:03:52.09,0:03:55.62,Default,,0,0,0,,Come to think of it, didn't you want to become a provisional councilor?
-Dialogue: 0,0:03:55.62,0:03:59.80,Default,,0,0,0,,Why did you run for Student Council Vice President instead of President?
-Dialogue: 0,0:03:59.80,0:04:03.10,Default,,0,0,0,,Because Chancellor Aoi was one of the candidates.
-Dialogue: 0,0:04:03.10,0:04:05.48,Default,,0,0,0,,I've only been here a year,
-Dialogue: 0,0:04:05.48,0:04:07.67,Default,,0,0,0,,and he was born here,
-Dialogue: 0,0:04:07.67,0:04:10.27,Default,,0,0,0,,so I thought he'd have a better understanding of everyone.
-Dialogue: 0,0:04:10.27,0:04:13.40,Default,,0,0,0,,But he's always been such a goof.
-Dialogue: 0,0:04:13.96,0:04:15.62,Default,,0,0,0,,Take this with you.
-Dialogue: 0,0:04:15.62,0:04:19.26,Default,,0,0,0,,I used to serve this to Tori and the neighborhood kids.
-Dialogue: 0,0:04:19.26,0:04:20.36,Default,,0,0,0,,Aoi ate this?
-Dialogue: 0,0:04:20.36,0:04:21.07,Default,,0,0,0,,Yep!
-Dialogue: 0,0:04:21.62,0:04:27.54,Default,,0,0,0,,You see, Tori hadn't come here for a decade, until last year.
-Dialogue: 0,0:04:27.54,0:04:34.27,Default,,0,0,0,,Ever since I took in a lost automated doll with amnesia that had a citizen ID,
-Dialogue: 0,0:04:34.27,0:04:36.46,Default,,0,0,0,,he's started coming by every morning.
-Dialogue: 0,0:04:36.46,0:04:39.97,Default,,0,0,0,,I bet he's enchanted by my P-01s.
-Dialogue: 0,0:04:39.97,0:04:43.07,Default,,0,0,0,,Eh?! He's into P-01s?
-Dialogue: 0,0:04:43.07,0:04:44.72,Default,,0,0,0,,What a fetish...
-Dialogue: 0,0:04:44.72,0:04:46.21,Default,,0,0,0,,Are you worried for him?
-Dialogue: 0,0:04:46.21,0:04:49.31,Default,,0,0,0,,And I thought you hated Tori, Masazumi.
-Dialogue: 0,0:04:50.17,0:04:51.94,Default,,0,0,0,,I wouldn't say I hate him...
-Dialogue: 0,0:04:51.94,0:04:54.69,Default,,0,0,0,,If you want to get closer to everyone,
-Dialogue: 0,0:04:54.69,0:04:56.65,Default,,0,0,0,,look into Remorse Way.
-Dialogue: 0,0:04:56.65,0:04:58.61,Default,,0,0,0,,Remorse Way?
-Dialogue: 0,0:04:58.61,0:05:02.03,Default,,0,0,0,,There you'll find the truth that's eluding you.
-Dialogue: 0,0:05:02.99,0:05:04.91,Default,,0,0,0,,Is it related to that monument?
-Dialogue: 0,0:05:05.45,0:05:06.32,Default,,0,0,0,,Yep!
-Dialogue: 0,0:05:06.32,0:05:08.16,Default,,0,0,0,,Keep pursuing the truth.
-Dialogue: 0,0:05:09.26,0:05:11.07,Default,,0,0,0,,Remorse Way...
+Dialogue: 0,0:03:28.48,0:03:31.40,Default,,0,0,0,,Dneska máš práci pro studentskou radu?
+Dialogue: 0,0:03:31.40,0:03:33.64,Default,,0,0,0,,Ano, jakožto místopředsedkyně mám za úkol
+Dialogue: 0,0:03:33.64,0:03:36.67,Default,,0,0,0,,doprovodit ředitele Sakaie k přechodu do Mikawy.
+Dialogue: 0,0:03:36.67,0:03:39.37,Default,,0,0,0,,A předtím bych ráda navštívila matčin hrob.
+Dialogue: 0,0:03:39.37,0:03:43.20,Default,,0,0,0,,Obě totiž původně pocházíme z Mikawy...
+Dialogue: 0,0:03:43.20,0:03:47.04,Default,,0,0,0,,Omlouvám se, že vám způsobuji nepřijemnosti.
+Dialogue: 0,0:03:47.04,0:03:49.78,Default,,0,0,0,,Jednoho dne, až ze mě bude dobrý politik...
+Dialogue: 0,0:03:49.78,0:03:51.53,Default,,0,0,0,,Nedělej si hlavu!
+Dialogue: 0,0:03:52.09,0:03:55.62,Default,,0,0,0,,Mimochodem, ty chceš zasedat v Prozatimní vládě, že?
+Dialogue: 0,0:03:55.62,0:03:59.80,Default,,0,0,0,,Proč jsi ve studentské radě nekandidovala na předsedu?
+Dialogue: 0,0:03:59.80,0:04:03.10,Default,,0,0,0,,Protože další kandidát byl prezident Aoi.
+Dialogue: 0,0:04:03.10,0:04:05.48,Default,,0,0,0,,Byla jsem na Musaši teprve rok,
+Dialogue: 0,0:04:05.48,0:04:07.67,Default,,0,0,0,,ale on se tu narodil.
+Dialogue: 0,0:04:07.67,0:04:10.27,Default,,0,0,0,,Takže ho všichni znají mnohem lépe.
+Dialogue: 0,0:04:10.27,0:04:13.40,Default,,0,0,0,,Všichni hlavně vědí, že to je pěkný blázen.
+Dialogue: 0,0:04:13.96,0:04:15.62,Default,,0,0,0,,Tady máš výslužku.
+Dialogue: 0,0:04:15.62,0:04:19.26,Default,,0,0,0,,Stejnou jsem dávala i Tórimu a dětem z okolí, když k nám chodili.
+Dialogue: 0,0:04:19.26,0:04:20.36,Default,,0,0,0,,Tórimu?
+Dialogue: 0,0:04:21.62,0:04:27.54,Default,,0,0,0,,Ten se tady ale deset let neukázal. Až loni.
+Dialogue: 0,0:04:27.54,0:04:34.27,Default,,0,0,0,,Tehdy jsem se ujala ztracené kyberloutky s občanským průkazem, ale bez paměti.
+Dialogue: 0,0:04:34.27,0:04:36.46,Default,,0,0,0,,Od té doby Tóri přichází den co den.
+Dialogue: 0,0:04:36.46,0:04:39.97,Default,,0,0,0,,Asi ho moje P-01s zajímá.
+Dialogue: 0,0:04:39.97,0:04:43.07,Default,,0,0,0,,Cože? On se zbláznil do P-01s?
+Dialogue: 0,0:04:43.07,0:04:44.72,Default,,0,0,0,,Totální otaku...
+Dialogue: 0,0:04:44.72,0:04:46.21,Default,,0,0,0,,To tě tak zajímá?
+Dialogue: 0,0:04:46.21,0:04:49.31,Default,,0,0,0,,Myslela jsem, že Tóriho nemůžeš vystát.
+Dialogue: 0,0:04:50.17,0:04:51.94,Default,,0,0,0,,Ne, tak to není...
+Dialogue: 0,0:04:51.94,0:04:54.69,Default,,0,0,0,,Pokud se chceš s ostatními sblížit,
+Dialogue: 0,0:04:54.69,0:04:56.65,Default,,0,0,0,,měla by sis zjistit víc o Třídě lítosti.
+Dialogue: 0,0:04:56.65,0:04:58.61,Default,,0,0,0,,O Třídě lítosti?
+Dialogue: 0,0:04:58.61,0:05:02.03,Default,,0,0,0,,Tam se dozvíš, co ti dosud uniká.
+Dialogue: 0,0:05:02.99,0:05:04.91,Default,,0,0,0,,Mám si zjistit něco o tamním pomníku?
+Dialogue: 0,0:05:05.45,0:05:06.32,Default,,0,0,0,,Jo!
+Dialogue: 0,0:05:06.32,0:05:08.16,Default,,0,0,0,,Vykroč pravdě naproti.
+Dialogue: 0,0:05:09.26,0:05:11.07,Default,,0,0,0,,Třída lítosti...
 Dialogue: 0,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1726,807)}Musashi Ariadust Academy \N 10:43 A.M.
 Dialogue: 1,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1726,807)}Musashi Ariadust Academy \N 10:43 A.M.
 Dialogue: 2,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1726,807)}Musashi Ariadust Academy \N 10:43 A.M.
-Dialogue: 0,0:05:13.28,0:05:15.16,Default,,0,0,30,,In Far East History today,
-Dialogue: 0,0:05:15.16,0:05:17.93,Default,,0,0,0,,we'll cover the Harmonic Unification War,
-Dialogue: 0,0:05:17.93,0:05:20.43,Default,,0,0,0,,which caused the Divine States to fall under provisional rule.
-Dialogue: 0,0:05:20.43,0:05:24.09,Default,,0,0,0,,Suzu, explain as much of it as you can for me.
-Dialogue: 0,0:05:25.04,0:05:26.68,Default,,0,0,0,,Will a review be okay?
-Dialogue: 0,0:05:26.68,0:05:27.82,Default,,0,0,0,,You bet!
-Dialogue: 0,0:05:27.82,0:05:29.64,Default,,0,0,0,,I want you to teach the class for me.
-Dialogue: 0,0:05:29.64,0:05:30.65,Default,,0,0,0,,Good luck!
-Dialogue: 0,0:05:30.65,0:05:32.00,Default,,0,0,0,,Uh, okay...
-Dialogue: 0,0:05:35.55,0:05:39.35,Default,,0,0,0,,A long time ago, the Divine States in the real world,
-Dialogue: 0,0:05:39.35,0:05:43.66,Default,,0,0,0,,and their copy, the Harmonic Divine States, existed on separate planes.
-Dialogue: 0,0:05:43.66,0:05:47.16,Default,,0,0,0,,The Divine States' citizens lived in the original world.
-Dialogue: 0,0:05:47.16,0:05:51.42,Default,,0,0,0,,People from other countries lived in the Harmonic Divine States found on another world.
-Dialogue: 0,0:05:51.42,0:05:54.56,Default,,0,0,0,,I think they got along...
-Dialogue: 0,0:05:54.56,0:05:55.54,Default,,0,0,0,,You're doing well!
-Dialogue: 0,0:05:55.54,0:05:56.67,Default,,0,0,0,,Hey, Bell!
-Dialogue: 0,0:05:56.67,0:05:57.63,Default,,0,0,0,,Relax.
-Dialogue: 0,0:05:58.15,0:06:01.01,Default,,0,0,0,,If you goof up, I'll let her punch me for you.
-Dialogue: 0,0:06:01.01,0:06:02.60,Default,,0,0,0,,I'll be okay!
+Dialogue: 0,0:05:13.28,0:05:15.16,Default,,0,0,30,,V dnešní hodině probereme
+Dialogue: 0,0:05:15.16,0:05:17.93,Default,,0,0,0,,Válku o unifikaci Harmonia, v jejímž důsledku
+Dialogue: 0,0:05:17.93,0:05:20.43,Default,,0,0,0,,byla nad Deem ustanovena prozatimní vláda.
+Dialogue: 0,0:05:20.43,0:05:24.09,Default,,0,0,0,,Suzu nám teď vyloží látku.
+Dialogue: 0,0:05:25.04,0:05:26.68,Default,,0,0,0,,Mám přečíst vlastní shrnutí?
+Dialogue: 0,0:05:26.68,0:05:27.82,Default,,0,0,0,,Jasně!
+Dialogue: 0,0:05:27.82,0:05:29.64,Default,,0,0,0,,Zahraj si na učitelku.
+Dialogue: 0,0:05:29.64,0:05:30.65,Default,,0,0,0,,Vrhni se na to!
+Dialogue: 0,0:05:30.65,0:05:32.00,Default,,0,0,0,,A-ano...
+Dialogue: 0,0:05:35.55,0:05:39.35,Default,,0,0,0,,V minulosti byl existovaly reálné Země bohů - Deum,
+Dialogue: 0,0:05:39.35,0:05:43.66,Default,,0,0,0,,a v paralelním prostoru pak byla vytvořena jejich kopie - Harmonium.
+Dialogue: 0,0:05:43.66,0:05:47.16,Default,,0,0,0,,Obyvatelé Dea zůstali v reálném světě a národy ostatních zemí
+Dialogue: 0,0:05:47.16,0:05:51.42,Default,,0,0,0,,osídlily paralelní země Harmonia.
+Dialogue: 0,0:05:51.42,0:05:54.56,Default,,0,0,0,,A všichni spolu dobře vycházeli... myslím...
+Dialogue: 0,0:05:54.56,0:05:55.54,Default,,0,0,0,,Jde ti to!
+Dialogue: 0,0:05:55.54,0:05:56.67,Default,,0,0,0,,Hele, Zvonilko!
+Dialogue: 0,0:05:56.67,0:05:57.63,Default,,0,0,0,,Hoď se do klidu.
+Dialogue: 0,0:05:58.15,0:06:01.01,Default,,0,0,0,,Jestli to nedáš, nechám se zmlátit místo tebe.
+Dialogue: 0,0:06:01.01,0:06:02.60,Default,,0,0,0,,Mně se nic nestane!
 Dialogue: 0,0:06:01.18,0:06:06.56,INS,,0,0,0,,{\fad(500,0)\fscx150\3c&HBAB9BB&\pos(1500,163.5)}Nuruhachi!
 Dialogue: 0,0:06:01.18,0:06:06.56,date,,0,0,0,,{\fad(500,0)\fs42\shad0\bord0\c&HB3B2B4&\pos(1500,234)}Customer Survey
-Dialogue: 0,0:06:02.60,0:06:06.55,Default,,0,0,0,,I can't die today until I hit the first branch in this erotic game.
-Dialogue: 0,0:06:06.55,0:06:07.72,Default,,0,0,0,,Hey, now!
-Dialogue: 0,0:06:07.72,0:06:09.99,Default,,0,0,0,,Don't act like you're about to die!
-Dialogue: 0,0:06:09.99,0:06:12.31,Default,,0,0,0,,And why are you filling out that survey?!
-Dialogue: 0,0:06:12.31,0:06:14.03,Default,,0,0,0,,Jeez, Teach!
-Dialogue: 0,0:06:14.03,0:06:17.06,Default,,0,0,0,,Bug off, I just want the special membership bonus!
-Dialogue: 0,0:06:17.06,0:06:18.71,Default,,0,0,0,,Pipe down, Tori.
-Dialogue: 0,0:06:18.71,0:06:19.93,Default,,0,0,0,,I'm trying to work.
-Dialogue: 0,0:06:20.41,0:06:24.91,Default,,0,0,0,,But Shiro, I'm pretty sure we're in the middle of class.
-Dialogue: 0,0:06:24.91,0:06:25.99,Default,,0,0,0,,How strange...
-Dialogue: 0,0:06:25.99,0:06:27.45,Default,,0,0,0,,I don't have any orders from Mikawa.
-Dialogue: 0,0:06:27.96,0:06:30.74,Default,,0,0,0,,Hey, Malga, about the name here...
-Dialogue: 0,0:06:30.74,0:06:32.04,Default,,0,0,0,,It should be more like this.
-Dialogue: 0,0:06:34.30,0:06:35.82,Default,,0,0,0,,Be quiet already.
-Dialogue: 0,0:06:35.82,0:06:37.79,Default,,0,0,0,,I can't focus on my manuscript.
-Dialogue: 0,0:06:37.79,0:06:39.50,Default,,0,0,0,,Uh...
-Dialogue: 0,0:06:40.22,0:06:41.88,Default,,0,0,0,,Asama, help her out.
-Dialogue: 0,0:06:42.82,0:06:43.63,Default,,0,0,0,,Okay!
-Dialogue: 0,0:06:43.63,0:06:47.79,Default,,0,0,0,,Suzu, may I read your review for you?
-Dialogue: 0,0:06:47.79,0:06:50.48,Default,,0,0,0,,S-Sure! Please do.
+Dialogue: 0,0:06:02.60,0:06:06.55,Default,,0,0,0,,Nemůžu umřít dokud jsem se v tý pařbě nedostal k prvnímu větvení.
+Dialogue: 0,0:06:06.55,0:06:07.72,Default,,0,0,0,,Ticho tam!
+Dialogue: 0,0:06:07.72,0:06:09.99,Default,,0,0,0,,Nedělej jako bys měl zítra zcepenět!
+Dialogue: 0,0:06:09.99,0:06:12.31,Default,,0,0,0,,Ty vážně vyplňuješ i dotazník spokojenosti?!
+Dialogue: 0,0:06:12.31,0:06:14.03,Default,,0,0,0,,Ale no tak!
+Dialogue: 0,0:06:14.03,0:06:17.06,Default,,0,0,0,,Nechte mě být, jenom chci dostat věrnostní slevu!
+Dialogue: 0,0:06:17.06,0:06:18.71,Default,,0,0,0,,Drž klapajznu, Tóri.
+Dialogue: 0,0:06:18.71,0:06:19.93,Default,,0,0,0,,Snažím se pracovat.
+Dialogue: 0,0:06:20.41,0:06:24.91,Default,,0,0,0,,Ale Širo, já měla za to, že jsme ve škole.
+Dialogue: 0,0:06:24.91,0:06:25.99,Default,,0,0,0,,To mi posol bulvu...
+Dialogue: 0,0:06:25.99,0:06:27.45,Default,,0,0,0,,Žádné objednávky z Mikawy.
+Dialogue: 0,0:06:27.96,0:06:30.74,Default,,0,0,0,,Nevíš, co s tímhle?
+Dialogue: 0,0:06:30.74,0:06:32.04,Default,,0,0,0,,Musíš takhle.
+Dialogue: 0,0:06:34.30,0:06:35.82,Default,,0,0,0,,Buďte všichni zticha.
+Dialogue: 0,0:06:35.82,0:06:37.79,Default,,0,0,0,,Rušíte mě při psaní.
+Dialogue: 0,0:06:37.79,0:06:39.50,Default,,0,0,0,,No...
+Dialogue: 0,0:06:40.22,0:06:41.88,Default,,0,0,0,,Asamo, pomoz jí.
+Dialogue: 0,0:06:42.82,0:06:43.63,Default,,0,0,0,,Rozumím!
+Dialogue: 0,0:06:43.63,0:06:47.79,Default,,0,0,0,,Suzu, necháš mě přečíst tvůj text?
+Dialogue: 0,0:06:47.79,0:06:50.48,Default,,0,0,0,,J-jo! Ráda.
 Dialogue: 0,0:06:51.85,0:06:51.98,date,,0,0,0,,{\fscx120\blur1.5\frz9.358\fs60\an7\pos(472.5,319.5)}{6:52 Typeset - }I
 Dialogue: 0,0:06:51.98,0:06:52.23,date,,0,0,0,,{\fscx120\blur1.5\frz9.358\fs60\an7\pos(472.5,319.5)}{6:52 Typeset - }It
 Dialogue: 0,0:06:52.23,0:06:52.39,date,,0,0,0,,{\fscx120\blur1.5\frz9.358\fs60\an7\pos(472.5,319.5)}{6:52 Typeset - }It a
 Dialogue: 0,0:06:52.39,0:06:52.60,date,,0,0,0,,{\fscx120\blur1.5\frz9.358\fs60\an7\pos(472.5,319.5)}{6:52 Typeset - }It al
 Dialogue: 0,0:06:52.60,0:06:52.94,date,,0,0,0,,{\fscx120\blur1.5\frz9.358\fs60\an7\pos(472.5,319.5)}{6:52 Typeset - }It all{pointless}
-Dialogue: 0,0:06:52.93,0:06:55.74,Default,,0,0,0,,It all started with the Nanboku-cho Wars.
-Dialogue: 0,0:06:55.74,0:06:59.22,Default,,0,0,0,,The war was waged in a part of the Far East called the Divine States
-Dialogue: 0,0:06:59.22,0:07:03.45,Default,,0,0,0,,between two imperial courts.
-Dialogue: 0,0:07:03.45,0:07:07.53,Default,,0,0,0,,In 1412 Testament Era,
-Dialogue: 0,0:07:07.53,0:07:10.54,Default,,0,0,0,,the sacred instruments used to support the tectonic plates vanished,
-Dialogue: 0,0:07:10.54,0:07:13.93,Default,,0,0,0,,and the Harmonic Divine States came crashing down.
-Dialogue: 0,0:07:13.93,0:07:18.29,Default,,0,0,0,,Over half of that world was destroyed in the collapse.
-Dialogue: 0,0:07:18.29,0:07:23.05,Default,,0,0,0,,The remaining parts relocated or merged with our Divine States.
-Dialogue: 0,0:07:23.05,0:07:26.93,Default,,0,0,0,,As such, patches of the Harmonic Divine States' land
-Dialogue: 0,0:07:27.31,0:07:30.10,Default,,0,0,0,,are interspersed throughout the Divine States.
-Dialogue: 0,0:07:30.94,0:07:34.02,Default,,0,0,0,,People from across the world who had lived in the Harmonic Divine States
-Dialogue: 0,0:07:34.49,0:07:37.99,Default,,0,0,0,,flocked to the Divine States.
-Dialogue: 0,0:07:37.99,0:07:40.57,Default,,0,0,0,,They blamed the Divine States for the tragedy
-Dialogue: 0,0:07:40.99,0:07:42.78,Default,,0,0,0,,and war ravaged the land.
-Dialogue: 0,0:07:43.11,0:07:45.66,Default,,0,0,0,,That was the Harmonic Unification War.
-Dialogue: 0,0:07:45.66,0:07:47.19,Default,,0,0,0,,Good job!
-Dialogue: 0,0:07:47.19,0:07:49.12,Default,,0,0,0,,Maybe I should call on Suzu again next time.
-Dialogue: 0,0:07:51.11,0:07:52.94,Default,,0,0,0,,Hey! So guys,
-Dialogue: 0,0:07:52.94,0:07:56.42,Default,,0,0,0,,I'm throwing a party tonight to celebrate popping the question!
-Dialogue: 0,0:07:56.42,0:07:57.67,Default,,0,0,0,,Let's all gather at...
-Dialogue: 0,0:07:57.67,0:07:59.63,Default,,0,0,0,,Don't choose a place that costs money.
-Dialogue: 0,0:07:59.63,0:08:01.22,Default,,0,0,0,,Here works!
-Dialogue: 0,0:08:01.22,0:08:03.46,Default,,0,0,0,,Let's play truth-or-dare like last year!
-Dialogue: 0,0:08:03.46,0:08:06.93,Default,,0,0,0,,Tori, that may not be such a good idea.
-Dialogue: 0,0:08:07.25,0:08:10.65,Default,,0,0,0,,The number of spirits has increased since then.
-Dialogue: 0,0:08:11.18,0:08:14.59,Default,,0,0,0,,Let's exorcise the ghosts tonight then!
-Dialogue: 0,0:08:14.59,0:08:16.55,Default,,0,0,0,,It's our duty as part of the student council!
-Dialogue: 0,0:08:17.49,0:08:19.53,Default,,0,0,0,,I was gonna handle that,
-Dialogue: 0,0:08:19.53,0:08:21.36,Default,,0,0,0,,so I signed up for night duty.
-Dialogue: 0,0:08:21.36,0:08:22.55,Default,,0,0,0,,So it's settled!
-Dialogue: 0,0:08:22.55,0:08:23.65,Default,,0,0,0,,We're exorcising{sp?} ghosts!
-Dialogue: 0,0:08:24.16,0:08:25.98,Default,,0,0,0,,Now that that's settled,
-Dialogue: 0,0:08:26.48,0:08:28.40,Default,,0,0,0,,Tori, it's punishment time.
-Dialogue: 0,0:08:28.70,0:08:29.28,Default,,0,0,0,,Huh?
-Dialogue: 0,0:08:29.62,0:08:33.19,Default,,0,0,0,,In my class, you get points for answering a question,
-Dialogue: 0,0:08:33.19,0:08:35.20,Default,,0,0,0,,and you're punished if you can't.
-Dialogue: 0,0:08:35.60,0:08:36.78,Default,,0,0,0,,Remember?
-Dialogue: 0,0:08:37.36,0:08:39.17,Default,,0,0,0,,It was in Suzu's review.
-Dialogue: 0,0:08:39.17,0:08:42.75,Default,,0,0,0,,The Northern Court began its dictatorship in 1413.
-Dialogue: 0,0:08:42.75,0:08:43.91,Default,,0,0,0,,It was a minor mistake,
-Dialogue: 0,0:08:43.91,0:08:47.43,Default,,0,0,0,,but the rest of her summary made up for that,
-Dialogue: 0,0:08:47.43,0:08:48.58,Default,,0,0,0,,so she's okay!
-Dialogue: 0,0:08:48.88,0:08:52.26,Default,,0,0,0,,Besides, I don't punish students over mistakes in a review.
-Dialogue: 0,0:08:52.81,0:08:53.68,Default,,0,0,0,,But...
-Dialogue: 0,0:08:54.03,0:08:58.04,Default,,0,0,0,,A certain idiot said I could whack him if she messed up.
-Dialogue: 0,0:08:58.04,0:08:58.56,Default,,0,0,0,,Uh-oh!
-Dialogue: 0,0:08:58.56,0:09:01.95,Default,,0,0,0,,Tori's requested form of punishment this month was...
-Dialogue: 0,0:09:02.57,0:09:04.32,Default,,0,0,0,,Well, get stripping!
-Dialogue: 0,0:09:04.32,0:09:08.65,Default,,0,0,0,,Wow! I wrote something that softcore again?
-Dialogue: 0,0:09:09.53,0:09:14.90,Default,,0,0,0,,After the war, the people who fell to Earth from the Heavens thought—
-Dialogue: 0,0:09:14.90,0:09:19.42,Default,,0,0,0,,Maybe we can return to the Heavens without destroying ourselves.
-Dialogue: 0,0:09:20.03,0:09:22.98,Default,,0,0,0,,The people then came up with an idea—
-Dialogue: 0,0:09:22.98,0:09:26.12,Default,,0,0,0,,If we follow humanity's footsteps,
-Dialogue: 0,0:09:26.12,0:09:29.18,Default,,0,0,0,,someday we'll be able to return to the Heavens.
-Dialogue: 0,0:09:29.58,0:09:32.84,Default,,0,0,0,,That's why they made the Testament.
-Dialogue: 0,0:09:32.84,0:09:36.12,Default,,0,0,0,,It's a history book about the old world.
-Dialogue: 0,0:09:34.42,0:09:37.98,Default,,0,0,0,,{\an8\i1}Strip! Strip! Strip!
-Dialogue: 0,0:09:39.64,0:09:43.15,Default,,0,0,0,,Another layer! Strip another layer!
+Dialogue: 0,0:06:52.93,0:06:55.74,Default,,0,0,0,,Začalo to ve Válce jižní a severní dynastie.
+Dialogue: 0,0:06:55.74,0:06:59.22,Default,,0,0,0,,Tehdy v oblasti Dálného východu známé jako Deum,
+Dialogue: 0,0:06:59.22,0:07:03.45,Default,,0,0,0,,vedli boj o císařský trůn dvě rodové linie.
+Dialogue: 0,0:07:03.45,0:07:07.53,Default,,0,0,0,,Léta Testamentu, 1412.
+Dialogue: 0,0:07:07.53,0:07:10.54,Default,,0,0,0,,Byla ztracena božská zbraň ovládající tektonické tepny,
+Dialogue: 0,0:07:10.54,0:07:13.93,Default,,0,0,0,,následkem čehož došlo ke kolizi Harmonia s Deem.
+Dialogue: 0,0:07:13.93,0:07:18.29,Default,,0,0,0,,Více než polovina Harmonia byla zničena
+Dialogue: 0,0:07:18.29,0:07:23.05,Default,,0,0,0,,Zbylé fragmenty jeho území přepsaly
+Dialogue: 0,0:07:23.05,0:07:26.93,Default,,0,0,0,,korespondující oblasti na Deu.
+Dialogue: 0,0:07:27.31,0:07:30.10,Default,,0,0,0,,Těmto oblastem se dnes říká Harmonické oblasti.
+Dialogue: 0,0:07:30.94,0:07:34.02,Default,,0,0,0,,Bývalí obyvatelé zničeného Harmonia
+Dialogue: 0,0:07:34.49,0:07:37.99,Default,,0,0,0,,se pak nahrnuli na území Dea
+Dialogue: 0,0:07:37.99,0:07:40.57,Default,,0,0,0,,a volali reprezentaci Dea k zodpovědnosti.
+Dialogue: 0,0:07:40.99,0:07:42.78,Default,,0,0,0,,Napříč zemí pak vypukly nepokoje
+Dialogue: 0,0:07:43.11,0:07:45.66,Default,,0,0,0,,známé jako Válka o sjednocení Harmonia.
+Dialogue: 0,0:07:45.66,0:07:47.19,Default,,0,0,0,,Velmi dobře!
+Dialogue: 0,0:07:47.19,0:07:49.12,Default,,0,0,0,,Příště si asi Suzu vyvolám zase.
+Dialogue: 0,0:07:51.11,0:07:52.94,Default,,0,0,0,,Tak děcka!
+Dialogue: 0,0:07:52.94,0:07:56.42,Default,,0,0,0,,Chystám menší oslavičku mého vyznání.
+Dialogue: 0,0:07:56.42,0:07:57.67,Default,,0,0,0,,Kde to bude nejlepší...?
+Dialogue: 0,0:07:57.67,0:07:59.63,Default,,0,0,0,,Hlavně ať tam není draho.
+Dialogue: 0,0:07:59.63,0:08:01.22,Default,,0,0,0,,Co třeba tady?
+Dialogue: 0,0:08:01.22,0:08:03.46,Default,,0,0,0,,Dáme si zase stezku odvahy, bobánci?
+Dialogue: 0,0:08:03.46,0:08:06.93,Default,,0,0,0,,Letos to není úplně dobrý nápad.
+Dialogue: 0,0:08:07.25,0:08:10.65,Default,,0,0,0,,Oproti loňsku se objevuje víc přizraků.
+Dialogue: 0,0:08:11.18,0:08:14.59,Default,,0,0,0,,Tak si dneska dáme trochu vymítání, ne?
+Dialogue: 0,0:08:14.59,0:08:16.55,Default,,0,0,0,,Stejně to má rada v popisu práce.
+Dialogue: 0,0:08:17.49,0:08:19.53,Default,,0,0,0,,Už jsem se na to chystala,
+Dialogue: 0,0:08:19.53,0:08:21.36,Default,,0,0,0,,tak jsem si dneska vzala noční.
+Dialogue: 0,0:08:21.36,0:08:22.55,Default,,0,0,0,,Takže máme jasno!
+Dialogue: 0,0:08:22.55,0:08:23.65,Default,,0,0,0,,Večer se bude vymítat!
+Dialogue: 0,0:08:24.16,0:08:25.98,Default,,0,0,0,,To bychom měli.
+Dialogue: 0,0:08:26.48,0:08:28.40,Default,,0,0,0,,Tóri. Je čas na tvůj trest.
+Dialogue: 0,0:08:29.62,0:08:33.19,Default,,0,0,0,,Na mých hodinách si správná odpověď
+Dialogue: 0,0:08:33.19,0:08:35.20,Default,,0,0,0,,vyslouží body, špatná trest.
+Dialogue: 0,0:08:35.60,0:08:36.78,Default,,0,0,0,,To přeci víš.
+Dialogue: 0,0:08:37.36,0:08:39.17,Default,,0,0,0,,Suzu měla ve vém textu chybu.
+Dialogue: 0,0:08:39.17,0:08:42.75,Default,,0,0,0,,Nadvláda sevrního dvora započala v roce 1413.
+Dialogue: 0,0:08:42.75,0:08:43.91,Default,,0,0,0,,Je to jenom maličkost
+Dialogue: 0,0:08:43.91,0:08:47.43,Default,,0,0,0,,a zbytek byl v pořádku
+Dialogue: 0,0:08:47.43,0:08:48.58,Default,,0,0,0,,takže Suzu prošla.
+Dialogue: 0,0:08:48.88,0:08:52.26,Default,,0,0,0,,Navíc za chyby ve vlastním shrnutí tresty neuděluji.
+Dialogue: 0,0:08:52.81,0:08:53.68,Default,,0,0,0,,Ale...
+Dialogue: 0,0:08:54.03,0:08:58.04,Default,,0,0,0,,Ale někdo si tu chtěl hrát na hrdinu.
+Dialogue: 0,0:08:58.56,0:09:01.95,Default,,0,0,0,,Jakýpak trest sis pro sebe vymyslel tentokrát?
+Dialogue: 0,0:09:02.57,0:09:04.32,Default,,0,0,0,,Koukej se svlékat!
+Dialogue: 0,0:09:04.32,0:09:08.65,Default,,0,0,0,,To jsem si zase vymyslel takovou úchylárničku?
+Dialogue: 0,0:09:09.53,0:09:14.90,Default,,0,0,0,,Utichla válečná vřava a lidstvo padlé z nebes se usadilo zpět na Zemi.
+Dialogue: 0,0:09:14.90,0:09:19.42,Default,,0,0,0,,Zde lidé začali uvažovat, jak své místo na nebesích získat zpět
+Dialogue: 0,0:09:20.03,0:09:22.98,Default,,0,0,0,,a přitom nepřivodit své zničení.
+Dialogue: 0,0:09:22.98,0:09:26.12,Default,,0,0,0,,Pokud lidstvo zopakuje svoji historii tak, jak se odehrála,
+Dialogue: 0,0:09:26.12,0:09:29.18,Default,,0,0,0,,nalezne cestu zpět na nebesa.
+Dialogue: 0,0:09:29.58,0:09:32.84,Default,,0,0,0,,Tehdy vznikl Testament.
+Dialogue: 0,0:09:32.84,0:09:36.12,Default,,0,0,0,,Soubor záznamů o událostech Věku staré Země.
+Dialogue: 0,0:09:34.42,0:09:37.98,Default,,0,0,0,,{\an8\i1}Do naha! Do naha!
+Dialogue: 0,0:09:39.64,0:09:43.15,Default,,0,0,0,,Další vrstvu! Další vrstvu!
 Dialogue: 0,0:09:44.36,0:09:47.19,Default,,0,0,0,,Jeez, Musashi's civilians are cold.
 Dialogue: 0,0:09:47.19,0:09:53.48,Default,,0,0,0,,Azuma, no one is celebrating your glorious return\Neven though you're the emperor's son.
 Dialogue: 0,0:09:53.48,0:09:57.20,Default,,0,0,0,,No, the Testament said not to make a big fuss.
