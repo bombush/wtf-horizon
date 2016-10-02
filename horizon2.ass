@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 02 - Innocents at the Table (BD
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 183
-Active Line: 188
-Video Position: 14011
+Scroll Position: 249
+Active Line: 260
+Video Position: 19589
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -228,78 +228,78 @@ Dialogue: 0,0:09:29.58,0:09:32.84,Default,,0,0,0,,Tehdy vznikl Testament.
 Dialogue: 0,0:09:32.84,0:09:36.12,Default,,0,0,0,,Soubor záznamů o událostech Věku staré Země.
 Dialogue: 0,0:09:34.42,0:09:37.98,Default,,0,0,0,,{\an8\i1}Do naha! Do naha!
 Dialogue: 0,0:09:39.64,0:09:43.15,Default,,0,0,0,,Další vrstvu! Další vrstvu!
-Dialogue: 0,0:09:44.36,0:09:47.19,Default,,0,0,0,,Jeez, Musashi's civilians are cold.
-Dialogue: 0,0:09:47.19,0:09:53.48,Default,,0,0,0,,Azuma, no one is celebrating your glorious return\Neven though you're the emperor's son.
-Dialogue: 0,0:09:53.48,0:09:57.20,Default,,0,0,0,,No, the Testament said not to make a big fuss.
-Dialogue: 0,0:09:59.29,0:10:01.18,Default,,0,0,0,,{\i1}Keep going! Keep stripping!?{check timing, also punctuation?}
-Dialogue: 0,0:10:01.18,0:10:03.60,Default,,0,0,0,,{\i1}Man, you're all pervs!
-Dialogue: 0,0:10:03.60,0:10:04.71,Default,,0,0,0,,What are they doing?!
+Dialogue: 0,0:09:44.36,0:09:47.19,Default,,0,0,0,,Lidé na Musaši jsou studené čumáky.
+Dialogue: 0,0:09:47.19,0:09:53.48,Default,,0,0,0,,Nikdo tě nepřijde přivítat. Jsi přeci císařský syn, Azumo.
+Dialogue: 0,0:09:53.48,0:09:57.20,Default,,0,0,0,,Nevadí. Unie nám nakázala, že nemáme budit rozruch.
+Dialogue: 0,0:09:59.29,0:10:01.18,Default,,0,0,0,,Dolů s tím! Dolů s tím!
+Dialogue: 0,0:10:01.18,0:10:03.60,Default,,0,0,0,,{\i1}To se vám líbí, co!
+Dialogue: 0,0:10:03.60,0:10:04.71,Default,,0,0,0,,Co to je za virvál?!
 Dialogue: 0,0:10:04.84,0:10:07.71,spell,,0,0,0,,{\fad(300,0)\bord4.5\c&H271B92&\fscx80\pos(732,561)\3c&H0E93C9&}{10:05 Typeset - }Censored
 Dialogue: 0,0:10:07.71,0:10:12.34,spell,,0,0,0,,{\fs45\c&H2B3237&\pos(643.5,220.5)}{10:08 Typeset (over the door) - }Class 3-Plum
-Dialogue: 0,0:10:08.12,0:10:09.80,Default,,0,0,0,,What're you doing, Teach?!
-Dialogue: 0,0:10:09.80,0:10:12.79,Default,,0,0,0,,Ah, hey! N-No!
+Dialogue: 0,0:10:08.12,0:10:09.80,Default,,0,0,0,,Co to děláte, paní učitelko?!
+Dialogue: 0,0:10:09.80,0:10:12.79,Default,,0,0,0,,Počkat! Ne!
 Dialogue: 0,0:10:12.34,0:10:13.35,spell,,0,0,0,,{\fad(0,950)\fs45\c&H2B3237&\t(71,1010,\frz160)\move(661.5,177,274.5,658.5,29,988)}Class 3-Plum
-Dialogue: 0,0:10:14.56,0:10:17.13,Default,,0,0,0,,Oh, hi! We're in the middle of class.
-Dialogue: 0,0:10:17.13,0:10:20.66,Default,,0,0,0,,A-Azuma, wait in the teacher's lounge until I assign you a room.
-Dialogue: 0,0:10:20.66,0:10:22.98,Default,,0,0,0,,Oh, wow! If it isn't Ms. Sanyo.
-Dialogue: 0,0:10:23.81,0:10:25.22,Default,,0,0,0,,Hey, it'll be okay.
-Dialogue: 0,0:10:25.22,0:10:26.48,Default,,0,0,0,,You'll be okay, Mitsuki.
+Dialogue: 0,0:10:14.56,0:10:17.13,Default,,0,0,0,,Hezký den přeji. Zrovna probíhá vyučování.
+Dialogue: 0,0:10:17.13,0:10:20.66,Default,,0,0,0,,A-Azumo, počkej na mě ve sborovně. Pak tě přidělím na pokoj.
+Dialogue: 0,0:10:20.66,0:10:22.98,Default,,0,0,0,,Copak! Jestlipak to není slečna Sanjó.
+Dialogue: 0,0:10:23.81,0:10:25.22,Default,,0,0,0,,No tak, neděs se.
+Dialogue: 0,0:10:25.22,0:10:26.48,Default,,0,0,0,,Bude to v pořádku, Micuki.
 Dialogue: 0,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1650,813)}10:54 A.M. \N Cemetery in Okutama
 Dialogue: 1,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1650,813)}10:54 A.M. \N Cemetery in Okutama
 Dialogue: 2,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1650,813)}10:54 A.M. \N Cemetery in Okutama
 Dialogue: 0,0:10:36.28,0:10:37.52,Default,,0,0,0,,P-01s?
-Dialogue: 0,0:10:39.28,0:10:40.54,Default,,0,0,0,,What brought you here?
+Dialogue: 0,0:10:39.28,0:10:40.54,Default,,0,0,0,,Co tu děláš?
 Dialogue: 0,0:10:44.36,0:10:48.21,spell,,0,0,0,,{\fad(500,0)\blur1.2\fs45\fax-0.1\bord9.75\c&H181818&\pos(717,310.5)\frz11.113\3c&H1B241A&}List of \NInstructor's \NComments
 Dialogue: 1,0:10:44.36,0:10:48.21,spell,,0,0,0,,{\fad(500,0)\blur1.5\fs45\fax-0.1\bord3.75\pos(717,310.5)\frz11.113\c&H2D302C&\3c&HD5D8D3&}List of \NInstructor's \NComments
-Dialogue: 0,0:10:45.39,0:10:48.21,Default,,0,0,0,,I'm surprised to see you here.
-Dialogue: 0,0:10:48.21,0:10:49.77,Default,,0,0,0,,Straightening up the place?
+Dialogue: 0,0:10:45.39,0:10:48.21,Default,,0,0,0,,Tady jsem tě nečekala.
+Dialogue: 0,0:10:48.21,0:10:49.77,Default,,0,0,0,,Zametáš?
 Dialogue: 0,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(162,814)}11:01 A.M. \N Cemetery in Okutama
 Dialogue: 1,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(162,814)}11:01 A.M. \N Cemetery in Okutama
 Dialogue: 2,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(162,814)}11:01 A.M. \N Cemetery in Okutama
-Dialogue: 0,0:10:49.77,0:10:53.14,Default,,0,0,0,,Judge. It's one of my daily chores.
-Dialogue: 0,0:10:54.98,0:10:56.14,Default,,0,0,0,,Did we get busted?
-Dialogue: 0,0:10:56.14,0:10:57.63,Default,,0,0,0,,Are we okay? All good?
-Dialogue: 0,0:10:57.63,0:10:59.04,Default,,0,0,0,,You aren't busted.
-Dialogue: 0,0:10:59.04,0:11:00.24,Default,,0,0,0,,All is well.
-Dialogue: 0,0:11:00.24,0:11:02.14,Default,,0,0,0,,Our operation is proceeding perfectly.
-Dialogue: 0,0:11:02.14,0:11:03.55,Default,,0,0,0,,{\i1}They're so busted!{\i0}
-Dialogue: 0,0:11:04.10,0:11:09.03,Default,,0,0,0,,Masazumi, I see you take good care of this grave.
-Dialogue: 0,0:11:09.03,0:11:11.32,Default,,0,0,0,,Yeah, it's my mother's.
+Dialogue: 0,0:10:49.77,0:10:53.14,Default,,0,0,0,,Judge. Úklid hřbitova patří mezi mé povinnosti.
+Dialogue: 0,0:10:54.98,0:10:56.14,Default,,0,0,0,,Nikdo nás neviděl?
+Dialogue: 0,0:10:56.14,0:10:57.63,Default,,0,0,0,,Ok? V pohodě?
+Dialogue: 0,0:10:57.63,0:10:59.04,Default,,0,0,0,,Nikdo vás neviděl.
+Dialogue: 0,0:10:59.04,0:11:00.24,Default,,0,0,0,,V pořádku.
+Dialogue: 0,0:11:00.24,0:11:02.14,Default,,0,0,0,,Vše probíhá podle plánu.
+Dialogue: 0,0:11:02.14,0:11:03.55,Default,,0,0,0,,{\i1}Jak jako nikdo neviděl?{\i0}
+Dialogue: 0,0:11:04.10,0:11:09.03,Default,,0,0,0,,Slečno Masazumi, vidím, že se o tento hrob dobře staráte.
+Dialogue: 0,0:11:09.03,0:11:11.32,Default,,0,0,0,,Ano. Patří mé matce.
 Dialogue: 0,0:11:09.72,0:11:13.98,spell,,0,0,0,,{\c&H70695F&\pos(978,105)\bord3\blur5\3c&HBEBDA9&}Honda Family Grave
-Dialogue: 0,0:11:11.32,0:11:13.98,Default,,0,0,0,,We buried a keepsake since we don't have her remains.
-Dialogue: 0,0:11:13.98,0:11:17.04,Default,,0,0,0,,But I guess an automated doll wouldn't understand.
-Dialogue: 0,0:11:17.57,0:11:21.10,Default,,0,0,0,,You don't have a mother since you were born from a soul.
+Dialogue: 0,0:11:11.32,0:11:13.98,Default,,0,0,0,,Místo těla tam jsou ale jen památeční předměty.
+Dialogue: 0,0:11:13.98,0:11:17.04,Default,,0,0,0,,Ale tomu ty jako kyberloutka asi nerozumíš.
+Dialogue: 0,0:11:17.57,0:11:21.10,Default,,0,0,0,,Zrodila ses tím, že se v tobě usídlila duše, takže žádnou matku nemáš.
 Dialogue: 0,0:11:21.10,0:11:21.94,Default,,0,0,0,,Judge.
-Dialogue: 0,0:11:22.35,0:11:24.31,Default,,0,0,0,,I must ask though,
-Dialogue: 0,0:11:25.17,0:11:28.20,Default,,0,0,0,,you love your mother, don't you?
+Dialogue: 0,0:11:22.35,0:11:24.31,Default,,0,0,0,,Ale položím vám otázku.
+Dialogue: 0,0:11:25.17,0:11:28.20,Default,,0,0,0,,Slečno Masazumi, vy jste svoji matku měla ráda, že?
 Dialogue: 0,0:11:33.07,0:11:40.00,Default,,0,0,0,,{\i1}Rejoice, my child now is ten of age
 Dialogue: 0,0:11:40.47,0:11:47.22,Default,,0,0,0,,{\i1}and will need charms 'gainst heaven's rage
 Dialogue: 0,0:11:47.22,0:11:53.71,Default,,0,0,0,,{\i1}The journey might be bliss eternal
 Dialogue: 0,0:11:53.71,0:11:57.61,Default,,0,0,0,,{\i1}but downwards 'gain is
 Dialogue: 0,0:11:57.61,0:12:03.41,Default,,0,0,0,,{\i1}fear infernal
-Dialogue: 0,0:12:04.38,0:12:07.32,Default,,0,0,0,,Is something the matter, Masazumi?
-Dialogue: 0,0:12:09.23,0:12:11.69,Default,,0,0,0,,I'm originally from Mikawa.
-Dialogue: 0,0:12:12.28,0:12:14.33,Default,,0,0,0,,Mikawa's sovereign, Lord Matsudaira,
-Dialogue: 0,0:12:14.33,0:12:17.33,Default,,0,0,0,,needs two people from the Honda family under him.
-Dialogue: 0,0:12:17.74,0:12:21.28,Default,,0,0,0,,The first represents a member of the Four Divine Matsudaira Kings,
-Dialogue: 0,0:12:21.28,0:12:24.96,Default,,0,0,0,,Honda Tadakatsu from the warrior branch of the Honda family.{double check name order}
-Dialogue: 0,0:12:25.43,0:12:30.97,Default,,0,0,0,,The other represents Honda Masanobu from the internal affairs branch.{changed name order}
-Dialogue: 0,0:12:31.63,0:12:35.58,Default,,0,0,0,,My father tried and failed to inherit the Masanobu name.
-Dialogue: 0,0:12:35.58,0:12:40.56,Default,,0,0,0,,Then, he tried to get me to inherit Masanobu's son's name, Masazumi.
-Dialogue: 0,0:12:41.17,0:12:43.40,Default,,0,0,0,,But it wasn't meant to be.
-Dialogue: 0,0:12:44.03,0:12:47.50,Default,,0,0,0,,In order to avoid hurting my chances,
-Dialogue: 0,0:12:48.16,0:12:50.50,Default,,0,0,0,,my parents had me undergo a sex change.
-Dialogue: 0,0:12:52.04,0:12:53.74,Default,,0,0,0,,First, I lost my bosom.
-Dialogue: 0,0:12:53.74,0:12:56.88,Default,,0,0,0,,Just when I was preparing to undergo transgender surgery,
-Dialogue: 0,0:12:57.64,0:13:01.80,Default,,0,0,0,,the Matsudaira family suddenly dismissed their vassals.
-Dialogue: 0,0:13:05.80,0:13:09.64,Default,,0,0,0,,Countless vassals were demoted or discharged.
-Dialogue: 0,0:13:09.64,0:13:13.85,Default,,0,0,0,,They entrusted everything to automated dolls thereafter.
-Dialogue: 0,0:13:13.85,0:13:16.54,Default,,0,0,0,,My family was no exception.
-Dialogue: 0,0:13:18.85,0:13:21.82,Default,,0,0,0,,Having lost his sense of purpose, my father fled to Musashi.
-Dialogue: 0,0:13:21.82,0:13:26.91,Default,,0,0,0,,My mother and I remained in Mikawa until she was spirited away
-Dialogue: 0,0:13:26.91,0:13:28.24,Default,,0,0,0,,and became a Lost Noble.
-Dialogue: 0,0:13:29.20,0:13:33.67,Default,,0,0,0,,Why have I had to sacrifice so much?{lol punctuation}
-Dialogue: 0,0:13:34.81,0:13:36.09,Default,,0,0,0,,Talk about pathetic!
+Dialogue: 0,0:12:04.38,0:12:07.32,Default,,0,0,0,,Děje se něco, slečno Masazumi?
+Dialogue: 0,0:12:09.23,0:12:11.69,Default,,0,0,0,,Pocházím z Mikawy.
+Dialogue: 0,0:12:12.28,0:12:14.33,Default,,0,0,0,,Bylo potřeba, aby pod vládcem Mikawy, Macudairou
+Dialogue: 0,0:12:14.33,0:12:17.33,Default,,0,0,0,,sloužily dvě různé větve rodu Honda.
+Dialogue: 0,0:12:17.74,0:12:21.28,Default,,0,0,0,,Jedna je větev válečníků,
+Dialogue: 0,0:12:21.28,0:12:24.96,Default,,0,0,0,,jejímž představitelem je Tadakacu Honda, jeden z Nebeských vládců.
+Dialogue: 0,0:12:25.43,0:12:30.97,Default,,0,0,0,,Politickou větev Hondů pak představuje Masanobu Honda.
+Dialogue: 0,0:12:31.63,0:12:35.58,Default,,0,0,0,,Můj otec se neúspěšně snažil získat roli Masanobua.
+Dialogue: 0,0:12:35.58,0:12:40.56,Default,,0,0,0,,Místo toho chtěl, abych převzala jméno Masanobuova syna, Masazumiho.
+Dialogue: 0,0:12:41.17,0:12:43.40,Default,,0,0,0,,Ale to se také nepodařilo.
+Dialogue: 0,0:12:44.03,0:12:47.50,Default,,0,0,0,,Aby zlepšil mé šance na získání Masazumiho jména,
+Dialogue: 0,0:12:48.16,0:12:50.50,Default,,0,0,0,,nechal mě podstoupit změnu pohlaví.
+Dialogue: 0,0:12:52.04,0:12:53.74,Default,,0,0,0,,Nejprve jsem přišla o prsa.
+Dialogue: 0,0:12:53.74,0:12:56.88,Default,,0,0,0,,A když jsem měla podstoupit samotnou změnu pohlaví,
+Dialogue: 0,0:12:57.64,0:13:01.80,Default,,0,0,0,,provedli Macudairové čistku mezi svými vazaly.
+Dialogue: 0,0:13:05.80,0:13:09.64,Default,,0,0,0,,Mnozí vazalové byli propuštěni nebo přiděleni na nižší pozice
+Dialogue: 0,0:13:09.64,0:13:13.85,Default,,0,0,0,,a jejich povinnosti byly svěřeny do rukou kyberloutkám.
+Dialogue: 0,0:13:13.85,0:13:16.54,Default,,0,0,0,,Má rodina k nim patřila.
+Dialogue: 0,0:13:18.85,0:13:21.82,Default,,0,0,0,,Otec, jehož snažení přišlo vniveč, odešel na Musaši.
+Dialogue: 0,0:13:21.82,0:13:26.91,Default,,0,0,0,,Já jsem s matkou zůstala v Mikawě. Matku ale potkal osud zmizelého šlechtice
+Dialogue: 0,0:13:26.91,0:13:28.24,Default,,0,0,0,,a už jsem ji nikdy neviděla.
+Dialogue: 0,0:13:29.20,0:13:33.67,Default,,0,0,0,,Proč? Proč pořád o někoho přicházím?
+Dialogue: 0,0:13:34.81,0:13:36.09,Default,,0,0,0,,Jsem strašná fňukna.
 Dialogue: 0,0:13:37.02,0:13:38.02,Default,,0,0,0,,Judge.
 Dialogue: 0,0:13:38.02,0:13:42.18,Default,,0,0,0,,You have just resolved one of my questions regarding you.
 Dialogue: 0,0:13:42.18,0:13:43.13,Default,,0,0,0,,What's that?
