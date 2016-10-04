@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 387
-Active Line: 399
-Video Position: 32036
+Scroll Position: 82
+Active Line: 95
+Video Position: 8537
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -111,8 +111,8 @@ Dialogue: 0,0:04:39.56,0:04:43.73,Default,,0,0,0,,Dva lidičkové nám tu chybí
 Dialogue: 0,0:04:43.73,0:04:46.43,Default,,0,0,0,,Masazumi dnes učí na základce.
 Dialogue: 0,0:04:46.43,0:04:48.72,Default,,0,0,0,,A v pět hodin bude dělat doprovod panu řediteli,
 Dialogue: 0,0:04:48.72,0:04:50.18,Default,,0,0,0,,takže na hodinu přijít nemusí.
-Dialogue: 0,0:04:50.47,0:04:53.03,Default,,0,0,0,,Dobře, a víte někdo, co je s Tórim?
-Dialogue: 0,0:04:54.34,0:04:57.90,Default,,0,0,0,,To jste všichni tak zvědaví, co dělá můj přihlouplý bratříček?
+Dialogue: 0,0:04:50.47,0:04:53.03,Default,,0,0,0,,Dobře. Víte někdo, co je s Tórim?
+Dialogue: 0,0:04:54.34,0:04:57.90,Default,,0,0,0,,Všichni tak zvědaví na to třeštidlo, co si říká můj bratr?
 Dialogue: 0,0:04:57.90,0:04:59.42,Default,,0,0,0,,Jste celí žhaví, co?
 Dialogue: 0,0:04:59.42,0:05:03.20,Default,,0,0,0,,Je to přece jen prezident Musaši a předseda studentské rady v jedné osobě.
 Dialogue: 0,0:05:05.35,0:05:07.41,Default,,0,0,0,,Ale nic vám neřeknu!
@@ -130,8 +130,8 @@ Dialogue: 0,0:05:38.03,0:05:40.26,Default,,0,0,0,,Blízkovýchodní Musaši je p
 Dialogue: 0,0:05:40.26,0:05:43.04,Default,,0,0,0,,tak od našeho prezidenta nic jiného čekat nelze.
 Dialogue: 0,0:05:44.21,0:05:46.07,Default,,0,0,0,,Nejvyššími zastupiteli jednotlivých zemí světa
 Dialogue: 0,0:05:46.07,0:05:49.45,Default,,0,0,0,,se mohou stát jedině studenti akademií.
-Dialogue: 0,0:05:49.45,0:05:52.04,Default,,0,0,0,,Dálný východ je rozdrobený mezi více zemí
-Dialogue: 0,0:05:52.04,0:05:56.03,Default,,0,0,0,,a Unii Testamentu se hodí ovladatelní zastupitelé.
+Dialogue: 0,0:05:49.45,0:05:52.04,Default,,0,0,0,,Dálný východ je rozdrobený mezi více zemí,
+Dialogue: 0,0:05:52.04,0:05:56.03,Default,,0,0,0,,takže se Unii Testamentu hodí ovladatelní zastupitelé.
 Dialogue: 0,0:05:56.03,0:05:57.38,Default,,0,0,0,,Jako Tóri Aoi.
 Dialogue: 0,0:05:58.64,0:06:03.22,Default,,0,0,0,,Obvykle si vybírají neschopné lidi jako je on.
 Dialogue: 0,0:06:04.10,0:06:07.81,Default,,0,0,0,,Dokonce mu přezdívají "Impossible".
@@ -403,7 +403,7 @@ Dialogue: 0,0:20:30.87,0:20:31.92,Default,,0,0,0,,Dafuq?
 Dialogue: 0,0:20:31.92,0:20:36.40,Default,,0,0,0,,Ty pitomečku, není ti stydno mluvit o vyznání lásky
 Dialogue: 0,0:20:36.40,0:20:39.90,Default,,0,0,0,,s hentai hrou v ruce?
 Dialogue: 0,0:20:39.90,0:20:42.35,Default,,0,0,0,,Jestli chceš sbalit nějakou kreslenou waifu,
-Dialogue: 0,0:20:42.35,0:20:45.39,Default,,0,0,0,,zkus prostě strčit prcka do zásuvky a uvidíš, jak to mezi váma 
+Dialogue: 0,0:20:42.35,0:20:45.39,Default,,0,0,0,,zkus prostě strčit prcka do zásuvky a uvidíš, jak to mezi váma
 Dialogue: 0,0:20:45.39,0:20:46.18,Default,,0,0,0,,bude jiskřit
 Dialogue: 0,0:20:46.18,0:20:48.04,Default,,0,0,0,,Ale, ségra!
 Dialogue: 0,0:20:48.04,0:20:49.14,Default,,0,0,0,,To nevíš,
@@ -443,8 +443,8 @@ Dialogue: 0,0:22:36.87,0:22:41.32,Default,,0,0,0,,v níž probíhá proces rekon
 Dialogue: 0,0:22:41.93,0:22:45.88,Default,,0,0,0,,Lidstvo, které se kdysi povzneslo až do nebes,
 Dialogue: 0,0:22:44.42,0:22:48.35,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Towards the sky strives
 Dialogue: 1,0:22:44.42,0:22:48.35,ED,,0,0,0,,{\blur1.5\fad(200,350)}Towards the sky strives
-Dialogue: 0,0:22:45.88,0:22:47.00,Default,,0,0,0,,ztratilo svou moc 
-Dialogue: 0,0:22:47.00,0:22:49.02,Default,,0,0,0,,a bylo odsouzeno k odchodu 
+Dialogue: 0,0:22:45.88,0:22:47.00,Default,,0,0,0,,ztratilo svou moc
+Dialogue: 0,0:22:47.00,0:22:49.02,Default,,0,0,0,,a bylo odsouzeno k odchodu
 Dialogue: 0,0:22:48.85,0:22:55.62,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}our sailing voyage across the real world
 Dialogue: 1,0:22:48.85,0:22:55.62,ED,,0,0,0,,{\blur1.5\fad(200,350)}our sailing voyage across the real world
 Dialogue: 0,0:22:49.02,0:22:52.84,Default,,0,0,0,, zpět do své domoviny, na Zemi.
@@ -466,7 +466,7 @@ Dialogue: 0,0:23:14.31,0:23:16.88,Default,,0,0,0,,to reproduce human history.
 Dialogue: 0,0:23:17.41,0:23:20.97,Default,,0,0,0,,Leč v důsledku zničení Harmonia při nevydařeném pokusu
 Dialogue: 0,0:23:18.54,0:23:25.08,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Countless things have been scattered all across the world
 Dialogue: 1,0:23:18.54,0:23:25.08,ED,,0,0,0,,{\blur1.5\fad(200,350)}Countless things have been scattered all across the world
-Dialogue: 0,0:23:20.97,0:23:23.59,Default,,0,0,0,,o rekonstrukci středověkých válek v Deu, byla vláda nad Deem rozdělena 
+Dialogue: 0,0:23:20.97,0:23:23.59,Default,,0,0,0,,o rekonstrukci středověkých válek v Deu, byla vláda nad Deem rozdělena
 Dialogue: 0,0:23:23.59,0:23:25.84,Default,,0,0,0,,mezi bývalé národy Harmonia
 Dialogue: 0,0:23:25.35,0:23:30.76,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}We will find them one by one and fill the void
 Dialogue: 1,0:23:25.35,0:23:30.76,ED,,0,0,0,,{\blur1.5\fad(200,350)}We will find them one by one and fill the void
