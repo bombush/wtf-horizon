@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 03 - Commandos in Town (BD 1080
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 46
-Active Line: 50
-Video Position: 4325
+Scroll Position: 218
+Active Line: 225
+Video Position: 17535
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,137 +137,134 @@ Dialogue: 0,0:05:25.23,0:05:30.43,Default,,0,0,0,,Bláznivá sestra, která dáv
 Dialogue: 0,0:05:30.43,0:05:32.43,Default,,0,0,0,,Sedí a čeká.
 Dialogue: 0,0:05:33.21,0:05:37.44,Default,,0,0,0,,Řekla bych, že všechno začalo u Horizon.
 Dialogue: 0,0:05:38.50,0:05:43.24,Default,,0,0,0,,Horizon byla hodné děvče.
-Dialogue: 0,0:05:44.59,0:05:46.16,Default,,0,0,0,,D-Did you know?
-Dialogue: 0,0:05:46.16,0:05:50.42,Default,,0,0,0,,Whenever Tori talks to me,
-Dialogue: 0,0:05:50.42,0:05:54.62,Default,,0,0,0,,he starts with, "Hey!" or, "So like," every time.
-Dialogue: 0,0:05:55.15,0:05:59.21,Default,,0,0,0,,And when he offers me his hand or gets ready to go,
-Dialogue: 0,0:05:59.21,0:06:01.09,Default,,0,0,0,,he does this.
-Dialogue: 0,0:06:02.34,0:06:05.73,Default,,0,0,0,,That's his sign.
-Dialogue: 0,0:06:06.28,0:06:09.19,Default,,0,0,0,,I can't see,
-Dialogue: 0,0:06:09.19,0:06:12.31,Default,,0,0,0,,so he does that to give me a heads up.
-Dialogue: 0,0:06:12.70,0:06:15.81,Default,,0,0,0,,Yeah, and we started following suit.
-Dialogue: 0,0:06:16.71,0:06:20.19,Default,,0,0,0,,{\fad(0,500)}Horizon was the one who started that.
-Dialogue: 0,0:06:26.44,0:06:31.78,Default,,0,0,0,,Even though Horizon's gone, Tori hasn't forgotten about her.
-Dialogue: 0,0:06:32.71,0:06:33.96,Default,,0,0,0,,Indeed.
-Dialogue: 0,0:06:34.96,0:06:36.66,Default,,0,0,0,,Huh?
-Dialogue: 0,0:06:36.97,0:06:39.04,Default,,0,0,0,,You were out shopping too?
-Dialogue: 0,0:06:39.04,0:06:43.20,Default,,0,0,0,,Just how big is this party gonna be tomorrow?
-Dialogue: 0,0:06:43.20,0:06:45.26,Default,,0,0,0,,We're gonna be buried in food!
-Dialogue: 0,0:06:45.97,0:06:47.68,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:06:47.68,0:06:50.30,Default,,0,0,0,,I've had a lot of customers from the Academy since this morning!
-Dialogue: 0,0:06:50.30,0:06:52.01,Default,,0,0,0,,Sorry!
-Dialogue: 0,0:06:52.01,0:06:55.89,Default,,0,0,0,,We might be causing a ruckus tomorrow, though.
-Dialogue: 0,0:06:56.34,0:06:58.21,Default,,0,0,0,,Are you throwing a party or something?
-Dialogue: 0,0:06:58.21,0:07:03.19,Default,,0,0,0,,Then I might have to ask P-01s to go all out.
-Dialogue: 0,0:07:03.46,0:07:04.71,Default,,0,0,0,,A party?
-Dialogue: 0,0:07:04.71,0:07:06.45,Default,,0,0,0,,I guess.
-Dialogue: 0,0:07:06.45,0:07:09.28,Default,,0,0,0,,Yes, I think everything will work out!
-Dialogue: 0,0:07:09.70,0:07:13.96,Default,,0,0,0,,After all, everyone's hoping that it'll be a fun party.
+Dialogue: 0,0:05:44.59,0:05:46.16,Default,,0,0,0,,Pamatujete?
+Dialogue: 0,0:05:46.16,0:05:50.42,Default,,0,0,0,,Vždycky když ke mně Tóri mluví,
+Dialogue: 0,0:05:50.42,0:05:54.62,Default,,0,0,0,,řekne nejdřív "Hej" nebo "Hele".
+Dialogue: 0,0:05:55.15,0:05:59.21,Default,,0,0,0,,A když mi podává ruku nebo odchází pryč
+Dialogue: 0,0:05:59.21,0:06:01.09,Default,,0,0,0,,udělá tohle.
+Dialogue: 0,0:06:02.34,0:06:05.73,Default,,0,0,0,,To je znamení.
+Dialogue: 0,0:06:06.28,0:06:09.19,Default,,0,0,0,,Nevidím,
+Dialogue: 0,0:06:09.19,0:06:12.31,Default,,0,0,0,,takže mě vždycky takhle upozorní.
+Dialogue: 0,0:06:12.70,0:06:15.81,Default,,0,0,0,,A my jsme to začali dělat jako on.
+Dialogue: 0,0:06:16.71,0:06:20.19,Default,,0,0,0,,Začala s tím Horizon.
+Dialogue: 0,0:06:26.44,0:06:31.78,Default,,0,0,0,,Už tu s námi není, ale Tóri na ni nezapomněl.
+Dialogue: 0,0:06:32.71,0:06:33.96,Default,,0,0,0,,To je fakt.
+Dialogue: 0,0:06:34.96,0:06:36.66,Default,,0,0,0,,Hele.
+Dialogue: 0,0:06:36.97,0:06:39.04,Default,,0,0,0,,Taky jste vyrazily na nákupy?
+Dialogue: 0,0:06:39.04,0:06:43.20,Default,,0,0,0,,To máte na zítřek nebo na týden?
+Dialogue: 0,0:06:43.20,0:06:45.26,Default,,0,0,0,,Vypadá to, že se v tom jídle utopíme.
+Dialogue: 0,0:06:45.97,0:06:47.68,Default,,0,0,0,,Copak chystáte?
+Dialogue: 0,0:06:47.68,0:06:50.30,Default,,0,0,0,,Dneska se u nás se studenty dveře netrhnou.
+Dialogue: 0,0:06:50.30,0:06:52.01,Default,,0,0,0,,Promiňte,
+Dialogue: 0,0:06:52.01,0:06:55.89,Default,,0,0,0,,zítra možná budeme trochu hlučnější.
+Dialogue: 0,0:06:56.34,0:06:58.21,Default,,0,0,0,,Chystáte nějakou slávu?
+Dialogue: 0,0:06:58.21,0:07:03.19,Default,,0,0,0,,To abych P-01s pěkně zapřáhla!
+Dialogue: 0,0:07:03.46,0:07:04.71,Default,,0,0,0,,Slávu?
+Dialogue: 0,0:07:04.71,0:07:06.45,Default,,0,0,0,,Něco takového.
+Dialogue: 0,0:07:06.45,0:07:09.28,Default,,0,0,0,,Určitě to bude fajn.
+Dialogue: 0,0:07:09.70,0:07:13.96,Default,,0,0,0,,Všichni doufají, že se to vyvede.
 Dialogue: 0,0:07:14.53,0:07:17.04,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\an9\fad(400,600)\pos(1713,650)}2:37 P.M. \N Transportation District, Murayama
 Dialogue: 1,0:07:14.53,0:07:17.04,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}2:37 P.M. \N Transportation District, Murayama
 Dialogue: 2,0:07:14.53,0:07:17.04,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}2:37 P.M. \N Transportation District, Murayama
 Dialogue: 0,0:07:14.54,0:07:17.37,spell,,0,0,0,,{\c&H1E0F25&\fs120\blur1.5\pos(961.5,412.5)}Niello Trade
-Dialogue: 0,0:07:16.71,0:07:17.85,Default,,0,0,0,,I know!
+Dialogue: 0,0:07:16.71,0:07:17.85,Default,,0,0,0,,Že jo!
 Dialogue: 0,0:07:17.37,0:07:20.04,spell,,0,0,0,,{\c&H25333B&\fs30\move(982.5,637.5,982.5,591,0,2654)\t(\fs33)}Niello Trade
-Dialogue: 0,0:07:17.85,0:07:20.04,Default,,0,0,0,,I think this is gonna be a blast!
-Dialogue: 0,0:07:20.47,0:07:26.02,Default,,0,0,0,,So, Malga, aren't they holding a rising altitude race in the weighted atmosphere?
-Dialogue: 0,0:07:26.02,0:07:27.26,Default,,0,0,0,,Wanna enter?
-Dialogue: 0,0:07:27.26,0:07:28.53,Default,,0,0,0,,Sounds good.
-Dialogue: 0,0:07:28.53,0:07:30.22,Default,,0,0,0,,Let's enter one after work.
-Dialogue: 0,0:07:30.70,0:07:33.43,Default,,0,0,0,,We can make some money off the admirals and marines.
-Dialogue: 0,0:07:33.43,0:07:34.35,Default,,0,0,0,,Thanks!
-Dialogue: 0,0:07:34.67,0:07:35.38,Default,,0,0,0,,Later!
-Dialogue: 0,0:07:36.97,0:07:39.96,Default,,0,0,0,,Say, Malga, can you see Kimi?
+Dialogue: 0,0:07:17.85,0:07:20.04,Default,,0,0,0,,Myslím, že to bude pěkná jízda.
+Dialogue: 0,0:07:20.47,0:07:26.02,Default,,0,0,0,,Hele, nepoletí se teď ten závod ve stoupavém letu?
+Dialogue: 0,0:07:26.02,0:07:27.26,Default,,0,0,0,,Zapíšem se?
+Dialogue: 0,0:07:27.26,0:07:28.53,Default,,0,0,0,,Dobře.
+Dialogue: 0,0:07:28.53,0:07:30.22,Default,,0,0,0,,Po práci poletíme.
+Dialogue: 0,0:07:30.70,0:07:33.43,Default,,0,0,0,,Odlehčíme od peněz pár admirálům a mariňákům.
+Dialogue: 0,0:07:33.43,0:07:34.35,Default,,0,0,0,,Díky!
+Dialogue: 0,0:07:34.67,0:07:35.38,Default,,0,0,0,,Hezký den!
+Dialogue: 0,0:07:36.97,0:07:39.96,Default,,0,0,0,,Hele, Malgo? Vidíš Kimi?
 Dialogue: 0,0:07:40.46,0:07:41.48,Default,,0,0,0,,Judge.
-Dialogue: 0,0:07:41.48,0:07:44.48,Default,,0,0,0,,She hasn't moved, so she's still in my sights.
-Dialogue: 0,0:07:44.48,0:07:47.95,Default,,0,0,0,,Doesn't that mean the chancellor hasn't budged?
-Dialogue: 0,0:07:47.95,0:07:50.52,Default,,0,0,0,,It sure does. Care to make a comment?
-Dialogue: 0,0:07:50.52,0:07:51.67,Default,,0,0,0,,You bet I do!
-Dialogue: 0,0:07:51.67,0:07:54.60,Default,,0,0,0,,I've got a rush delivery for the student council.
+Dialogue: 0,0:07:41.48,0:07:44.48,Default,,0,0,0,,Neztrácím ji z očí - ani se nehnula.
+Dialogue: 0,0:07:44.48,0:07:47.95,Default,,0,0,0,,Takže prezident se taky nepohnul z místa.
+Dialogue: 0,0:07:47.95,0:07:50.52,Default,,0,0,0,,Vypadá to tak. Máš k tomu něco?
+Dialogue: 0,0:07:50.52,0:07:51.67,Default,,0,0,0,,To si piš!
+Dialogue: 0,0:07:51.67,0:07:54.60,Default,,0,0,0,,Mám tu jeden expresní balíček pro studentskou radu.
 Dialogue: 0,0:07:53.78,0:07:55.74,spell,,0,0,0,,{\c&H1D181B&\fs45\fax0.2\frz314.327\pos(1234.5,517.5)}Working Class Man
-Dialogue: 0,0:07:54.60,0:07:56.14,Default,,0,0,0,,The shipping label clearly says,
-Dialogue: 0,0:07:56.14,0:08:00.57,Default,,0,0,0,,"Highest Peak! The Virgin Queen Elizabeth, 1st Edition."
-Dialogue: 0,0:08:00.95,0:08:03.25,Default,,0,0,0,,I bet the chancellor ordered this.
-Dialogue: 0,0:08:03.25,0:08:06.42,Default,,0,0,0,,Are you going to feel bad for him or make fun of him?
-Dialogue: 0,0:08:06.72,0:08:09.74,Default,,0,0,0,,It was disguised as an educational program,
-Dialogue: 0,0:08:09.74,0:08:11.93,Default,,0,0,0,,but he messed up the label.
-Dialogue: 0,0:08:11.93,0:08:13.14,Default,,0,0,0,,So it seems...
-Dialogue: 0,0:08:13.41,0:08:14.76,Default,,0,0,0,,Oh, it's Seijun!
-Dialogue: 0,0:08:16.49,0:08:17.56,Default,,0,0,0,,Hey!
-Dialogue: 0,0:08:18.19,0:08:19.45,Default,,0,0,0,,What's up?
-Dialogue: 0,0:08:20.46,0:08:21.98,Default,,0,0,0,,I just got back from Mikawa.
-Dialogue: 0,0:08:21.98,0:08:24.43,Default,,0,0,0,,Margot, is Masazumi there?
-Dialogue: 0,0:08:24.43,0:08:26.44,Default,,0,0,0,,Tell him about the package and what's going on tonight.
-Dialogue: 0,0:08:26.44,0:08:30.75,Default,,0,0,0,,Seijun, the Chancellor's exorcising ghosts at school tonight.
-Dialogue: 0,0:08:30.75,0:08:31.65,Default,,0,0,0,,See you there?
-Dialogue: 0,0:08:31.65,0:08:34.89,Default,,0,0,0,,Uh, no, I live in Murayama,
-Dialogue: 0,0:08:34.89,0:08:38.48,Default,,0,0,0,,so I'd have to go through the guard post to visit Okutama at night.
-Dialogue: 0,0:08:38.48,0:08:41.33,Default,,0,0,0,,That would upset my father.
-Dialogue: 0,0:08:41.33,0:08:44.76,Default,,0,0,0,,Isn't your dad a big shot on the Provisional Council?
-Dialogue: 0,0:08:44.76,0:08:46.52,Default,,0,0,0,,Uh, I guess...
-Dialogue: 0,0:08:47.06,0:08:48.42,Default,,0,0,0,,Then this is for you.
-Dialogue: 0,0:08:48.42,0:08:50.05,Default,,0,0,0,,It's addressed to the student council.
+Dialogue: 0,0:07:54.60,0:07:56.14,Default,,0,0,0,,Je na něm štítek s nápisem
+Dialogue: 0,0:07:56.14,0:08:00.57,Default,,0,0,0,,"Vyvrcholení! Virgin Queen Elizabeth - první edice."
+Dialogue: 0,0:08:00.95,0:08:03.25,Default,,0,0,0,,To si určitě objednal prezident.
+Dialogue: 0,0:08:03.25,0:08:06.42,Default,,0,0,0,,Chceš si z něj utahovat, nebo ho podporovat?
+Dialogue: 0,0:08:06.72,0:08:09.74,Default,,0,0,0,,Snažili se to zamaskovat jako výukové video
+Dialogue: 0,0:08:09.74,0:08:11.93,Default,,0,0,0,,ale ten štítek jim unikl.
+Dialogue: 0,0:08:11.93,0:08:13.14,Default,,0,0,0,,Že jo...
+Dialogue: 0,0:08:13.41,0:08:14.76,Default,,0,0,0,,Hele, Seidžun!
+Dialogue: 0,0:08:16.49,0:08:17.56,Default,,0,0,0,,Čau.
+Dialogue: 0,0:08:18.19,0:08:19.45,Default,,0,0,0,,Tak jak?
+Dialogue: 0,0:08:20.46,0:08:21.98,Default,,0,0,0,,Teď jsem se vrátila z Mikawy.
+Dialogue: 0,0:08:21.98,0:08:24.43,Default,,0,0,0,,Margot, máš tam Masazumi?
+Dialogue: 0,0:08:24.43,0:08:26.44,Default,,0,0,0,,Tak jí řekni o tom balíčku a té oslavě.
+Dialogue: 0,0:08:26.44,0:08:30.75,Default,,0,0,0,,Seidžun. Prezident na večer ve škole pořádá vymítání duchů.
+Dialogue: 0,0:08:30.75,0:08:31.65,Default,,0,0,0,,Jdeš taky?
+Dialogue: 0,0:08:31.65,0:08:34.89,Default,,0,0,0,,No, já bydlím v Murajamě,
+Dialogue: 0,0:08:34.89,0:08:38.48,Default,,0,0,0,,takže bych musela projít přes stráže u brány do Okutamy.
+Dialogue: 0,0:08:38.48,0:08:41.33,Default,,0,0,0,,To by otci přidělalo problémy.
+Dialogue: 0,0:08:41.33,0:08:44.76,Default,,0,0,0,,Tvůj táta je velké zvíře v Prozatimní radě, že?
+Dialogue: 0,0:08:44.76,0:08:46.52,Default,,0,0,0,,No, něco takového...
+Dialogue: 0,0:08:47.06,0:08:48.42,Default,,0,0,0,,Vezmi si tohle.
+Dialogue: 0,0:08:48.42,0:08:50.05,Default,,0,0,0,,Adresát je studenstká rada.
 Dialogue: 0,0:08:50.05,0:08:52.76,hand,,0,0,0,,{\an8\bord3.75\shad0\alpha&H40\3c&HD16870&\pos(546,18)\c&HFFFFFF&}{\p1}m 0 0 l 1065 0 1065 270 0 270{\p0}
 Dialogue: 0,0:08:50.05,0:08:52.76,hand,,0,0,0,,{\an7\fs57\fsp0.45\bord0\blur0.8\pos(31.5,15)}Musashi, Far East Okutama\NMusashi Ariadust Academy\NTo: Student Council\N\NLightning Delivery
 Dialogue: 0,0:08:50.05,0:08:52.76,hand,,0,0,0,,{\an7\fs57\fsp0.45\bord0\blur0.8\pos(486,16.5)}Breakable!\N"Highest Peak! The Virgin Queen Elizabeth,\N1st Edition."
-Dialogue: 0,0:08:50.61,0:08:52.76,Default,,0,0,0,,Why is this going to the student council?!
-Dialogue: 0,0:08:52.76,0:08:56.91,Default,,0,0,0,,The chancellor oughta be close to Remorse Way about now.
-Dialogue: 0,0:08:56.91,0:08:58.71,Default,,0,0,0,,I think you should go see him.
-Dialogue: 0,0:08:58.71,0:08:59.51,Default,,0,0,0,,Why?
-Dialogue: 0,0:08:59.51,0:09:01.37,Default,,0,0,0,,Because, Seijun...
-Dialogue: 0,0:09:04.90,0:09:07.15,Default,,0,0,0,,Whoa! What's going on?!
-Dialogue: 0,0:09:07.45,0:09:08.61,Default,,0,0,0,,A race!
-Dialogue: 0,0:09:10.21,0:09:12.57,Default,,0,0,0,,C'mon, little missy!
-Dialogue: 0,0:09:13.23,0:09:15.96,Default,,0,0,0,,Pass that on to the chancellor!
+Dialogue: 0,0:08:50.61,0:08:52.76,Default,,0,0,0,,Proč by někdo posílal takovou prasečárnu adresu rady?!
+Dialogue: 0,0:08:52.76,0:08:56.91,Default,,0,0,0,,Prezidenta najdeš touhle dobou někde u Třídy lítosti.
+Dialogue: 0,0:08:56.91,0:08:58.71,Default,,0,0,0,,Měla bys za ním zajít.
+Dialogue: 0,0:08:58.71,0:08:59.51,Default,,0,0,0,,Proč?
+Dialogue: 0,0:08:59.51,0:09:01.37,Default,,0,0,0,,Protože jsi...
+Dialogue: 0,0:09:04.90,0:09:07.15,Default,,0,0,0,,Hej! Co to je za šrumec?!
+Dialogue: 0,0:09:07.45,0:09:08.61,Default,,0,0,0,,Závod!
+Dialogue: 0,0:09:10.21,0:09:12.57,Default,,0,0,0,,Tak se ukaž, slečinko!
+Dialogue: 0,0:09:13.23,0:09:15.96,Default,,0,0,0,,Balíček pro prezidenta nechám na tobě.
 Dialogue: 0,0:09:15.49,0:09:17.20,date,,0,0,0,,{\fad(300,0)\an8\bord3\shad0\blur0.8\alpha&H30\c&H251F2A&\3c&H48E6F4&\pos(1647,91.5)}{\p1}m 0 0 l 465 0 465 270 0 270{\p0}
 Dialogue: 0,0:09:15.82,0:09:16.45,date,,0,0,0,,{\an8\fs48\bord0\shad0\blur0.8\c&H33DEEA&\pos(1647,124.5)\b1}Ritual Summons \NWork's Title \N"When One Falls Asleep" \NOperate 5 Times
-Dialogue: 0,0:09:37.01,0:09:40.18,Default,,0,0,0,,The chancellor and Kimi, eh?
+Dialogue: 0,0:09:37.01,0:09:40.18,Default,,0,0,0,,Prezident a Kimi...
 Dialogue: 0,0:09:45.31,0:09:47.77,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}3:03 P.M. \N Musashi Ariadust Academy Student Dorms
 Dialogue: 1,0:09:45.31,0:09:47.77,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}3:03 P.M. \N Musashi Ariadust Academy Student Dorms
 Dialogue: 2,0:09:45.31,0:09:47.77,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}3:03 P.M. \N Musashi Ariadust Academy Student Dorms
-Dialogue: 0,0:09:50.02,0:09:51.72,Default,,0,0,0,,You should come on in.
-Dialogue: 0,0:09:51.72,0:09:52.69,Default,,0,0,0,,What's keeping you?
-Dialogue: 0,0:09:52.69,0:09:56.24,Default,,0,0,0,,A-Are you sure?
-Dialogue: 0,0:10:02.23,0:10:06.79,Default,,0,0,0,,Um, the Academy assigned me here as of today.
-Dialogue: 0,0:10:06.79,0:10:07.95,Default,,0,0,0,,That's fine.
-Dialogue: 0,0:10:07.95,0:10:10.63,Default,,0,0,0,,It's not like I've never shared a room before.
-Dialogue: 0,0:10:10.63,0:10:13.32,Default,,0,0,0,,Although, it will be my first time with a boy.
-Dialogue: 0,0:10:13.32,0:10:14.46,Default,,0,0,0,,I-In that case—
-Dialogue: 0,0:10:14.96,0:10:16.59,Default,,0,0,0,,We'll just have to adjust.
-Dialogue: 0,0:10:17.46,0:10:19.89,Default,,0,0,0,,A-Are you sure you don't mind living with a boy?
-Dialogue: 0,0:10:19.89,0:10:21.98,Default,,0,0,0,,Would you leave if I asked?
-Dialogue: 0,0:10:21.98,0:10:26.11,Default,,0,0,0,,After you first arrived, you went and requested a different room.
-Dialogue: 0,0:10:26.11,0:10:30.19,Default,,0,0,0,,But it was rejected, so you've been standing outside the door.
-Dialogue: 0,0:10:30.19,0:10:31.71,Default,,0,0,0,,Y-Yeah...
-Dialogue: 0,0:10:31.71,0:10:37.11,Default,,0,0,0,,Can you promise me something?
-Dialogue: 0,0:10:37.11,0:10:38.07,Default,,0,0,0,,Promise?
-Dialogue: 0,0:10:38.07,0:10:39.09,Default,,0,0,0,,Right.
-Dialogue: 0,0:10:39.09,0:10:42.04,Default,,0,0,0,,We mustn't interfere with each other's personal affairs.
-Dialogue: 0,0:10:42.04,0:10:43.15,Default,,0,0,0,,Let's see.
-Dialogue: 0,0:10:43.15,0:10:44.75,Default,,0,0,0,,An extreme example would be
-Dialogue: 0,0:10:44.75,0:10:49.50,Default,,0,0,0,,that I couldn't complain even if you came back with a girl.
-Dialogue: 0,0:10:49.50,0:10:51.63,Default,,0,0,0,,I'd never do that!
-Dialogue: 0,0:10:52.85,0:10:54.09,Default,,0,0,0,,I'm teasing!
-Dialogue: 0,0:10:55.48,0:10:57.42,Default,,0,0,0,,Do you know who I admire?
-Dialogue: 0,0:10:59.47,0:11:01.34,Default,,0,0,0,,People who are dense, but earnest.
-Dialogue: 0,0:11:03.21,0:11:04.35,Default,,0,0,0,,Uh...
-Dialogue: 0,0:11:04.35,0:11:09.06,Default,,0,0,0,,I don't question those who are dense and earnest.
-Dialogue: 0,0:11:20.09,0:11:23.16,Default,,0,0,0,,You can come back if you're afraid,
-Dialogue: 0,0:11:23.16,0:11:24.37,Default,,0,0,0,,my silly brother.
-Dialogue: 0,0:11:25.48,0:11:26.50,Default,,0,0,0,,Whoo!
-Dialogue: 0,0:11:28.21,0:11:28.90,Default,,0,0,0,,Huh?
-Dialogue: 0,0:11:28.90,0:11:29.37,Default,,0,0,0,,Whoo!
-Dialogue: 0,0:11:31.71,0:11:35.35,Default,,0,0,0,,You just had to destroy the mood right when it was getting good.
-Dialogue: 0,0:11:35.35,0:11:37.01,Default,,0,0,0,,What's Tori doing?
-Dialogue: 0,0:11:37.01,0:11:39.13,Default,,0,0,0,,Is that some new game?
-Dialogue: 0,0:11:39.13,0:11:41.26,Default,,0,0,0,,Or should I go whack him?
-Dialogue: 0,0:11:42.47,0:11:45.75,Default,,0,0,0,,Teacher, I heard you were drinking in the cafeteria,
-Dialogue: 0,0:11:45.75,0:11:47.47,Default,,0,0,0,,so what brought you out here?
-Dialogue: 0,0:11:47.47,0:11:51.45,Default,,0,0,0,,I just needed to cool off, I guess.
-Dialogue: 0,0:11:53.72,0:11:56.28,Default,,0,0,0,,Oh, don't use your hands!
-Dialogue: 0,0:11:56.28,0:11:58.23,Default,,0,0,0,,It will damage your hair.
-Dialogue: 0,0:11:58.23,0:11:59.97,Default,,0,0,0,,Just leave it to me.
-Dialogue: 0,0:12:06.73,0:12:09.71,Default,,0,0,0,,What's so funny, Teacher?
+Dialogue: 0,0:09:50.02,0:09:51.72,Default,,0,0,0,,Nechceš jít dovnitř?
+Dialogue: 0,0:09:51.72,0:09:52.69,Default,,0,0,0,,Nestůj tam tak.
+Dialogue: 0,0:09:52.69,0:09:56.24,Default,,0,0,0,,O - opravdu?
+Dialogue: 0,0:10:02.23,0:10:06.79,Default,,0,0,0,,Řekli mi, že se sem mám nastěhovat.
+Dialogue: 0,0:10:06.79,0:10:07.95,Default,,0,0,0,,V pohodě.
+Dialogue: 0,0:10:07.95,0:10:10.63,Default,,0,0,0,,Na spolubydlící jsem zvyklá.
+Dialogue: 0,0:10:10.63,0:10:13.32,Default,,0,0,0,,I když ještě jsem teda nebydlela s klukem.
+Dialogue: 0,0:10:13.32,0:10:14.46,Default,,0,0,0,,Tak já radši...
+Dialogue: 0,0:10:14.96,0:10:16.59,Default,,0,0,0,,Jde jenom o zvyk.
+Dialogue: 0,0:10:17.46,0:10:19.89,Default,,0,0,0,,Fakt ti nevadí mít na pokoji kluka?
+Dialogue: 0,0:10:19.89,0:10:21.98,Default,,0,0,0,,Půjdeš pryč když ti řeknu?
+Dialogue: 0,0:10:21.98,0:10:26.11,Default,,0,0,0,,Oběhal jsi celou školu, aby tě přeložili a ono nic.
+Dialogue: 0,0:10:26.11,0:10:30.19,Default,,0,0,0,,Takže jsi se nakonec vrátil a zůstal stát za dveřmi, že?
+Dialogue: 0,0:10:30.19,0:10:31.71,Default,,0,0,0,,Jo...
+Dialogue: 0,0:10:31.71,0:10:37.11,Default,,0,0,0,,Můžeš mi slíbit jednu věc?
+Dialogue: 0,0:10:37.11,0:10:38.07,Default,,0,0,0,,Slíbit?
+Dialogue: 0,0:10:38.07,0:10:39.09,Default,,0,0,0,,Jo.
+Dialogue: 0,0:10:39.09,0:10:42.04,Default,,0,0,0,,Nebudeme si navzájem kecat do života.
+Dialogue: 0,0:10:42.04,0:10:43.15,Default,,0,0,0,,Třeba...
+Dialogue: 0,0:10:43.15,0:10:44.75,Default,,0,0,0,,Je to trochu extrém ale
+Dialogue: 0,0:10:44.75,0:10:49.50,Default,,0,0,0,,třeba když si přivedeš holku, já nesmím ani ceknout.
+Dialogue: 0,0:10:49.50,0:10:51.63,Default,,0,0,0,,To neudělám!
+Dialogue: 0,0:10:52.85,0:10:54.09,Default,,0,0,0,,Dělám si srandu!
+Dialogue: 0,0:10:55.48,0:10:57.42,Default,,0,0,0,,Víš, koho si vážím?
+Dialogue: 0,0:10:59.47,0:11:01.34,Default,,0,0,0,,Lidí, kteří berou věci šíleně vážně.
+Dialogue: 0,0:11:03.21,0:11:04.35,Default,,0,0,0,,Ok...
+Dialogue: 0,0:11:04.35,0:11:09.06,Default,,0,0,0,,Takovým lidem prostě nedokážu nevěřit.
+Dialogue: 0,0:11:20.09,0:11:23.16,Default,,0,0,0,,Vždycky se můžeš vrátit, jestli tě to tak děsí.
+Dialogue: 0,0:11:23.16,0:11:24.37,Default,,0,0,0,,Ty moje třeštidlo.
+Dialogue: 0,0:11:31.71,0:11:35.35,Default,,0,0,0,,Vždycky se ti daří zkazit atmosféru.
+Dialogue: 0,0:11:35.35,0:11:37.01,Default,,0,0,0,,Co ten Tóri provádí?
+Dialogue: 0,0:11:37.01,0:11:39.13,Default,,0,0,0,,Nějaká nová hra?
+Dialogue: 0,0:11:39.13,0:11:41.26,Default,,0,0,0,,Mám mu jít vyprášit kožich?
+Dialogue: 0,0:11:42.47,0:11:45.75,Default,,0,0,0,,Co vás sem přivádí?
+Dialogue: 0,0:11:45.75,0:11:47.47,Default,,0,0,0,,Slyšela jsem, že popíjíte v jídelně.
+Dialogue: 0,0:11:47.47,0:11:51.45,Default,,0,0,0,,Hodí se mi trocha čerstvého vzduchu.
+Dialogue: 0,0:11:53.72,0:11:56.28,Default,,0,0,0,,Vlasy si nesmíte rozčesávat rukama!
+Dialogue: 0,0:11:56.28,0:11:58.23,Default,,0,0,0,,Poškodíte si je.
+Dialogue: 0,0:11:58.23,0:11:59.97,Default,,0,0,0,,Nechte to na mně.
+Dialogue: 0,0:12:06.73,0:12:09.71,Default,,0,0,0,,Čemu se tak divně smějete?
 Dialogue: 0,0:12:09.71,0:12:10.93,Default,,0,0,0,,Well, see,
 Dialogue: 0,0:12:10.93,0:12:15.75,Default,,0,0,0,,I just remembered how an old lady in my neighborhood used to do this.
 Dialogue: 0,0:12:16.99,0:12:22.48,Default,,0,0,0,,Teacher, being drunk is no excuse for comparing me to an old woman.
