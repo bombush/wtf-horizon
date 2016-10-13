@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 03 - Commandos in Town (BD 1080
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 218
-Active Line: 225
-Video Position: 17535
+Scroll Position: 418
+Active Line: 424
+Video Position: 32623
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -110,7 +110,7 @@ Dialogue: 2,0:03:50.54,0:03:53.79,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\b
 Dialogue: 0,0:03:50.71,0:03:54.00,Default,,0,0,30,,Hele, fakt si nemyslíš, že jsme to s tím nákupem přehnaly?
 Dialogue: 0,0:03:54.00,0:03:55.98,Default,,0,0,0,,Podle mě toho máme tak akorát.
 Dialogue: 0,0:03:55.98,0:03:57.92,Default,,0,0,0,,Zítra bude oslava.
-Dialogue: 0,0:03:57.92,0:03:59.21,Default,,0,0,0,,Hm, oslava.  
+Dialogue: 0,0:03:57.92,0:03:59.21,Default,,0,0,0,,Hm, oslava.
 Dialogue: 0,0:03:59.21,0:04:01.96,Default,,0,0,0,,Hlavně abychon nedopadli neslavně.
 Dialogue: 0,0:04:04.64,0:04:07.31,Default,,0,0,0,,Ve vzduchu je docela nával.
 Dialogue: 0,0:04:07.73,0:04:10.58,Default,,0,0,0,,Hlídky z Tres España opustily stanoviště,
@@ -264,18 +264,17 @@ Dialogue: 0,0:11:47.47,0:11:51.45,Default,,0,0,0,,Hodí se mi trocha čerstvého
 Dialogue: 0,0:11:53.72,0:11:56.28,Default,,0,0,0,,Vlasy si nesmíte rozčesávat rukama!
 Dialogue: 0,0:11:56.28,0:11:58.23,Default,,0,0,0,,Poškodíte si je.
 Dialogue: 0,0:11:58.23,0:11:59.97,Default,,0,0,0,,Nechte to na mně.
-Dialogue: 0,0:12:06.73,0:12:09.71,Default,,0,0,0,,Čemu se tak divně smějete?
-Dialogue: 0,0:12:09.71,0:12:10.93,Default,,0,0,0,,Well, see,
-Dialogue: 0,0:12:10.93,0:12:15.75,Default,,0,0,0,,I just remembered how an old lady in my neighborhood used to do this.
-Dialogue: 0,0:12:16.99,0:12:22.48,Default,,0,0,0,,Teacher, being drunk is no excuse for comparing me to an old woman.
-Dialogue: 0,0:12:25.97,0:12:27.60,Default,,0,0,0,,What is it?
-Dialogue: 0,0:12:27.95,0:12:30.60,Default,,0,0,0,,You can do it. You can...
-Dialogue: 0,0:12:31.95,0:12:34.61,Default,,0,0,0,,Teacher, are you on my silly brother's side?
-Dialogue: 0,0:12:34.61,0:12:36.63,Default,,0,0,0,,You bet I am!
-Dialogue: 0,0:12:36.63,0:12:41.90,Default,,0,0,0,,I'll always side with everyone in our class, not just Tori.
-Dialogue: 0,0:12:41.90,0:12:46.19,Default,,0,0,0,,But I can't interfere with any student affairs.
-Dialogue: 0,0:12:46.19,0:12:47.12,Default,,0,0,0,,What's that?
-Dialogue: 0,0:12:49.96,0:12:51.83,Default,,0,0,0,,It's Masazumi.
+Dialogue: 0,0:12:06.73,0:12:09.71,Default,,0,0,0,,Chichotáte se jako bychom dělali nějaké nemravnosti.
+Dialogue: 0,0:12:09.71,0:12:10.93,Default,,0,0,0,,To ne,
+Dialogue: 0,0:12:10.93,0:12:15.75,Default,,0,0,0,,jenom jsem si vzpomněla, jak mě jako malou takhle česávala jedna stará paní ze sousedství.
+Dialogue: 0,0:12:16.99,0:12:22.48,Default,,0,0,0,,Mluvíte jako bych taky byla stará paní. To ani opilost neomlouvá.
+Dialogue: 0,0:12:25.97,0:12:27.60,Default,,0,0,0,,Copak?
+Dialogue: 0,0:12:27.95,0:12:30.60,Default,,0,0,0,,Snaž se. Zvládneš to...
+Dialogue: 0,0:12:31.95,0:12:34.61,Default,,0,0,0,,Také fandíte mému střelenému bráškovi?
+Dialogue: 0,0:12:34.61,0:12:36.63,Default,,0,0,0,,Samozřejmě!
+Dialogue: 0,0:12:36.63,0:12:41.90,Default,,0,0,0,,A nejen Tórimu. Fandím celé třídě.
+Dialogue: 0,0:12:41.90,0:12:46.19,Default,,0,0,0,,Ale jako učitelka mohu vašim bojům jenom přihlížet.
+Dialogue: 0,0:12:49.96,0:12:51.83,Default,,0,0,0,,To je Masazumi.
 Dialogue: 0,0:12:54.75,0:12:57.75,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}3:35 P.M. \N Spiritual Shrine Heian, Okutama
 Dialogue: 1,0:12:54.75,0:12:57.75,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}3:35 P.M. \N Spiritual Shrine Heian, Okutama
 Dialogue: 2,0:12:54.75,0:12:57.75,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}3:35 P.M. \N Spiritual Shrine Heian, Okutama
@@ -284,195 +283,188 @@ Dialogue: 1,0:12:58.75,0:13:00.76,sign,,0,0,0,,{\fs105\bord1.95\c&H15181A&\4c&H1
 Dialogue: 0,0:12:58.75,0:13:00.76,sign,,0,0,0,,{\fs105\c&H15181A&\bord6.75\shad1.5\4c&H1D2123&\3c&H191E1F&\pos(648,975)}1618
 Dialogue: 0,0:12:58.75,0:13:00.76,sign,,0,0,0,,{\fs105\c&H15181A&\bord6.75\shad1.5\4c&H1D2123&\3c&H191E1F&\pos(1303.5,750)}Spiritual \NShrine \NHeian
 Dialogue: 0,0:13:02.84,0:13:04.34,sign,,0,0,0,,{\fs120\fscx105\yshad-0.75\xshad5.25\blur1.5\fax-0.3\frz23.11\c&H35383B&\pos(874.5,327)\3c&H827B83&}S{\c&H363C3D&}h{\c&H3C3E42&}o{\c&H414148&}men {\c&H4A444F&}Str{\c&H504554&}e{\c&H534359&}et
-Dialogue: 0,0:13:04.34,0:13:06.69,Default,,0,0,0,,I'm on the right path.
+Dialogue: 0,0:13:04.34,0:13:06.69,Default,,0,0,0,,Vypadá to, že jdu dobře.
 Dialogue: 0,0:13:11.64,0:13:18.57,INS,,0,0,0,,{\blur1.5}Rejoice, my child now is ten of age
 Dialogue: 0,0:13:17.71,0:13:18.95,Default,,0,0,0,,P-01s?
 Dialogue: 0,0:13:19.04,0:13:25.79,INS,,0,0,0,,{\blur1.5}and will need charms 'gainst heaven's rage
 Dialogue: 0,0:13:25.79,0:13:32.28,INS,,0,0,0,,{\blur1.5}The journey might be bliss eternal
 Dialogue: 0,0:13:32.28,0:13:36.18,INS,,0,0,0,,{\blur1.5}but downwards 'gain is
-Dialogue: 0,0:13:35.19,0:13:36.49,Default,,0,0,0,,Out at last!
+Dialogue: 0,0:13:35.19,0:13:36.49,Default,,0,0,0,,Konečně venku!
 Dialogue: 0,0:13:36.18,0:13:41.98,INS,,0,0,0,,{\blur1.5}fear infernal
-Dialogue: 0,0:13:39.70,0:13:43.21,Default,,0,0,0,,I've heard that voice a lot today.
-Dialogue: 0,0:13:50.00,0:13:53.43,Default,,0,0,0,,What are you doing here, Masazumi?
-Dialogue: 0,0:13:54.73,0:13:55.73,Default,,0,0,0,,{\i1}Father!
-Dialogue: 0,0:13:56.47,0:13:59.35,Default,,0,0,0,,There is still much for me to learn about Musashi,
-Dialogue: 0,0:13:59.35,0:14:01.35,Default,,0,0,0,,so I was investigating the area.
-Dialogue: 0,0:14:01.35,0:14:06.53,Default,,0,0,0,,Did you learn anything about the rest area in the woods you just stumbled out of?
-Dialogue: 0,0:14:07.17,0:14:09.22,Default,,0,0,0,,What about the rest area?
-Dialogue: 0,0:14:09.95,0:14:11.85,Default,,0,0,0,,Your research was insufficient
-Dialogue: 0,0:14:11.85,0:14:14.12,Default,,0,0,0,,if you didn't learn anything.
-Dialogue: 0,0:14:16.45,0:14:18.04,Default,,0,0,0,,Sir...
-Dialogue: 0,0:14:18.46,0:14:20.75,Default,,0,0,0,,Your son is holding a most unusual item.
-Dialogue: 0,0:14:20.75,0:14:21.71,Default,,0,0,0,,Huh?
-Dialogue: 0,0:14:21.71,0:14:26.05,Default,,0,0,0,,I accept items like that in my business deals.
-Dialogue: 0,0:14:26.05,0:14:28.85,Default,,0,0,0,,The first edition is most rare!
+Dialogue: 0,0:13:39.70,0:13:43.21,Default,,0,0,0,,Dneska jsem ji slyšela už hodněkrát.
+Dialogue: 0,0:13:50.00,0:13:53.43,Default,,0,0,0,,Masazumi. Co tu pohledáváš?
+Dialogue: 0,0:13:54.73,0:13:55.73,Default,,0,0,0,,{\i1}Otec!
+Dialogue: 0,0:13:56.47,0:13:59.35,Default,,0,0,0,,Ještě hodně toho o Musaši nevím,
+Dialogue: 0,0:13:59.35,0:14:01.35,Default,,0,0,0,,takže jsem se vydala na průzkum okolí.
+Dialogue: 0,0:14:01.35,0:14:06.53,Default,,0,0,0,,Dozvěděla ses v lese něco o místním odpočívadle?
+Dialogue: 0,0:14:07.17,0:14:09.22,Default,,0,0,0,,Je na něm něco zvláštního?
+Dialogue: 0,0:14:09.95,0:14:11.85,Default,,0,0,0,,Ničemu nerozumíš.
+Dialogue: 0,0:14:11.85,0:14:14.12,Default,,0,0,0,,Je vidět, že se máš hodně co učit.
+Dialogue: 0,0:14:16.45,0:14:18.04,Default,,0,0,0,,Váš syn...
+Dialogue: 0,0:14:18.46,0:14:20.75,Default,,0,0,0,,si nese moc zajímavou věc.
+Dialogue: 0,0:14:21.71,0:14:26.05,Default,,0,0,0,,Jsem z oboru, takže tomu rozumím.
+Dialogue: 0,0:14:26.05,0:14:28.85,Default,,0,0,0,,Vím, jak první edice umí být vzácné.
 Dialogue: 0,0:14:26.05,0:14:28.51,hand,,0,0,0,,{\an8\bord3.75\shad0\alpha&H40\c&HF6F2F4&\3c&HD16870&\pos(1371,18)}{\p1}m 0 0 l 1065 0 1065 270 0 270{\p0}
 Dialogue: 0,0:14:26.05,0:14:28.51,hand,,0,0,0,,{\an7\fs57\fsp0.45\bord0\blur0.8\pos(856.5,15)}Musashi, Far East Okutama\NMusashi Ariadust Academy\NTo: Student Council\N\NLightning Delivery
 Dialogue: 0,0:14:26.05,0:14:28.51,hand,,0,0,0,,{\an7\fs57\fsp0.45\bord0\blur0.8\pos(1311,16.5)}Breakable!\N"Highest Peak! The Virgin Queen Elizabeth,\N1st Edition."
-Dialogue: 0,0:14:28.85,0:14:30.04,Default,,0,0,0,,Oh, no, this is...
-Dialogue: 0,0:14:30.04,0:14:32.57,Default,,0,0,0,,I don't know what it is, but let him have a look at it.
-Dialogue: 0,0:14:35.20,0:14:38.46,Default,,0,0,0,,But this is my friend's...
+Dialogue: 0,0:14:28.85,0:14:30.04,Default,,0,0,0,,Tohle není...
+Dialogue: 0,0:14:30.04,0:14:32.57,Default,,0,0,0,,Nevím, o čem že se bavíte, ale podej mu ten balíček.
+Dialogue: 0,0:14:35.20,0:14:38.46,Default,,0,0,0,,Ale tohle je pro kamaráda...
 Dialogue: 0,0:14:38.46,0:14:39.44,Default,,0,0,0,,Masazumi!
-Dialogue: 0,0:14:50.97,0:14:52.04,Default,,0,0,0,,Hey!
-Dialogue: 0,0:14:52.96,0:14:54.04,Default,,0,0,0,,Huh?
-Dialogue: 0,0:14:54.04,0:14:56.75,Default,,0,0,0,,Sweet! Good job, Seijun!
-Dialogue: 0,0:14:56.75,0:14:57.71,Default,,0,0,0,,Thanks a bunch!
-Dialogue: 0,0:14:57.71,0:14:59.33,Default,,0,0,0,,I just gotta play this tonight,
-Dialogue: 0,0:14:59.33,0:15:01.46,Default,,0,0,0,,and Knight and Naruze were taking forever!
-Dialogue: 0,0:15:01.46,0:15:04.03,Default,,0,0,0,,Aoi, you look awful!
-Dialogue: 0,0:15:04.03,0:15:04.89,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:15:04.89,0:15:07.26,Default,,0,0,0,,Don't worry, I'm just winded from running!
-Dialogue: 0,0:15:07.77,0:15:10.54,Default,,0,0,0,,Tomorrow, I'm gonna tell the girl I love how I feel.
-Dialogue: 0,0:15:10.54,0:15:12.55,Default,,0,0,0,,So we're partying on campus tonight.
-Dialogue: 0,0:15:12.55,0:15:13.48,Default,,0,0,0,,You coming?
-Dialogue: 0,0:15:13.48,0:15:15.10,Default,,0,0,0,,Of course not!
-Dialogue: 0,0:15:15.10,0:15:16.52,Default,,0,0,0,,It's against school rules.
-Dialogue: 0,0:15:16.52,0:15:18.18,Default,,0,0,0,,If I'm going anywhere, it's to see Mikawa's fireworks.
-Dialogue: 0,0:15:19.71,0:15:21.98,Default,,0,0,0,,I was really hoping you'd make it.
-Dialogue: 0,0:15:21.98,0:15:24.90,Default,,0,0,0,,You know the girl I'm gonna confess to really well.
-Dialogue: 0,0:15:25.47,0:15:27.28,Default,,0,0,0,,W-Wait a sec!
-Dialogue: 0,0:15:27.28,0:15:28.90,Default,,0,0,0,,This won't take a lot of time, will it?
-Dialogue: 0,0:15:29.32,0:15:32.24,Default,,0,0,0,,I can't say!
-Dialogue: 0,0:15:36.21,0:15:37.68,Default,,0,0,0,,I'm sorry about that.
-Dialogue: 0,0:15:37.68,0:15:38.94,Default,,0,0,0,,No worries.
-Dialogue: 0,0:15:38.94,0:15:42.74,Default,,0,0,0,,I'm surprised to see the Master of Remorse Way out here.
-Dialogue: 0,0:15:42.74,0:15:44.88,Default,,0,0,0,,It's been a good decade!
-Dialogue: 0,0:15:44.88,0:15:47.72,Default,,0,0,0,,The Master of Remorse Way?
-Dialogue: 0,0:15:48.71,0:15:50.99,Default,,0,0,0,,Look over there.
-Dialogue: 0,0:15:50.99,0:15:51.97,Default,,0,0,0,,Okay...
-Dialogue: 0,0:15:52.43,0:15:57.22,Default,,0,0,0,,A girl died in an accident around here a long time ago.
-Dialogue: 0,0:15:57.22,0:15:58.97,Default,,0,0,0,,The one on the monument?
+Dialogue: 0,0:14:50.97,0:14:52.04,Default,,0,0,0,,Zdar.
+Dialogue: 0,0:14:54.04,0:14:56.75,Default,,0,0,0,,Supr! Dobrá práce, Seidžun!
+Dialogue: 0,0:14:56.75,0:14:57.71,Default,,0,0,0,,Moc díky!
+Dialogue: 0,0:14:57.71,0:14:59.33,Default,,0,0,0,,Potřeboval jsem to dneska dohrát,
+Dialogue: 0,0:14:59.33,0:15:01.46,Default,,0,0,0,,ale Knight a Naruze si s balíčkem dávaly strašně načas.
+Dialogue: 0,0:15:01.46,0:15:04.03,Default,,0,0,0,,Aoi, jsi celý zelený.
+Dialogue: 0,0:15:04.03,0:15:04.89,Default,,0,0,0,,Jsi v pořádku?
+Dialogue: 0,0:15:04.89,0:15:07.26,Default,,0,0,0,,V pohodě. Jenom jsem se trochu zadýchal.
+Dialogue: 0,0:15:07.77,0:15:10.54,Default,,0,0,0,,Zítra mě čeká vyznání lásky děvčeti mých snů,
+Dialogue: 0,0:15:10.54,0:15:12.55,Default,,0,0,0,,takže dnešní noc propaříme.
+Dialogue: 0,0:15:12.55,0:15:13.48,Default,,0,0,0,,Přijdeš?
+Dialogue: 0,0:15:13.48,0:15:15.10,Default,,0,0,0,,Samozřejmě, že ne!
+Dialogue: 0,0:15:15.10,0:15:16.52,Default,,0,0,0,,Je to proti školnímu řádu.
+Dialogue: 0,0:15:16.52,0:15:18.18,Default,,0,0,0,,Iestli někam večer půjdu, tak na ohňostroj v Mikawě.
+Dialogue: 0,0:15:19.71,0:15:21.98,Default,,0,0,0,,Doufal jsem, že se přidáš.
+Dialogue: 0,0:15:21.98,0:15:24.90,Default,,0,0,0,,Moje děvče totiž taky znáš.
+Dialogue: 0,0:15:25.47,0:15:27.28,Default,,0,0,0,,M-Moment!
+Dialogue: 0,0:15:27.28,0:15:28.90,Default,,0,0,0,,Nebudu z toho mít problémy, že?
+Dialogue: 0,0:15:29.32,0:15:32.24,Default,,0,0,0,,Kdoví!
+Dialogue: 0,0:15:36.21,0:15:37.68,Default,,0,0,0,,Omlouvám se.
+Dialogue: 0,0:15:37.68,0:15:38.94,Default,,0,0,0,,V pořádku.
+Dialogue: 0,0:15:38.94,0:15:42.74,Default,,0,0,0,,Nečekal jsem, že se tu potkám s Pánem Třídy lítosti.
+Dialogue: 0,0:15:42.74,0:15:44.88,Default,,0,0,0,,Už to bude deset let, že?
+Dialogue: 0,0:15:44.88,0:15:47.72,Default,,0,0,0,,Pán Třídy lítosti?
+Dialogue: 0,0:15:48.71,0:15:50.99,Default,,0,0,0,,Podívej.
+Dialogue: 0,0:15:52.43,0:15:57.22,Default,,0,0,0,,Tehdy tady při nehodě zemřela dívka.
+Dialogue: 0,0:15:57.22,0:15:58.97,Default,,0,0,0,,To je její památník, že?
 Dialogue: 0,0:15:58.97,0:15:59.60,Default,,0,0,0,,Judge.
 Dialogue: 0,0:15:59.60,0:16:05.86,Title,,0,0,0,,{\an2\fs54\fax0.3\shad0\bord1.2\blur0.8\frz346.45\move(954,327,805.5,174,27,6241)\c&H8E9199&\3c&HE8E2D8&}1638 \N May the young lady, \N Horizon A., rest in peace. \N ~Residents of Musashi
-Dialogue: 0,0:16:00.22,0:16:03.85,Default,,0,0,0,,Her name was Horizon Ariadust.
-Dialogue: 0,0:16:03.85,0:16:06.37,Default,,0,0,0,,Isn't Ariadust the Academy's name?
-Dialogue: 0,0:16:06.37,0:16:10.34,Default,,0,0,0,,When Lord Motonobu became the head of Mikawa thirty years ago,
-Dialogue: 0,0:16:10.34,0:16:12.46,Default,,0,0,0,,he took the first syllable in the Matsudaira name
-Dialogue: 0,0:16:12.46,0:16:14.63,Default,,0,0,0,,and flipped it backwards.
-Dialogue: 0,0:16:14.63,0:16:18.21,Default,,0,0,0,,Thus, he changed his name from Matsudaira to Ariadust.
-Dialogue: 0,0:16:18.21,0:16:21.54,Default,,0,0,0,,It was to show his allegiance to the Testament Union.
-Dialogue: 0,0:16:22.04,0:16:26.22,Default,,0,0,0,,The Testament Union acknowledged his loyalty and changed his name back,
-Dialogue: 0,0:16:26.22,0:16:29.98,Default,,0,0,0,,but there were some who kept that name.
-Dialogue: 0,0:16:30.43,0:16:32.45,Default,,0,0,0,,Haven't you heard?
-Dialogue: 0,0:16:32.45,0:16:35.64,Default,,0,0,0,,Lord Motonobu had a common-law wife and child.
-Dialogue: 0,0:16:35.96,0:16:37.35,Default,,0,0,0,,Well...
-Dialogue: 0,0:16:37.70,0:16:40.64,Default,,0,0,0,,The child's name was Horizon Ariadust.
-Dialogue: 0,0:16:40.64,0:16:41.90,Default,,0,0,0,,Don't forget it!
-Dialogue: 0,0:16:43.23,0:16:47.69,Default,,0,0,0,,Lady Horizon got into an accident with Lord Motonobu's carriage.
-Dialogue: 0,0:16:47.69,0:16:52.24,Default,,0,0,0,,He was headed for a function celebrating approval for repairs to Musashi.
-Dialogue: 0,0:16:59.47,0:17:02.33,Default,,0,0,0,,It will have been ten years tomorrow.
-Dialogue: 0,0:17:02.33,0:17:04.33,Default,,0,0,0,,It was a long time ago,
-Dialogue: 0,0:17:04.33,0:17:09.19,Default,,0,0,0,,but it must replay in real time for the Master of Remorse Way.
-Dialogue: 0,0:17:09.19,0:17:10.71,Default,,0,0,0,,The end results suggests
-Dialogue: 0,0:17:10.71,0:17:13.72,Default,,0,0,0,,that he killed Lady Horizon.
-Dialogue: 0,0:17:15.20,0:17:18.43,Default,,0,0,0,,What do you mean he killed her?
-Dialogue: 0,0:17:21.45,0:17:25.94,Default,,0,0,0,,Then what's the secret behind everyone's words "pursue the truth"?
-Dialogue: 0,0:17:26.37,0:17:29.21,Default,,0,0,0,,It's about Aoi Tori's "remorse".
-Dialogue: 0,0:17:29.21,0:17:32.78,Default,,0,0,0,,It's a play on words with Remorse Way.
-Dialogue: 0,0:17:35.57,0:17:40.03,Default,,0,0,0,,He was injured when they rushed him and Lady Horizon to Mikawa.
-Dialogue: 0,0:17:40.60,0:17:43.24,Default,,0,0,0,,But he came back alone.
-Dialogue: 0,0:17:43.24,0:17:44.91,Default,,0,0,0,,All that remained was his remorse.
-Dialogue: 0,0:17:46.21,0:17:50.47,Default,,0,0,0,,Then, how is he still able to laugh?
-Dialogue: 0,0:17:52.21,0:17:55.51,Default,,0,0,0,,Why does everyone give him their support?
-Dialogue: 0,0:17:55.97,0:17:57.95,Default,,0,0,0,,"Why," eh?
-Dialogue: 0,0:17:58.72,0:18:01.31,Default,,0,0,0,,Will you pursue this, Masazumi,
-Dialogue: 0,0:18:01.31,0:18:03.93,Default,,0,0,0,,and see where his remorse takes him?
-Dialogue: 0,0:18:03.93,0:18:05.45,Default,,0,0,0,,I'm running late for my meeting.
-Dialogue: 0,0:18:05.45,0:18:06.39,Default,,0,0,0,,We're finished here.
-Dialogue: 0,0:18:10.96,0:18:16.47,Default,,0,0,0,,{\i1}So I'm still in the dark, huh?
+Dialogue: 0,0:16:00.22,0:16:03.85,Default,,0,0,0,,Jmenovala se Horizon Ariadust.
+Dialogue: 0,0:16:03.85,0:16:06.37,Default,,0,0,0,,Ariadust... to má ve jméně i naše akademie.
+Dialogue: 0,0:16:06.37,0:16:10.34,Default,,0,0,0,,Když se před třiceti lety stal pán Motonobu vládcem Mikawy,
+Dialogue: 0,0:16:10.34,0:16:12.46,Default,,0,0,0,,začal jméno svého rodu psát pozpátku
+Dialogue: 0,0:16:12.46,0:16:14.63,Default,,0,0,0,,a bez první slabiky.
+Dialogue: 0,0:16:14.63,0:16:18.21,Default,,0,0,0,,Tak se z Matsudairy stal Ariadust.
+Dialogue: 0,0:16:18.21,0:16:21.54,Default,,0,0,0,,Chtěl tím vyjádřit svoji podřízenost Unii Testamentu.
+Dialogue: 0,0:16:22.04,0:16:26.22,Default,,0,0,0,,Unie jeho gesto přijala a na oplátku mu vrátila původní jméno.
+Dialogue: 0,0:16:26.22,0:16:29.98,Default,,0,0,0,,Ale někteří členové rodu si ponechali jméno převrácené.
+Dialogue: 0,0:16:30.43,0:16:32.45,Default,,0,0,0,,Nikdy jsi neslyšela o tom,
+Dialogue: 0,0:16:32.45,0:16:35.64,Default,,0,0,0,,že pán Motonobu měl neoficiální manželku a dceru.
+Dialogue: 0,0:16:35.96,0:16:37.35,Default,,0,0,0,,To znamená...
+Dialogue: 0,0:16:37.70,0:16:40.64,Default,,0,0,0,,Dcera se jmenovalo Horizon Ariadust.
+Dialogue: 0,0:16:40.64,0:16:41.90,Default,,0,0,0,,Dobře si to zapamatuj.
+Dialogue: 0,0:16:43.23,0:16:47.69,Default,,0,0,0,,Slečnu Horizon srazil vůz pána Motonobua.
+Dialogue: 0,0:16:47.69,0:16:52.24,Default,,0,0,0,,Mířil zrovna na ceremonii při příležitosti schválení oprav na Musaši.
+Dialogue: 0,0:16:59.47,0:17:02.33,Default,,0,0,0,,Zítra to bude deset let.
+Dialogue: 0,0:17:02.33,0:17:04.33,Default,,0,0,0,,Je to už dávno,
+Dialogue: 0,0:17:04.33,0:17:09.19,Default,,0,0,0,,ale lítost Pána Třídy lítosti je stále živá.
+Dialogue: 0,0:17:09.19,0:17:10.71,Default,,0,0,0,,Jednoduše řečeno,
+Dialogue: 0,0:17:10.71,0:17:13.72,Default,,0,0,0,,to on zabil slečnu Horizon.
+Dialogue: 0,0:17:15.20,0:17:18.43,Default,,0,0,0,,Co myslíte tím, že ji zabil?
+Dialogue: 0,0:17:21.45,0:17:25.94,Default,,0,0,0,,O čem tedy všichni mluví, když říkají "hledej pravdu"?
+Dialogue: 0,0:17:26.37,0:17:29.21,Default,,0,0,0,,Je to lítost Tóriho Aoie.
+Dialogue: 0,0:17:29.21,0:17:32.78,Default,,0,0,0,,Lítost, kterou v sobě nese název ulice.
+Dialogue: 0,0:17:35.57,0:17:40.03,Default,,0,0,0,,Protože byl také zraněný, odvezli jej se slečnou Horizon do Mikawy.
+Dialogue: 0,0:17:40.60,0:17:43.24,Default,,0,0,0,,Ale zpět se vrátil sám.
+Dialogue: 0,0:17:43.24,0:17:44.91,Default,,0,0,0,,Jediné, co zůstalo, je jeho lítost.
+Dialogue: 0,0:17:46.21,0:17:50.47,Default,,0,0,0,,Jaktože se pořád dokáže smát?
+Dialogue: 0,0:17:52.21,0:17:55.51,Default,,0,0,0,,Proč ho všichni tak podporují?
+Dialogue: 0,0:17:55.97,0:17:57.95,Default,,0,0,0,,Proč, to je otázka.
+Dialogue: 0,0:17:58.72,0:18:01.31,Default,,0,0,0,,Masazumi. Budeš tedy následovat
+Dialogue: 0,0:18:01.31,0:18:03.93,Default,,0,0,0,,stopy jeho lístosti?
+Dialogue: 0,0:18:03.93,0:18:05.45,Default,,0,0,0,,Pospíchám na schůzku.
+Dialogue: 0,0:18:05.45,0:18:06.39,Default,,0,0,0,,Skončíme to.
+Dialogue: 0,0:18:10.96,0:18:16.47,Default,,0,0,0,,{\i1}Znamená to, že jsem stále nic nepochopila?
 Dialogue: 0,0:18:20.45,0:18:23.95,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}6:09 P.M. \N Above the Normal Land Port, Mikawa
 Dialogue: 1,0:18:20.45,0:18:23.95,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}6:09 P.M. \N Above the Normal Land Port, Mikawa
 Dialogue: 2,0:18:20.45,0:18:23.95,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}6:09 P.M. \N Above the Normal Land Port, Mikawa
-Dialogue: 0,0:18:33.56,0:18:34.55,Default,,0,0,0,,Isn't that...
-Dialogue: 0,0:18:35.34,0:18:40.98,Default,,0,0,0,,Indeed. It is the "Peerless Man of the East" Honda Tadakatsu's daughter, Honda Futayo.
-Dialogue: 0,0:18:40.98,0:18:45.64,Default,,0,0,0,,Please stand proudly and look straight ahead,
-Dialogue: 0,0:18:45.64,0:18:49.21,Default,,0,0,0,,"Peerless Man of the West" Tachibana Muneshige.
-Dialogue: 0,0:18:50.43,0:18:52.15,Default,,0,0,0,,I know.
-Dialogue: 0,0:18:52.15,0:18:56.99,Default,,0,0,0,,My current job is to keep an eye on Mikawa and the Pope President.
-Dialogue: 0,0:18:57.46,0:18:59.49,Default,,0,0,0,,Despite my inability to do anything but fight,
-Dialogue: 0,0:18:59.49,0:19:03.12,Default,,0,0,0,,they treat me like quite the political pawn.
-Dialogue: 0,0:19:04.46,0:19:06.79,Default,,0,0,0,,Please do not lose.
-Dialogue: 0,0:19:06.79,0:19:09.21,Default,,0,0,0,,Do not bring me sadness.
-Dialogue: 0,0:19:11.97,0:19:12.96,Default,,0,0,0,,Very well.
+Dialogue: 0,0:18:33.56,0:18:34.55,Default,,0,0,0,,Není to náhodou...
+Dialogue: 0,0:18:35.34,0:18:40.98,Default,,0,0,0,,Ano. Je to Futajo Honda, dcera Hondy Tadakacua řečeného "titán východních krajů".
+Dialogue: 0,0:18:40.98,0:18:45.64,Default,,0,0,0,,Ale vy byste se měl snažit tvářit víc jako nezlomný bojovník.
+Dialogue: 0,0:18:45.64,0:18:49.21,Default,,0,0,0,,Jste přeci "titán západních krajů", Munešige Tačibana.
+Dialogue: 0,0:18:50.43,0:18:52.15,Default,,0,0,0,,Já vím.
+Dialogue: 0,0:18:52.15,0:18:56.99,Default,,0,0,0,,V tuto chvíli je mojí rolí držet Mikawu a prezidenta-papeže pod dohledem.
+Dialogue: 0,0:18:57.46,0:18:59.49,Default,,0,0,0,,Sice neumím než bojovat,
+Dialogue: 0,0:18:59.49,0:19:03.12,Default,,0,0,0,,ale nezdráhají se mě využít ani jako figurku v politice.
+Dialogue: 0,0:19:04.46,0:19:06.79,Default,,0,0,0,,Snažte se neprohrát.
+Dialogue: 0,0:19:06.79,0:19:09.21,Default,,0,0,0,,Moc by mě to zarmoutilo.
+Dialogue: 0,0:19:11.97,0:19:12.96,Default,,0,0,0,,Rozumím.
 Dialogue: 0,0:19:15.04,0:19:18.51,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fad(400,600)\an7\pos(215,650)}7:00 P.M. \N Kakamigahara Guard Post, Mikawa
 Dialogue: 1,0:19:15.04,0:19:18.51,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}7:00 P.M. \N Kakamigahara Guard Post, Mikawa
 Dialogue: 2,0:19:15.04,0:19:18.51,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}7:00 P.M. \N Kakamigahara Guard Post, Mikawa
-Dialogue: 0,0:19:16.46,0:19:19.18,Default,,0,0,0,,B1T3 to B2T3.
-Dialogue: 0,0:19:19.18,0:19:21.18,Default,,0,0,0,,We're on duty, so no standing.
-Dialogue: 0,0:19:21.18,0:19:22.57,Default,,0,0,0,,I can see you from here!
-Dialogue: 0,0:19:23.75,0:19:26.01,Default,,0,0,0,,But I was sitting!
+Dialogue: 0,0:19:16.46,0:19:19.18,Default,,0,0,0,,Tady B1T3. Volám B2T3.
+Dialogue: 0,0:19:19.18,0:19:21.18,Default,,0,0,0,,Ve službě se nestojí.
+Dialogue: 0,0:19:21.18,0:19:22.57,Default,,0,0,0,,Je tě vidět až sem.
+Dialogue: 0,0:19:23.75,0:19:26.01,Default,,0,0,0,,Ale vždyť jsem byl v podřepu.
 Dialogue: 0,0:19:36.69,0:19:39.65,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fad(400,600)\an7\pos(215,650)}7:30 P.M. \N Musashi Ariadust Academy
 Dialogue: 1,0:19:36.69,0:19:39.65,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}7:30 P.M. \N Musashi Ariadust Academy
 Dialogue: 2,0:19:36.69,0:19:39.65,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}7:30 P.M. \N Musashi Ariadust Academy
-Dialogue: 0,0:19:37.47,0:19:40.03,Default,,0,0,38,,So then, is everyone here?
+Dialogue: 0,0:19:37.47,0:19:40.03,Default,,0,0,38,,Tak co, jste tu všichni?
 Dialogue: 0,0:19:40.03,0:19:41.18,Default,,0,0,0,,Judge.
-Dialogue: 0,0:19:41.18,0:19:43.28,Default,,0,0,0,,Tori isn't here yet.
-Dialogue: 0,0:19:43.28,0:19:46.66,Default,,0,0,0,,And what'd you do with the elementary schoolers living here?
-Dialogue: 0,0:19:46.66,0:19:49.21,Default,,0,0,0,,Fool! Their parents are the ones who matter!
-Dialogue: 0,0:19:49.21,0:19:50.54,Default,,0,0,0,,They pay the bills.
-Dialogue: 0,0:19:50.54,0:19:52.33,Default,,0,0,0,,Shiro, you rock!
-Dialogue: 0,0:19:52.33,0:19:53.48,Default,,0,0,0,,Excuse me...
-Dialogue: 0,0:19:54.21,0:19:55.46,Default,,0,0,0,,What is it, Asama?
-Dialogue: 0,0:19:55.46,0:19:59.72,Default,,0,0,0,,I'd like to warn everyone about something before we begin the exorcism.
-Dialogue: 0,0:19:59.72,0:20:01.46,Default,,0,0,0,,Fine, go ahead.
-Dialogue: 0,0:20:01.46,0:20:02.92,Default,,0,0,0,,But don't spend any money.
-Dialogue: 0,0:20:02.92,0:20:04.43,Default,,0,0,0,,I won't.
-Dialogue: 0,0:20:04.43,0:20:08.46,Default,,0,0,0,,You know how rumor has it that the end of the world is coming?
-Dialogue: 0,0:20:08.46,0:20:11.02,Default,,0,0,0,,Supernatural events have been occurring across the land.
-Dialogue: 0,0:20:11.47,0:20:16.36,Default,,0,0,0,,One you should be aware of is the spiriting away of entities into Lost Nobles.
-Dialogue: 0,0:20:16.36,0:20:19.86,Default,,0,0,0,,Most consider these events urban legends,
-Dialogue: 0,0:20:19.86,0:20:23.53,Default,,0,0,0,,but last year a case was reported in the Far East.
-Dialogue: 0,0:20:24.20,0:20:26.76,Default,,0,0,0,,It was Masazumi's mother.
-Dialogue: 0,0:20:28.83,0:20:32.08,Default,,0,0,0,,I-I can't listen to this!
-Dialogue: 0,0:20:29.45,0:20:32.08,Default,,0,0,0,,Kimi, I know you can't stand scary stories, but really!
-Dialogue: 0,0:20:32.08,0:20:33.48,Default,,0,0,0,,Pipe down over there!
-Dialogue: 0,0:20:33.48,0:20:34.39,Default,,0,0,0,,Be quiet!
-Dialogue: 0,0:20:34.39,0:20:35.63,Default,,0,0,0,,Kimi, calm down!
-Dialogue: 0,0:20:35.63,0:20:37.40,Default,,0,0,0,,Okay, I'm late!
-Dialogue: 0,0:20:37.40,0:20:38.57,Default,,0,0,0,,Sorry, my bad!
-Dialogue: 0,0:20:38.57,0:20:40.38,Default,,0,0,0,,The prep took a while.
-Dialogue: 0,0:20:40.38,0:20:41.63,Default,,0,0,0,,Let's get started!
-Dialogue: 0,0:20:41.99,0:20:44.88,Default,,0,0,0,,He isn't hiding the fact that he set traps, huh?
-Dialogue: 0,0:20:44.88,0:20:46.34,Default,,0,0,0,,Nope...
+Dialogue: 0,0:19:41.18,0:19:43.28,Default,,0,0,0,,Pořád čekáme na Tóriho.
+Dialogue: 0,0:19:43.28,0:19:46.66,Default,,0,0,0,,A co s místními dětmi?
+Dialogue: 0,0:19:46.66,0:19:49.21,Default,,0,0,0,,Pitomče! Důležití jsou jejich rodiče!
+Dialogue: 0,0:19:49.21,0:19:50.54,Default,,0,0,0,,Ti mají peníze.
+Dialogue: 0,0:19:50.54,0:19:52.33,Default,,0,0,0,,To je opravdový muž.
+Dialogue: 0,0:19:52.33,0:19:53.48,Default,,0,0,0,,Můžu?
+Dialogue: 0,0:19:54.21,0:19:55.46,Default,,0,0,0,,Povídej, Asamo.
+Dialogue: 0,0:19:55.46,0:19:59.72,Default,,0,0,0,,Něco bych vám chtěla říct, než začneme s vymítáním.
+Dialogue: 0,0:19:59.72,0:20:01.46,Default,,0,0,0,,Dobře. Povídej.
+Dialogue: 0,0:20:01.46,0:20:02.92,Default,,0,0,0,,Ale ať to nestojí ani halíř.
+Dialogue: 0,0:20:02.92,0:20:04.43,Default,,0,0,0,,Nebude.
+Dialogue: 0,0:20:04.43,0:20:08.46,Default,,0,0,0,,Víte, jak lidí říkají, že se blíží konec světa?
+Dialogue: 0,0:20:08.46,0:20:11.02,Default,,0,0,0,,Záhadné úkazy se objevují všude možně,
+Dialogue: 0,0:20:11.47,0:20:16.36,Default,,0,0,0,,ale měli bychom se mít na pozoru především před Krvavou princeznou.
+Dialogue: 0,0:20:16.36,0:20:19.86,Default,,0,0,0,,Byla považována za starou městskou legendu,
+Dialogue: 0,0:20:19.86,0:20:23.53,Default,,0,0,0,,ale loni došlo k jejímu zjevení i na Dálném východě.
+Dialogue: 0,0:20:24.20,0:20:26.76,Default,,0,0,0,,Odnesla Masazuminu maminku.
+Dialogue: 0,0:20:28.83,0:20:32.08,Default,,0,0,0,,Ne, nic neposlouchám!
+Dialogue: 0,0:20:29.45,0:20:32.08,Default,,0,0,0,,Chápu, že tě duchařské historky děsí, ale nepřeháníš to?
+Dialogue: 0,0:20:32.08,0:20:33.48,Default,,0,0,0,,Přestaňte dělat virvál!
+Dialogue: 0,0:20:33.48,0:20:34.39,Default,,0,0,0,,Ztište to trochu!
+Dialogue: 0,0:20:34.39,0:20:35.63,Default,,0,0,0,,Kimi, uklidni se!
+Dialogue: 0,0:20:35.63,0:20:37.40,Default,,0,0,0,,Oukej! Trochu mi to trvalo!
+Dialogue: 0,0:20:37.40,0:20:38.57,Default,,0,0,0,,Soráč, děcka!
+Dialogue: 0,0:20:38.57,0:20:40.38,Default,,0,0,0,,Přípravy něco zaberou.
+Dialogue: 0,0:20:40.38,0:20:41.63,Default,,0,0,0,,Dáme se do toho!
+Dialogue: 0,0:20:41.99,0:20:44.88,Default,,0,0,0,,Ani nezkouší zakrýt, že tam něco nastražil.
+Dialogue: 0,0:20:44.88,0:20:46.34,Default,,0,0,0,,To ne...
 Dialogue: 0,0:20:46.34,0:20:49.35,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}7:44 P.M. \N Hallway in Front of the Library
 Dialogue: 1,0:20:46.34,0:20:49.35,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}7:44 P.M. \N Hallway in Front of the Library
 Dialogue: 2,0:20:46.34,0:20:49.35,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}7:44 P.M. \N Hallway in Front of the Library
-Dialogue: 0,0:20:47.98,0:20:49.81,Default,,0,0,0,,How's it look, Asamachi?
-Dialogue: 0,0:20:49.81,0:20:53.08,Default,,0,0,0,,I haven't seen a damn thing.
-Dialogue: 0,0:20:53.08,0:20:56.97,Default,,0,0,0,,I hope they make some kind of ghostly noise that we can recognize.
-Dialogue: 0,0:20:56.97,0:20:59.57,Default,,0,0,0,,I-I can't handle noises!
-Dialogue: 0,0:21:00.14,0:21:01.25,Default,,0,0,0,,It's okay.
-Dialogue: 0,0:21:01.25,0:21:03.31,Default,,0,0,0,,There's nothing around here.
-Dialogue: 0,0:21:03.31,0:21:06.03,Default,,0,0,0,,But well, over there...
-Dialogue: 0,0:21:11.82,0:21:12.47,Default,,0,0,0,,Bullseye!
-Dialogue: 0,0:21:12.47,0:21:13.68,Default,,0,0,0,,Wh-What?!
-Dialogue: 0,0:21:13.68,0:21:15.07,Default,,0,0,0,,What was over there?!
-Dialogue: 0,0:21:15.07,0:21:17.79,Default,,0,0,0,,Don't worry about it.
-Dialogue: 0,0:21:17.79,0:21:19.90,Default,,0,0,0,,You'll be fine as long as you stay close.
-Dialogue: 0,0:21:19.90,0:21:21.67,Default,,0,0,0,,That doesn't make me feel any better!
-Dialogue: 0,0:21:22.97,0:21:27.39,Default,,0,0,0,,Adele, you should've brought your mechanic shell if you're so freaked out.
-Dialogue: 0,0:21:27.69,0:21:31.64,Default,,0,0,0,,Nah, it's an older model, so it's insanely heavy.
-Dialogue: 0,0:21:31.64,0:21:32.49,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:21:33.10,0:21:35.31,spell,,0,0,0,,{\fs90\fscx135\shad1.8\blur1\4c&H5E4E31&\c&H2E2616&\pos(949.5,534)}Library
-Dialogue: 0,0:21:33.93,0:21:35.31,Default,,0,0,0,,The library?
-Dialogue: 0,0:21:35.73,0:21:39.45,Default,,0,0,0,,Right. This is where our job ends.
-Dialogue: 0,0:21:42.97,0:21:44.07,Default,,0,0,0,,Now, then...
-Dialogue: 0,0:21:54.70,0:21:55.71,Default,,0,0,0,,{\i1}What are they?
-Dialogue: 0,0:21:57.44,0:21:59.13,Default,,0,0,0,,New faces!
-Dialogue: 0,0:22:05.96,0:22:08.46,Default,,0,0,0,,Hey, moron! What'd you do?!
-Dialogue: 0,0:22:08.46,0:22:10.00,Default,,0,0,0,,I didn't do anything.
-Dialogue: 0,0:22:10.00,0:22:10.97,Default,,0,0,0,,I asked them to!
-Dialogue: 0,0:22:11.48,0:22:12.34,Default,,0,0,0,,Who?!
-Dialogue: 0,0:22:12.34,0:22:14.56,Default,,0,0,0,,It better be someone we can pay off.
-Dialogue: 0,0:22:14.56,0:22:16.09,Default,,0,0,0,,Yahoo!
-Dialogue: 0,0:22:16.09,0:22:16.48,Default,,0,0,0,,Huh?
-Dialogue: 0,0:22:18.19,0:22:20.44,Default,,0,0,0,,Waha!
-Dialogue: 0,0:22:25.72,0:22:28.11,Default,,0,0,0,,{\i1}Until then, I believed
-Dialogue: 0,0:22:28.96,0:22:33.20,Default,,0,0,0,,{\i1}we wouldn't change even if Tori confessed his feelings.
-Dialogue: 0,0:22:33.20,0:22:35.75,Default,,0,0,0,,{\i1}I thought the world would never change.
+Dialogue: 0,0:20:47.98,0:20:49.81,Default,,0,0,0,,Jak to vypadá, Asamači?
+Dialogue: 0,0:20:49.81,0:20:53.08,Default,,0,0,0,,Nevidím ani ň.
+Dialogue: 0,0:20:53.08,0:20:56.97,Default,,0,0,0,,Bylo by fajn kdyby bylo slyšet aspoň nějaké zvuky - třeba škrábání nebo tak.
+Dialogue: 0,0:20:56.97,0:20:59.57,Default,,0,0,0,,Zvuky mě děsí!
+Dialogue: 0,0:21:00.14,0:21:01.25,Default,,0,0,0,,Neboj se.
+Dialogue: 0,0:21:01.25,0:21:03.31,Default,,0,0,0,,Tady nic není.
+Dialogue: 0,0:21:03.31,0:21:06.03,Default,,0,0,0,,Ale co třeba támhle...
+Dialogue: 0,0:21:11.82,0:21:12.47,Default,,0,0,0,,Trefa!
+Dialogue: 0,0:21:12.47,0:21:13.68,Default,,0,0,0,,C-co?!
+Dialogue: 0,0:21:13.68,0:21:15.07,Default,,0,0,0,,Co tam je?!
+Dialogue: 0,0:21:15.07,0:21:17.79,Default,,0,0,0,,Neboj.
+Dialogue: 0,0:21:17.79,0:21:19.90,Default,,0,0,0,,Zůstaň s námi a budeš v bezpečí.
+Dialogue: 0,0:21:19.90,0:21:21.67,Default,,0,0,0,,To nám moc na klidu nepřidá.
+Dialogue: 0,0:21:22.97,0:21:27.39,Default,,0,0,0,,Jestli se bojíš, měla sis vzít svůj mechanický krunýř.
+Dialogue: 0,0:21:27.69,0:21:31.64,Default,,0,0,0,,Je to už starý model, tak je děsně těžký.
+Dialogue: 0,0:21:33.10,0:21:35.31,spell,,0,0,0,,{\fs90\fscx135\shad1.8\blur1\4c&H5E4E31&\c&H2E2616&\pos(949.5,534)}Knihovna
+Dialogue: 0,0:21:33.93,0:21:35.31,Default,,0,0,0,,Knihovna?
+Dialogue: 0,0:21:35.73,0:21:39.45,Default,,0,0,0,,Správně. Tady náš úkol končí.
+Dialogue: 0,0:21:42.97,0:21:44.07,Default,,0,0,0,,Takže...
+Dialogue: 0,0:21:54.70,0:21:55.71,Default,,0,0,0,,{\i1}Co to je zač?
+Dialogue: 0,0:21:57.44,0:21:59.13,Default,,0,0,0,,Nové hodnoty!
+Dialogue: 0,0:22:05.96,0:22:08.46,Default,,0,0,0,,Ty magore! Cos tam nastražil?!
+Dialogue: 0,0:22:08.46,0:22:10.00,Default,,0,0,0,,Já nic.
+Dialogue: 0,0:22:10.00,0:22:10.97,Default,,0,0,0,,Najal jsem si lidi.
+Dialogue: 0,0:22:11.48,0:22:12.34,Default,,0,0,0,,Koho?!
+Dialogue: 0,0:22:12.34,0:22:14.56,Default,,0,0,0,,Doufám, že se doplatíme.
+Dialogue: 0,0:22:25.72,0:22:28.11,Default,,0,0,0,,{\i1}Do té doby jsem věřila,
+Dialogue: 0,0:22:28.96,0:22:33.20,Default,,0,0,0,,{\i1}že i po Tóriho vyznání zůstane vše při starém.
+Dialogue: 0,0:22:33.20,0:22:35.75,Default,,0,0,0,,{\i1}Celý svět že zůstane takový, jako vždy byl.
 Dialogue: 0,0:22:37.21,0:22:39.46,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,181)\c&HF3F2F3&}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
 Dialogue: 1,0:22:37.21,0:22:39.46,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,181)\c&HF3F2F3&}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
-Dialogue: 0,0:22:39.42,0:22:43.45,Default,,0,0,0,,{\i1}And that we would greet a happy tomorrow as always.
+Dialogue: 0,0:22:39.42,0:22:43.45,Default,,0,0,0,,{\i1}A že nás čeká další jeden den našich šťastných životů.
 Dialogue: 1,0:22:45.14,0:22:49.07,ED,,0,0,0,,{\blur1.5\fad(200,350)}Towards the sky strives
 Dialogue: 0,0:22:45.14,0:22:49.07,ED2,,0,0,0,,{\blur3\fad(200,350)}Towards the sky strives
 Dialogue: 1,0:22:49.57,0:22:56.34,ED,,0,0,0,,{\blur1.5\fad(200,350)}our sailing voyage across the real world
