@@ -18,9 +18,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 04 - Covert Ops Under the Night
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 200
-Active Line: 215
-Video Position: 17959
+Scroll Position: 356
+Active Line: 369
+Video Position: 32462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,160 +258,160 @@ Dialogue: 0,0:12:22.76,0:12:25.05,Default,,0,0,0,,Duch!
 Dialogue: 0,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}7:57 P.M. \N In Front of Sakakibara Manor
 Dialogue: 1,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}7:57 P.M. \N In Front of Sakakibara Manor
 Dialogue: 2,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}7:57 P.M. \N In Front of Sakakibara Manor
-Dialogue: 0,0:12:31.37,0:12:32.99,Default,,0,0,0,,The Kakamigahara Guard Post?
-Dialogue: 0,0:12:44.40,0:12:45.43,Default,,0,0,0,,Honda?
-Dialogue: 0,0:12:46.38,0:12:49.96,Default,,0,0,0,,You've sure gotten older if you couldn't dodge that!
-Dialogue: 0,0:12:52.04,0:12:53.17,Default,,0,0,0,,Slicing Dragonfly?
-Dialogue: 0,0:12:53.43,0:12:55.18,Default,,0,0,0,,That's a Shinto weapon!
-Dialogue: 0,0:13:12.07,0:13:13.54,Default,,0,0,0,,Hey, that noise!
-Dialogue: 0,0:13:14.10,0:13:15.00,Default,,0,0,0,,Is it coming from the ground?
-Dialogue: 0,0:13:15.00,0:13:17.19,Default,,0,0,0,,No, it's from deeper down.
-Dialogue: 0,0:13:17.61,0:13:18.23,Default,,0,0,0,,It's...
-Dialogue: 0,0:13:19.56,0:13:20.47,Default,,0,0,0,,The Earth's plates.
-Dialogue: 0,0:13:21.29,0:13:23.62,Default,,0,0,0,,Is it the Shin-Nagoya Platonic Plate Reactor?{weird name}
-Dialogue: 0,0:13:23.62,0:13:24.44,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:13:25.32,0:13:26.88,Default,,0,0,0,,We're starting a meltdown.
-Dialogue: 0,0:13:27.14,0:13:28.11,Default,,0,0,0,,You're what?!
+Dialogue: 0,0:12:31.37,0:12:32.99,Default,,0,0,0,,Strážnice v Kagamihaře?
+Dialogue: 0,0:12:44.40,0:12:45.43,Default,,0,0,0,,Hóňo?
+Dialogue: 0,0:12:46.38,0:12:49.96,Default,,0,0,0,,Začínáš dědkovatět. Tohle bys normálně přeskočil.
+Dialogue: 0,0:12:52.04,0:12:53.17,Default,,0,0,0,,To je Hbitá vážka.
+Dialogue: 0,0:12:53.43,0:12:55.18,Default,,0,0,0,,To je jedna z Božských zbraní!
+Dialogue: 0,0:13:12.07,0:13:13.54,Default,,0,0,0,,Co je to za zvuk?
+Dialogue: 0,0:13:14.10,0:13:15.00,Default,,0,0,0,,Něco pod nohama?
+Dialogue: 0,0:13:15.00,0:13:17.19,Default,,0,0,0,,Ne, je to mnohem hlouběji.
+Dialogue: 0,0:13:17.61,0:13:18.23,Default,,0,0,0,,To jsou...
+Dialogue: 0,0:13:19.56,0:13:20.47,Default,,0,0,0,,Tektonická tepna.
+Dialogue: 0,0:13:21.29,0:13:23.62,Default,,0,0,0,,To je Šin-nagojský tektonický reaktor.
+Dialogue: 0,0:13:23.62,0:13:24.44,Default,,0,0,0,,O co se to snažíte?!
+Dialogue: 0,0:13:25.32,0:13:26.88,Default,,0,0,0,,Necháme ho přehřát.
+Dialogue: 0,0:13:27.14,0:13:28.11,Default,,0,0,0,,Cože??
 Dialogue: 0,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,1200)\pos(1713,650)}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
 Dialogue: 1,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,1200)\pos(1713,650)}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
 Dialogue: 2,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,1200)\pos(1713,650)}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
 Dialogue: 0,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(1200,600)\pos(1713,650)}7:59 P.M. \NCentral Unification Reactor, Mikawa
 Dialogue: 1,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(1200,600)\pos(1713,650)}7:59 P.M. \NCentral Unification Reactor, Mikawa
 Dialogue: 2,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(1200,600)\pos(1713,650)}7:59 P.M. \NCentral Unification Reactor, Mikawa
-Dialogue: 0,0:13:39.78,0:13:43.29,Default,,0,0,0,,That'll destroy all of Mikawa, not just Nagoya!
-Dialogue: 0,0:13:43.29,0:13:45.47,Default,,0,0,0,,No one's left in Mikawa.
-Dialogue: 0,0:13:45.47,0:13:47.38,Default,,0,0,0,,It's just the automated dolls and us.
-Dialogue: 0,0:13:48.06,0:13:49.11,Default,,0,0,0,,What did you discover?
-Dialogue: 0,0:13:51.48,0:13:53.28,Default,,0,0,0,,I'm in the dark.
-Dialogue: 0,0:13:53.28,0:13:57.94,Default,,0,0,0,,Our lord has only informed me that this is the beginning of the Genesis Project.
-Dialogue: 0,0:13:58.12,0:13:58.83,spell,,0,0,0,,{\fad(200,200)\fs90\blur1.7\pos(1618.5,318)\c&HA38F7B&}{(brief flashback of the 10:33 typeset) - }Genesis Project
-Dialogue: 0,0:13:59.61,0:14:01.29,Default,,0,0,0,,The Genesis Project?
-Dialogue: 0,0:14:01.29,0:14:05.28,Default,,0,0,0,,I know that it could potentially save us all.
-Dialogue: 0,0:14:08.80,0:14:09.80,Default,,0,0,0,,I wouldn't do that!
-Dialogue: 0,0:14:09.80,0:14:10.74,Default,,0,0,0,,I'll bind you!
-Dialogue: 0,0:14:11.28,0:14:12.57,Default,,0,0,0,,You'll bind me?
-Dialogue: 0,0:14:13.18,0:14:15.72,Default,,0,0,0,,Slicing Dragonfly can sever things from existence.
-Dialogue: 0,0:14:15.72,0:14:17.84,Default,,0,0,0,,Is the Kakamigahara Guard Post burning...
-Dialogue: 0,0:14:17.84,0:14:20.00,Default,,0,0,0,,Because I severed the guards' very existence.
-Dialogue: 0,0:14:20.60,0:14:22.58,Default,,0,0,0,,Honda, why?!
-Dialogue: 0,0:14:22.85,0:14:24.31,Default,,0,0,0,,Go, Sakai.
-Dialogue: 0,0:14:24.31,0:14:27.50,Default,,0,0,0,,I don't have time to fiddle with you.
-Dialogue: 0,0:14:27.50,0:14:31.34,Default,,0,0,0,,Kazuno and I have to intercept those Testament Union bastards.
-Dialogue: 0,0:14:31.56,0:14:34.03,Default,,0,0,0,,Moron, they'll kill you!
-Dialogue: 0,0:14:34.28,0:14:35.19,Default,,0,0,0,,I don't care.
-Dialogue: 0,0:14:35.19,0:14:39.06,Default,,0,0,0,,My display of loyalty is to protect my lord's wishes and prevail.
-Dialogue: 0,0:14:39.57,0:14:43.29,Default,,0,0,0,,So Tadatsugu, where does your loyalty stand?
-Dialogue: 0,0:14:43.73,0:14:46.35,Default,,0,0,0,,Don't you want to see what happens next?
-Dialogue: 0,0:14:46.98,0:14:50.53,Default,,0,0,0,,So go, you no longer belong here.
-Dialogue: 0,0:14:52.76,0:14:53.57,Default,,0,0,0,,Honda!
-Dialogue: 0,0:14:55.00,0:14:56.53,Default,,0,0,0,,What about your daughter?
-Dialogue: 0,0:14:57.55,0:14:58.44,Default,,0,0,0,,Honda!
-Dialogue: 0,0:15:36.03,0:15:37.29,Default,,0,0,0,,What's that?
-Dialogue: 0,0:15:39.95,0:15:42.43,Default,,0,0,0,,We've reached a stop and shall begin turning back.
-Dialogue: 0,0:15:42.43,0:15:45.49,Default,,0,0,0,,Fluid output erupting from Shin-Nagoya Castle is increasing.
-Dialogue: 0,0:15:45.49,0:15:47.24,Default,,0,0,0,,Detection levels have increased a notch.
-Dialogue: 0,0:15:47.24,0:15:49.87,Default,,0,0,0,,Tres España's armed guard is taking action.
-Dialogue: 0,0:15:49.87,0:15:52.44,Default,,0,0,0,,A fleet of landing craft is approaching Mikawa.
-Dialogue: 0,0:15:52.44,0:15:57.49,Default,,0,0,0,,K.P.A. Italia put our call on hold rather than blocking it.
-Dialogue: 0,0:15:58.48,0:16:02.48,Default,,0,0,0,,The Testament Union ships dispatched the Gods of War and commenced an assault.
-Dialogue: 0,0:16:03.05,0:16:04.61,Default,,0,0,0,,Let them make their move.
-Dialogue: 0,0:16:04.61,0:16:05.20,Default,,0,0,0,,Ma'am?
-Dialogue: 0,0:16:05.60,0:16:09.32,Default,,0,0,0,,They'd use anti-aerial mountain gear for putting out a fire.
-Dialogue: 0,0:16:09.32,0:16:12.61,Default,,0,0,0,,But if this was all just a feint...
-Dialogue: 0,0:16:12.61,0:16:14.16,Default,,0,0,0,,You don't think Mikawa is...
-Dialogue: 0,0:16:14.68,0:16:20.00,Default,,0,0,0,,This way the Testament Union can force their armament into Mikawa.
-Dialogue: 0,0:16:20.90,0:16:21.87,Default,,0,0,0,,Lady Futayo!
-Dialogue: 0,0:16:24.22,0:16:26.12,Default,,0,0,0,,What would you have us do?
-Dialogue: 0,0:16:28.01,0:16:30.50,Default,,0,0,0,,Gather all officers on the ship.
+Dialogue: 0,0:13:39.78,0:13:43.29,Default,,0,0,0,,Pokud vybuchne, zničí Nagoju, ne-li celou Mikawu.
+Dialogue: 0,0:13:43.29,0:13:45.47,Default,,0,0,0,,Všichni lidé jsou z Mikawy už pryč.
+Dialogue: 0,0:13:45.47,0:13:47.38,Default,,0,0,0,,Zbyli jsme tu jen my dva a kyberloutky.
+Dialogue: 0,0:13:48.06,0:13:49.11,Default,,0,0,0,,Řekni mi, co víš.
+Dialogue: 0,0:13:51.48,0:13:53.28,Default,,0,0,0,,Já nevím nic.
+Dialogue: 0,0:13:53.28,0:13:57.94,Default,,0,0,0,,Pán mi řekl jenom, že se jedná o začátek projektu Genesis.
+Dialogue: 0,0:13:58.12,0:13:58.83,spell,,0,0,0,,{\fad(200,200)\fs90\blur1.7\pos(1618.5,318)\c&HA38F7B&}{(brief flashback of the 10:33 typeset) - }Projekt Genesis.
+Dialogue: 0,0:13:59.61,0:14:01.29,Default,,0,0,0,,Projekt Genesis?
+Dialogue: 0,0:14:01.29,0:14:05.28,Default,,0,0,0,,Projekt Genesis by mohl všechny zachránit.
+Dialogue: 0,0:14:08.80,0:14:09.80,Default,,0,0,0,,Přestaň!
+Dialogue: 0,0:14:09.80,0:14:10.74,Default,,0,0,0,,Přivážu tě!
+Dialogue: 0,0:14:11.28,0:14:12.57,Default,,0,0,0,,Přivážeš mě?
+Dialogue: 0,0:14:13.18,0:14:15.72,Default,,0,0,0,,Hbitá vážka dokáže zrušit vazbu idejí na realitu.
+Dialogue: 0,0:14:15.72,0:14:17.84,Default,,0,0,0,,Takže strážnice je v plamenech...
+Dialogue: 0,0:14:17.84,0:14:20.00,Default,,0,0,0,,Oddělil jsem od světa její samotnou ideu.
+Dialogue: 0,0:14:20.60,0:14:22.58,Default,,0,0,0,,Hóňo. Proč?
+Dialogue: 0,0:14:22.85,0:14:24.31,Default,,0,0,0,,Odejdi, Sakaii.
+Dialogue: 0,0:14:24.31,0:14:27.50,Default,,0,0,0,,Nemám čas se s tebou zabývat.
+Dialogue: 0,0:14:27.50,0:14:31.34,Default,,0,0,0,,Já a Kazuno teď vyrazíme naproti jednotkám Unie Testamentu.
+Dialogue: 0,0:14:31.56,0:14:34.03,Default,,0,0,0,,Pitomče! Zabijou tě!
+Dialogue: 0,0:14:34.28,0:14:35.19,Default,,0,0,0,,Nevadí.
+Dialogue: 0,0:14:35.19,0:14:39.06,Default,,0,0,0,,Věrnost k pánovi mi velí udělat vše pro jeho vítězství.
+Dialogue: 0,0:14:39.57,0:14:43.29,Default,,0,0,0,,Pověz mi, čemu jsi věrný ty, Tadacugu?
+Dialogue: 0,0:14:43.73,0:14:46.35,Default,,0,0,0,,Nechceš vědět, co se bude dít dál?
+Dialogue: 0,0:14:46.98,0:14:50.53,Default,,0,0,0,,Odejdi. Už tu pro tebe není místo.
+Dialogue: 0,0:14:52.76,0:14:53.57,Default,,0,0,0,,Hóňo!
+Dialogue: 0,0:14:55.00,0:14:56.53,Default,,0,0,0,,Co tvoje dcera?
+Dialogue: 0,0:14:57.55,0:14:58.44,Default,,0,0,0,,Hóňo!
+Dialogue: 0,0:15:36.03,0:15:37.29,Default,,0,0,0,,Co se děje?
+Dialogue: 0,0:15:39.95,0:15:42.43,Default,,0,0,0,,Dopředná rychlost nula. Zahajuji obrátku.
+Dialogue: 0,0:15:42.43,0:15:45.49,Default,,0,0,0,,Únik éteru z Šin-nagojského hradu. Tok se stále zvyšuje.
+Dialogue: 0,0:15:45.49,0:15:47.24,Default,,0,0,0,,Snižuji citlivost detektorů.
+Dialogue: 0,0:15:47.24,0:15:49.87,Default,,0,0,0,,Strážní loďstvo Tres España's se dává do pohybu.
+Dialogue: 0,0:15:49.87,0:15:52.44,Default,,0,0,0,,Do Mikawy míří skupina výsadkových člunů.
+Dialogue: 0,0:15:52.44,0:15:57.49,Default,,0,0,0,,K.P.A. Italia neodpovídá na volání. Komunikaci neblokuje.
+Dialogue: 0,0:15:58.48,0:16:02.48,Default,,0,0,0,,Lodě Unie Testamentu se daly do pohybu a vyslaly válečné bohy.
+Dialogue: 0,0:16:03.05,0:16:04.61,Default,,0,0,0,,Půjdeme jim na ruku.
+Dialogue: 0,0:16:04.61,0:16:05.20,Default,,0,0,0,,Paní?
+Dialogue: 0,0:16:05.60,0:16:09.32,Default,,0,0,0,,Jestli chtějí uhasit požár, musí přes hory nebo ze vzduchu.
+Dialogue: 0,0:16:09.32,0:16:12.61,Default,,0,0,0,,Jestli je to ale léčka...
+Dialogue: 0,0:16:12.61,0:16:14.16,Default,,0,0,0,,Myslíte, že Mikawu...
+Dialogue: 0,0:16:14.68,0:16:20.00,Default,,0,0,0,,Tahle situace dává Unii záminku k vylodění ozbrojených složek v Mikawě.
+Dialogue: 0,0:16:20.90,0:16:21.87,Default,,0,0,0,,Paní Futajo!
+Dialogue: 0,0:16:24.22,0:16:26.12,Default,,0,0,0,,Čekáme na rozkazy.
+Dialogue: 0,0:16:28.01,0:16:30.50,Default,,0,0,0,,Svolejte důstojnický sbor.
 Dialogue: 0,0:16:30.78,0:16:31.40,Default,,0,0,0,,Judge!
-Dialogue: 0,0:16:37.47,0:16:40.14,Default,,0,0,0,,{\i1}"Do as you like," eh, Father?
-Dialogue: 0,0:16:41.00,0:16:43.43,Default,,0,0,0,,{\i1}He wanted me to handle this myself.
-Dialogue: 0,0:16:44.60,0:16:47.39,Default,,0,0,0,,{\i1}What would Masazumi do?
+Dialogue: 0,0:16:37.47,0:16:40.14,Default,,0,0,0,,{\i1}Říkal jsi, že můžu dělat, co chci, otče?
+Dialogue: 0,0:16:41.00,0:16:43.43,Default,,0,0,0,,{\i1}Chtěl, abych si se situací poradila po svém.
+Dialogue: 0,0:16:44.60,0:16:47.39,Default,,0,0,0,,{\i1}Co by na mém místě dělala Masazumi?
 Dialogue: 0,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Deck Bow, Tama
 Dialogue: 1,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Deck Bow, Tama
 Dialogue: 2,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Deck Bow, Tama
-Dialogue: 0,0:16:49.63,0:16:50.69,Default,,0,0,0,,Isn't that...
-Dialogue: 0,0:16:51.11,0:16:52.99,Default,,0,0,0,,Have the fireworks begun?
-Dialogue: 0,0:16:53.20,0:16:54.87,Default,,0,0,0,,Fireworks? Fireworks?
-Dialogue: 0,0:16:58.64,0:17:01.09,Default,,0,0,0,,That's no firework.
-Dialogue: 0,0:17:01.09,0:17:02.78,Default,,0,0,0,,So, no fireworks?
-Dialogue: 0,0:17:02.78,0:17:04.24,Default,,0,0,0,,Too bad, so sad!
+Dialogue: 0,0:16:49.63,0:16:50.69,Default,,0,0,0,,Co se děje?
+Dialogue: 0,0:16:51.11,0:16:52.99,Default,,0,0,0,,Ohňostroj již začal?
+Dialogue: 0,0:16:53.20,0:16:54.87,Default,,0,0,0,,Ohňostroj? Ohňostroj?
+Dialogue: 0,0:16:58.64,0:17:01.09,Default,,0,0,0,,Tohle není žádný ohňostroj.
+Dialogue: 0,0:17:01.09,0:17:02.78,Default,,0,0,0,,Ohňostroj nebude?
+Dialogue: 0,0:17:02.78,0:17:04.24,Default,,0,0,0,,Škoda, škoda!
 Dialogue: 0,0:17:04.61,0:17:05.32,Default,,0,0,0,,Judge.
-Dialogue: 0,0:17:08.20,0:17:10.09,Default,,0,0,0,,We need to get away from here.
-Dialogue: 0,0:17:10.09,0:17:11.08,Default,,0,0,0,,And go where?
-Dialogue: 0,0:17:11.65,0:17:14.38,Default,,0,0,0,,We might learn something if we drop by Blue Thunder.
-Dialogue: 0,0:17:15.36,0:17:16.59,Default,,0,0,0,,Later!
-Dialogue: 0,0:17:41.20,0:17:43.00,Default,,0,0,0,,My power just went out!{oh cool, finally some mecha}
-Dialogue: 0,0:17:43.00,0:17:44.99,Default,,0,0,0,,That light absorbs power if you touch it!
-Dialogue: 0,0:17:44.99,0:17:47.34,Default,,0,0,0,,Damn, how do we handle that?!
-Dialogue: 0,0:17:47.34,0:17:48.58,Default,,0,0,0,,Notice from Base-1:
-Dialogue: 0,0:17:49.16,0:17:53.05,Default,,0,0,0,,It has been proposed that the Gods of War clear the way for the unit
-Dialogue: 0,0:17:53.05,0:17:56.10,Default,,0,0,0,,ordered to destroy the Platonic Plate Reactor in Shin-Nagoya Castle.
-Dialogue: 0,0:17:56.62,0:17:58.42,Default,,0,0,0,,But we're in anti-aerial gear!
-Dialogue: 0,0:17:58.42,0:18:00.66,Default,,0,0,0,,We will send backup.
+Dialogue: 0,0:17:08.20,0:17:10.09,Default,,0,0,0,,Pojďme radši jinam.
+Dialogue: 0,0:17:10.09,0:17:11.08,Default,,0,0,0,,Kam?
+Dialogue: 0,0:17:11.65,0:17:14.38,Default,,0,0,0,,Třeba nám něco řeknou v Blue Thunder.
+Dialogue: 0,0:17:15.36,0:17:16.59,Default,,0,0,0,,Ahojky!
+Dialogue: 0,0:17:41.20,0:17:43.00,Default,,0,0,0,,Přišel jsem o všechnu energii.
+Dialogue: 0,0:17:43.00,0:17:44.99,Default,,0,0,0,,To světlo vysává energii na dotyk.
+Dialogue: 0,0:17:44.99,0:17:47.34,Default,,0,0,0,,Jak si s tím máme poradit?!
+Dialogue: 0,0:17:47.34,0:17:48.58,Default,,0,0,0,,Hlášení z Base1:
+Dialogue: 0,0:17:49.16,0:17:53.05,Default,,0,0,0,,Podle nového plánu mají váleční bohové posloužit jako předvoj
+Dialogue: 0,0:17:53.05,0:17:56.10,Default,,0,0,0,,pozemním jednotkám s úkolem zničit Šin-nagojský reaktor.
+Dialogue: 0,0:17:56.62,0:17:58.42,Default,,0,0,0,,Pro pozemní boj nemáme výbavu!
+Dialogue: 0,0:17:58.42,0:18:00.66,Default,,0,0,0,,Vyšleme podpůrné jednotky.
 Dialogue: 0,0:18:00.66,0:18:01.70,Default,,0,0,0,,Tes!
-Dialogue: 0,0:18:02.64,0:18:05.33,Default,,0,0,0,,A1 and A2 are to charge in.
-Dialogue: 0,0:18:05.33,0:18:07.62,Default,,0,0,0,,A3 is to gather information and provide backup.
+Dialogue: 0,0:18:02.64,0:18:05.33,Default,,0,0,0,,A1 a A2. Povedete hlavní útok.
+Dialogue: 0,0:18:05.33,0:18:07.62,Default,,0,0,0,,A3 bude uržovat přehled nad bojištěm a krýt vás.
 Dialogue: 0,0:18:07.62,0:18:08.40,Default,,0,0,0,,Tes!
 Dialogue: 0,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Prefecture Highway 79, Mikawa
 Dialogue: 1,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Prefecture Highway 79, Mikawa
 Dialogue: 2,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Prefecture Highway 79, Mikawa
-Dialogue: 0,0:18:24.17,0:18:25.38,Default,,0,0,0,,One down.
-Dialogue: 0,0:18:35.68,0:18:36.94,Default,,0,0,0,,What happened, Zaragoza?
-Dialogue: 0,0:18:36.94,0:18:38.00,Default,,0,0,0,,You're losing altitude!
-Dialogue: 0,0:18:39.24,0:18:42.22,Default,,0,0,0,,H-HQ, we were fired upon from the ground.
-Dialogue: 0,0:18:42.59,0:18:45.01,Default,,0,0,0,,An automated doll fired at us!
-Dialogue: 0,0:18:45.39,0:18:48.10,Default,,0,0,0,,It's Kazuno from Mikawa's Honda clan!
-Dialogue: 0,0:18:53.54,0:18:54.84,Default,,0,0,0,,Horned witch!
-Dialogue: 0,0:18:55.54,0:18:56.79,Default,,0,0,0,,Swords at my command!
-Dialogue: 0,0:19:11.85,0:19:13.22,Default,,0,0,0,,A shield before me!
-Dialogue: 0,0:19:14.05,0:19:15.20,Default,,0,0,0,,Increase numbers.
-Dialogue: 0,0:19:37.44,0:19:38.57,Default,,0,0,0,,Reform.
-Dialogue: 0,0:19:55.89,0:19:58.01,Default,,0,0,0,,Hurry it up! We're running out of time.
-Dialogue: 0,0:19:58.01,0:19:59.15,Default,,0,0,0,,I know!
-Dialogue: 0,0:20:03.74,0:20:05.38,Default,,0,0,0,,It doesn't make sense.
-Dialogue: 0,0:20:05.70,0:20:06.28,Default,,0,0,0,,Excuse me?
-Dialogue: 0,0:20:06.28,0:20:10.27,Default,,0,0,0,,Why would the people of Mikawa trigger a meltdown in the Platonic Plate Reactor
-Dialogue: 0,0:20:10.27,0:20:12.93,Default,,0,0,0,,when it could destroy the whole prefecture?
-Dialogue: 0,0:20:13.44,0:20:18.44,Default,,0,0,0,,Master Muneshige, only Mikawa's locals know the answer to that.
-Dialogue: 0,0:20:19.75,0:20:22.20,Default,,0,0,0,,Then, I'll have to ask one.
-Dialogue: 0,0:20:26.95,0:20:28.41,Default,,0,0,0,,Isn't that pretty?
-Dialogue: 0,0:20:28.66,0:20:31.24,Default,,0,0,0,,{\i1}Are these Lord Motonobu's "fireworks"?
-Dialogue: 0,0:20:31.66,0:20:33.37,Default,,0,0,0,,{\i1}But this is...
-Dialogue: 0,0:20:34.14,0:20:36.29,Default,,0,0,0,,This is a man-made meltdown!
-Dialogue: 0,0:20:37.00,0:20:39.22,Default,,0,0,0,,Our communications indicate Mikawa's automated dolls
-Dialogue: 0,0:20:39.22,0:20:41.92,Default,,0,0,0,,are rising up against the Testament Union.
-Dialogue: 0,0:20:43.81,0:20:46.28,Default,,0,0,0,,I bet Kazuno is leading the rebellion.
-Dialogue: 0,0:20:46.28,0:20:50.02,Default,,0,0,0,,That means my father, Tadakatsu, is certainly involved in this.
-Dialogue: 0,0:20:50.02,0:20:54.66,Default,,0,0,0,,Lady Futayo, we could use this ship to aid Sir Tadakatsu.
-Dialogue: 0,0:20:55.18,0:21:00.02,Default,,0,0,0,,We must decide what course of action is most beneficial for the Far East.
-Dialogue: 0,0:21:00.66,0:21:02.04,Default,,0,0,0,,Any opinions on this?
-Dialogue: 0,0:21:02.04,0:21:02.55,Default,,0,0,0,,Ma'am!
-Dialogue: 0,0:21:03.56,0:21:06.72,Default,,0,0,0,,If Mikawa intentionally started the meltdown,
-Dialogue: 0,0:21:06.72,0:21:09.83,Default,,0,0,0,,the Testament Union will revoke its position as{check timing}
-Dialogue: 0,0:21:09.83,0:21:11.79,Default,,0,0,0,,the Far East's representative and lay claim to Musashi.
-Dialogue: 0,0:21:12.60,0:21:16.79,Default,,0,0,0,,They would gain a great deal if they overtook the Far East and Musashi.
-Dialogue: 0,0:21:16.79,0:21:20.78,Default,,0,0,0,,The worst-case scenario for us is the best-case for them.
-Dialogue: 0,0:21:23.52,0:21:28.12,Default,,0,0,0,,So we're the only ones who can stand between Musashi and the Testament Union.
-Dialogue: 0,0:21:28.53,0:21:32.05,Default,,0,0,0,,We had little contact with Musashi because we're from Mikawa.
-Dialogue: 0,0:21:33.41,0:21:34.10,Default,,0,0,0,,Lady Futayo?
-Dialogue: 0,0:21:34.47,0:21:40.48,Default,,0,0,0,,Right now, we should stand by and remain completely neutral.
-Dialogue: 0,0:21:40.99,0:21:44.04,Default,,0,0,0,,But doesn't that betray what's in your heart?
+Dialogue: 0,0:18:24.17,0:18:25.38,Default,,0,0,0,,Jedna potopená.
+Dialogue: 0,0:18:35.68,0:18:36.94,Default,,0,0,0,,Co se děje, Zaragozo?
+Dialogue: 0,0:18:36.94,0:18:38.00,Default,,0,0,0,,Ztrácíte výšku!
+Dialogue: 0,0:18:39.24,0:18:42.22,Default,,0,0,0,,D-dostali jsme zásah ze země.
+Dialogue: 0,0:18:42.59,0:18:45.01,Default,,0,0,0,,Zdroj projektilu je kyberloutka.
+Dialogue: 0,0:18:45.39,0:18:48.10,Default,,0,0,0,,Je to Kazuno z Mikawského rodu Honda.
+Dialogue: 0,0:18:53.54,0:18:54.84,Default,,0,0,0,,Rohatice!
+Dialogue: 0,0:18:55.54,0:18:56.79,Default,,0,0,0,,Meče dle rozkazu!
+Dialogue: 0,0:19:11.85,0:19:13.22,Default,,0,0,0,,Štít před zraky!
+Dialogue: 0,0:19:14.05,0:19:15.20,Default,,0,0,0,,Zvýšit počet.
+Dialogue: 0,0:19:37.44,0:19:38.57,Default,,0,0,0,,Přestavit.
+Dialogue: 0,0:19:55.89,0:19:58.01,Default,,0,0,0,,Pohyb! Nemáme čas.
+Dialogue: 0,0:19:58.01,0:19:59.15,Default,,0,0,0,,Já vím!
+Dialogue: 0,0:20:03.74,0:20:05.38,Default,,0,0,0,,Nedává to smysl.
+Dialogue: 0,0:20:05.70,0:20:06.28,Default,,0,0,0,,Prosím?
+Dialogue: 0,0:20:06.28,0:20:10.27,Default,,0,0,0,,Proč by v Mikawě sami zapříčinili přetížení reaktoru?
+Dialogue: 0,0:20:10.27,0:20:12.93,Default,,0,0,0,,Vždyť výbuch může zničit celou provincii.
+Dialogue: 0,0:20:13.44,0:20:18.44,Default,,0,0,0,,Pane Munešige, na tuto otázku znají odpověď jen Mikawané.
+Dialogue: 0,0:20:19.75,0:20:22.20,Default,,0,0,0,,Pak nezbývá, než se nějakého zeptat.
+Dialogue: 0,0:20:26.95,0:20:28.41,Default,,0,0,0,,Krása, že?
+Dialogue: 0,0:20:28.66,0:20:31.24,Default,,0,0,0,,{\i1}Tohle je tedy ted Motonobuův ohňostroj?
+Dialogue: 0,0:20:31.66,0:20:33.37,Default,,0,0,0,,{\i1}Ale to znamená...
+Dialogue: 0,0:20:34.14,0:20:36.29,Default,,0,0,0,,To přetížení je vyvolané záměrně!
+Dialogue: 0,0:20:37.00,0:20:39.22,Default,,0,0,0,,Zprávy indikují, že Mikawské kyberloutky
+Dialogue: 0,0:20:39.22,0:20:41.92,Default,,0,0,0,,se vzbouřily proti Unii Testamentu.
+Dialogue: 0,0:20:43.81,0:20:46.28,Default,,0,0,0,,Předpokládám, že vzpouru vede Kazuno.
+Dialogue: 0,0:20:46.28,0:20:50.02,Default,,0,0,0,,To znamená, že můj otec, pán Tadakacu je součástí vzpoury.
+Dialogue: 0,0:20:50.02,0:20:54.66,Default,,0,0,0,,Paní Futajo, naše loď může být pánu nápomocná.
+Dialogue: 0,0:20:55.18,0:21:00.02,Default,,0,0,0,,Musíme zvážit, nakolik naše kroky mohou prospět Dálnému východu.
+Dialogue: 0,0:21:00.66,0:21:02.04,Default,,0,0,0,,Návrhy?
+Dialogue: 0,0:21:02.04,0:21:02.55,Default,,0,0,0,,Paní!
+Dialogue: 0,0:21:03.56,0:21:06.72,Default,,0,0,0,,Pokud je Mikawa zodpovědná za přetížení reaktoru,
+Dialogue: 0,0:21:06.72,0:21:09.83,Default,,0,0,0,,Unie v reakci může odebrat Mikawě status představitele Dálného východu a
+Dialogue: 0,0:21:09.83,0:21:11.79,Default,,0,0,0,,obsadit Mikawu i Musaši.
+Dialogue: 0,0:21:12.60,0:21:16.79,Default,,0,0,0,,Plná vláda nad Dálným východem a Musaši pro Unii znamená velký zisk.
+Dialogue: 0,0:21:16.79,0:21:20.78,Default,,0,0,0,,Nejhorší výsledek pro nás je nejlepší výsledek pro Unii.
+Dialogue: 0,0:21:23.52,0:21:28.12,Default,,0,0,0,,Takže jsme jediní, kdo stojí mezi Unií a Musaši.
+Dialogue: 0,0:21:28.53,0:21:32.05,Default,,0,0,0,,Jakožto Mikawané máme s Musaši minimální kontakt.
+Dialogue: 0,0:21:33.41,0:21:34.10,Default,,0,0,0,,Paní Futajo?
+Dialogue: 0,0:21:34.47,0:21:40.48,Default,,0,0,0,,Nejlepši pro nás teď tedy bude zůstat stranou konfliktu.
+Dialogue: 0,0:21:40.99,0:21:44.04,Default,,0,0,0,,Nezradíte tím ale své osobní přesvědčení?
 Dialogue: 0,0:21:44.04,0:21:44.82,Default,,0,0,0,,Judge.
-Dialogue: 0,0:21:45.55,0:21:49.66,Default,,0,0,0,,Loyalty is only given meaning through one's actions.
-Dialogue: 0,0:21:51.91,0:21:52.92,Default,,0,0,0,,Very well.
-Dialogue: 0,0:21:54.08,0:21:56.56,Default,,0,0,0,,Head of Communications, contact the Testament Union.
-Dialogue: 0,0:21:56.56,0:21:59.46,Default,,0,0,0,,Tell them we wish to help in the event of an emergency.
+Dialogue: 0,0:21:45.55,0:21:49.66,Default,,0,0,0,,Smysl věrnosti spočívá v činech.
+Dialogue: 0,0:21:51.91,0:21:52.92,Default,,0,0,0,,Rozumím.
+Dialogue: 0,0:21:54.08,0:21:56.56,Default,,0,0,0,,Komunikační, vyšlete zprávu Unii Testamentu.
+Dialogue: 0,0:21:56.56,0:21:59.46,Default,,0,0,0,,Oznamte, že v případě potřeby jsme jim k dispozici.
 Dialogue: 0,0:21:59.46,0:22:00.17,Default,,0,0,0,,Judge!
-Dialogue: 0,0:22:00.17,0:22:01.25,Default,,0,0,0,,Entering standby!
-Dialogue: 0,0:22:01.25,0:22:02.73,Default,,0,0,0,,Await word from the Testament Union.
-Dialogue: 0,0:22:02.73,0:22:04.19,Default,,0,0,0,,Got that? We're on standby!
+Dialogue: 0,0:22:00.17,0:22:01.25,Default,,0,0,0,,Uveďte loď do pohotovostního režimu.
+Dialogue: 0,0:22:01.25,0:22:02.73,Default,,0,0,0,,Čekejte na odpověď od Unie.
+Dialogue: 0,0:22:02.73,0:22:04.19,Default,,0,0,0,,Srozuměno? Loď v pohotovostním režimu.
 Dialogue: 0,0:22:04.19,0:22:04.86,Default,,0,0,0,,Judge!
-Dialogue: 0,0:22:22.04,0:22:26.48,Default,,0,0,0,,{\i1}That night, our world began to change.{\i0}
-Dialogue: 0,0:22:26.79,0:22:31.74,Default,,0,0,0,,{\i1}When I awoke this morning, I thought this world would never change.{\i0}
-Dialogue: 0,0:22:32.61,0:22:36.45,Default,,0,0,0,,{\i1}The days I thought would last forever drew to an end,{\i0}
-Dialogue: 0,0:22:36.89,0:22:40.20,Default,,0,0,0,,{\i1}as we embarked on a journey with no return.{\i0}
-Dialogue: 0,0:22:41.37,0:22:45.13,Default,,0,0,0,,{\i1}Not that I knew that back then.{\i0}
+Dialogue: 0,0:22:22.04,0:22:26.48,Default,,0,0,0,,{\i1}Tu noc se náš svět změnil.{\i0}
+Dialogue: 0,0:22:26.79,0:22:31.74,Default,,0,0,0,,{\i1}Ráno jsem myslela jsem, že nás čeká den jako každý jiný.{\i0}
+Dialogue: 0,0:22:32.61,0:22:36.45,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života se ale začínal hroutit{\i0}
+Dialogue: 0,0:22:36.89,0:22:40.20,Default,,0,0,0,,{\i1}a my jsme se vydali na cestu bez návratu.{\i0}
+Dialogue: 0,0:22:41.37,0:22:45.13,Default,,0,0,0,,{\i1}Tehdy jsem ještě o ničem nevěděl.{\i0}
 Dialogue: 0,0:22:45.98,0:22:54.72,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}I gather my dented courage and walk forward
 Dialogue: 0,0:22:54.72,0:23:03.15,ED-4,,0,0,0,,{\fad(200,800)\blur1.6}because I swore to myself I would create my own future
 Dialogue: 0,0:23:03.76,0:23:12.92,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}Shower your light, O Star, upon the melody sprung forth here

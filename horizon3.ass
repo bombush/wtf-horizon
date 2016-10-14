@@ -54,7 +54,7 @@ Dialogue: 0,0:00:19.26,0:00:25.52,INS,,0,0,0,,{\fad(300,500)\blur1.5}Walk yonder
 Dialogue: 0,0:00:23.12,0:00:24.87,Default,,0,0,0,,{\i1}Nebylo na něm nic zvláštního.
 Dialogue: 0,0:00:25.39,0:00:27.75,Default,,0,0,0,,{\i1}Svět vypadal stejně jako vždy.
 Dialogue: 0,0:00:26.14,0:00:32.98,INS,,0,0,0,,{\fad(300,200)\blur1.5}Set out now, perchance to find
-Dialogue: 0,0:00:30.63,0:00:35.61,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života
+    Dialogue: 0,0:00:30.63,0:00:35.61,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života
 Dialogue: 0,0:00:32.98,0:00:39.70,INS,,0,0,0,,{\fad(300,200)\blur1.5}the narrow path to Gods does wind
 Dialogue: 0,0:00:37.40,0:00:39.35,Default,,0,0,0,,{\i1}se ale začínal hroutit.
 Dialogue: 0,0:00:39.70,0:00:46.25,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Do not say such, its perils much
