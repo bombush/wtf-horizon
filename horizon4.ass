@@ -50,7 +50,7 @@ Dialogue: 0,0:00:15.11,0:00:18.40,Default,,0,0,0,,{\i1}To ráno bylo stejné jak
 Dialogue: 0,0:00:20.33,0:00:22.04,Default,,0,0,0,,{\i1}Nebylo na něm nic zvláštního.{\i0}
 Dialogue: 0,0:00:22.04,0:00:28.30,INS,,0,0,0,,{\fad(300,500)\blur1.5}Walk yonder path, walk yonder path
 Dialogue: 0,0:00:22.75,0:00:24.63,Default,,0,0,0,,{\i1}Svět vypadal stejně jako vždy.{\i0}
-Dialogue: 0,0:00:27.06,0:00:33.12,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života se ale začínal hroutit.{\i0}
+Dialogue: 0,0:00:27.06,0:00:33.12,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života se ale začínal hro        utit.{\i0}
 Dialogue: 0,0:00:28.92,0:00:35.76,INS,,0,0,0,,{\fad(300,200)\blur1.5}Set out now, perchance to find
 Dialogue: 0,0:00:35.76,0:00:42.48,INS,,0,0,0,,{\fad(300,200)\blur1.5}the narrow path to Gods does wind
 Dialogue: 0,0:00:42.48,0:00:49.03,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Do not say such, its perils much
@@ -290,7 +290,7 @@ Dialogue: 0,0:14:01.29,0:14:05.28,Default,,0,0,0,,Projekt Genesis by mohl všech
 Dialogue: 0,0:14:08.80,0:14:09.80,Default,,0,0,0,,Přestaň!
 Dialogue: 0,0:14:09.80,0:14:10.74,Default,,0,0,0,,Přivážu tě!
 Dialogue: 0,0:14:11.28,0:14:12.57,Default,,0,0,0,,Přivážeš mě?
-Dialogue: 0,0:14:13.18,0:14:15.72,Default,,0,0,0,,Hbitá vážka dokáže zrušit vazbu idejí na realitu.
+Dialogue: 0,0:14:13.18,0:14:15.72,Default,,0,0,0,,Hbitá vážka dokáže zrušit oddělit od světa samotné ideje.
 Dialogue: 0,0:14:15.72,0:14:17.84,Default,,0,0,0,,Takže strážnice je v plamenech...
 Dialogue: 0,0:14:17.84,0:14:20.00,Default,,0,0,0,,Oddělil jsem od světa její samotnou ideu.
 Dialogue: 0,0:14:20.60,0:14:22.58,Default,,0,0,0,,Hóňo. Proč?

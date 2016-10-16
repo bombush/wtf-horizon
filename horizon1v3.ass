@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 82
-Active Line: 95
-Video Position: 8537
+Scroll Position: 116
+Active Line: 122
+Video Position: 10812
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,25 +37,25 @@ Style: date2,Thames,135,&H00FFFFFF,&H00FFFFFF,&H00899294,&H00000000,0,0,0,0,105,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.99,0:00:15.99,date,TODO,0,0,0,,{\shad0\bord0\blur20\an2\c&HFFFFFF&\fad(580,900)\pos(970,435)\fscx102\fscy110\t(\fs75)}1457, Testament Era    Mt. Yoshino
-Dialogue: 1,0:00:10.99,0:00:15.99,date,,0,0,0,,{\blur1.6\1c&H899294&\an2\fad(580,900)\pos(970,435)\fscx102\fscy110\t(\fs75)}1457, Testament Era    Mt. Yoshino
-Dialogue: 2,0:00:10.99,0:00:15.99,date,,0,0,0,,{\shad0\bord0\an2\fad(580,900)\pos(970,435)\blur1\fscx102\fscy110\t(\fs75)}1457, Testament Era    Mt. Yoshino
+Dialogue: 0,0:00:10.99,0:00:15.99,date,TODO,0,0,0,,{\shad0\bord0\blur20\an2\c&HFFFFFF&\fad(580,900)\pos(970,435)\fscx102\fscy110\t(\fs75)}Léta Testamentu 1457, hora Jošino
+Dialogue: 1,0:00:10.99,0:00:15.99,date,,0,0,0,,{\blur1.6\1c&H899294&\an2\fad(580,900)\pos(970,435)\fscx102\fscy110\t(\fs75)}Léta Testamentu 1457, hora Jošino
+Dialogue: 2,0:00:10.99,0:00:15.99,date,,0,0,0,,{\shad0\bord0\an2\fad(580,900)\pos(970,435)\blur1\fscx102\fscy110\t(\fs75)}Léta Testamentu 1457, hora Jošino
 Dialogue: 0,0:01:02.66,0:01:14.18,INS,,0,0,0,,{\fad(100,500)\blur1.5}Walk yonder path, walk yonder path
-Dialogue: 0,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(100,100)\fs75\move(995,780,977,780)}April 20, 1648, Testament Era
-Dialogue: 1,0:01:16.52,0:01:30.80,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,200)\move(995,780,977,780)\fs75}April 20, 1648, Testament Era
-Dialogue: 2,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,200)\move(995,780,977,780)\fs75}April 20, 1648, Testament Era
+Dialogue: 0,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(100,100)\fs75\move(995,780,977,780)}20. duben, léta Testamentu 1648
+Dialogue: 1,0:00:43.23,0:00:46.81,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,200)\move(995,780,977,780)\fs75}20. duben, léta Testamentu 1648
+Dialogue: 2,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,200)\move(995,780,977,780)\fs75}20. duben, léta Testamentu 1648
 Dialogue: 0,0:00:49.15,0:00:55.99,INS,,0,0,0,,{\fad(200,200)\blur1.5}Set out now, perchance to find
-Dialogue: 0,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fs75\fad(100,100)\move(1000,780,982,780)}7:58 A.M., Cemetery in Okutama
-Dialogue: 1,0:00:49.23,0:00:52.65,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,100)\move(1000,780,982,780)\fs75}7:58 A.M., Cemetery in Okutama
-Dialogue: 2,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,100)\move(1000,780,982,780)\fs75}7:58 A.M., Cemetery in Okutama
+Dialogue: 0,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fs75\fad(100,100)\move(1000,780,982,780)}7:58, hřbitov v Okutamě
+Dialogue: 1,0:00:49.23,0:00:52.65,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,100)\move(1000,780,982,780)\fs75}7:58, hřbitov v Okutamě
+Dialogue: 2,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,100)\move(1000,780,982,780)\fs75}7:58, hřbitov v Okutamě
 Dialogue: 0,0:00:55.99,0:01:02.71,INS,,0,0,0,,{\fad(200,200)\blur1.5}the narrow path to Gods does wind
 Dialogue: 0,0:01:02.71,0:01:09.26,INS,,0,0,0,,{\fad(200,200)\blur1.5}Do not say such, its perils much
 Dialogue: 0,0:01:09.26,0:01:16.35,INS,,0,0,0,,{\fad(200,500)\blur1.5}Rejoice, my child now is ten of age
 Dialogue: 0,0:01:16.35,0:01:22.94,INS,,0,0,0,,{\fad(400,200)\blur1.5}and will need charms 'gainst heaven's rage
 Dialogue: 0,0:01:23.40,0:01:29.82,INS,,0,0,0,,{\fad(200,200)\blur1.5}The journey might be bliss eternal
-Dialogue: 0,0:01:26.85,0:01:30.31,Title,,0,0,0,,{\fs39\shad0\bord0\blur0.8\3c&HDAECDE&\move(1194,358.5,1113,357,0,3450)\c&H918772&\frz357.609}1638 \N May the young lady, \N Horizon A., rest in peace. \N ~Residents of Musashi
+Dialogue: 0,0:01:26.85,0:01:30.31,Title,,0,0,0,,{\fs39\shad0\bord0\blur0.8\3c&HDAECDE&\move(1194,358.5,1113,357,0,3450)\c&H918772&\frz357.609}1638 \N Nechť slečna \N Horizon A. odpočívá v pokoji. \N ~Občané Musaši
 Dialogue: 0,0:01:29.82,0:01:39.82,INS,,0,0,0,,{\fad(200,1200)\blur1.5}but downwards 'gain is fear infernal
-Dialogue: 0,0:01:34.56,0:01:42.47,Default,,0,0,0,,Skoncujeme to.
+Dialogue: 0,0:01:40.60,0:01:42.47,Default,,0,0,0,,Je čas to ukončit.
 Dialogue: 0,0:02:05.23,0:02:08.23,OP,,0,0,0,,{\blur1.5\fad(300,250)}What do you see?
 Dialogue: 0,0:02:08.39,0:02:11.65,OP,,0,0,0,,{\blur1.5\fad(250,250)}You, as you are now,
 Dialogue: 0,0:02:11.81,0:02:17.53,OP,,0,0,0,,{\blur1.5\fad(300,0)}lock your heart until you've summoned the strength you need
@@ -70,39 +70,37 @@ Dialogue: 0,0:02:50.81,0:02:54.27,OP,,0,0,0,,{\blur1.5\fad(100,100)}like drinkin
 Dialogue: 0,0:02:54.27,0:02:57.45,OP,,0,0,0,,{\blur1.5}and threw all I had away
 Dialogue: 0,0:02:57.45,0:03:03.32,OP,,0,0,0,,{\blur1.5}This new world lies in the vale between cold reason and utter miracles
 Dialogue: 0,0:03:03.78,0:03:11.58,OP,,0,0,0,,{\blur1.5\fad(100,250)}Why was it here that I could meet you?
-Dialogue: 0,0:03:16.58,0:03:29.88,Default,,0,0,30,,A message to all residents:
-Dialogue: 0,0:03:17.46,0:03:21.83,Title,,0,0,0,,{\fad(500,500)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3920,0,\blur3)\pos(1282,860)}Those Lined Up Before the Horizon
-Dialogue: 1,0:03:17.46,0:03:21.83,Title,,0,0,0,,{\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3920,0,\blur5)\fad(500,500)\pos(1278,856)}Those Lined Up Before the Horizon
-Dialogue: 0,0:03:16.74,0:03:35.04,Default,,0,0,30,,{\fscx95}Hlášení občanům urbanizované létající lodi Musaši: časové znamení Ariadustova učiliště
-Dialogue: 0,0:03:21.62,0:03:26.65,Default,,0,0,0,,ohlásí půl deváté ranního času.
-Dialogue: 0,0:03:26.65,0:03:31.22,Default,,0,0,0,,O desátě hodině ranního času loď vstoupí do režimu stealth a radiového klidu.
-Dialogue: 0,0:03:31.22,0:03:33.31,Default,,0,0,0,,Tímto žádáme o vaši spolupráci.
+Dialogue: 0,0:03:16.78,0:03:24.10,Default,,0,0,30,,Hlášení občanům urbanizované létající lodi Musaši: časové znamení Ariadustovy akademie
+Dialogue: 0,0:03:17.46,0:03:21.83,Title,,0,0,0,,{\fad(500,500)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3920,0,\blur3)\pos(1282,860)}Ti, jež čekají pod horizontem
+Dialogue: 1,0:03:17.46,0:03:21.83,Title,,0,0,0,,{\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3920,0,\blur5)\fad(500,500)\pos(1278,856)}Ti, jež čekají pod horizontem
+Dialogue: 0,0:03:16.74,0:03:35.04,Title,,0,0,30,,{\fscx95}
+Dialogue: 0,0:03:24.16,0:03:26.65,Default,,0,0,0,,ohlásí půl deváté ranního času.
+Dialogue: 0,0:03:26.65,0:03:31.22,Default,,0,0,0,,O desátě hodině ranního času loď vstoupí do režimu stealth a zahájí radiový klid.
+Dialogue: 0,0:03:31.22,0:03:33.31,Default,,0,0,0,,Prosíme o vaši spolupráci.
 Dialogue: 0,0:03:33.31,0:03:34.16,Default,,0,0,0,,Konec hlášení.
-Dialogue: 0,0:03:34.15,0:03:36.19,date,,0,0,0,,{\fs37.5\shad0\pos(597,730.5)\3c&HB0CD6A&\blur5\b0}Tama Industrial District{though it says Tama Business Area right there...}
-Dialogue: 0,0:03:34.15,0:03:36.19,date,,0,0,0,,{\fs37.5\shad0\pos(1287,730.5)\3c&HB0CD6A&\blur5\b0}Tama Industrial District
-Dialogue: 0,0:03:36.36,0:03:38.53,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fs75\fad(100,100)\move(1000,780,982,780)}8:40 A.M., Musashi Ariadust Academy
-Dialogue: 1,0:03:36.36,0:03:38.53,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fs75\fad(100,100)\move(1000,780,982,780)}8:40 A.M., Musashi Ariadust Academy
-Dialogue: 2,0:03:36.36,0:03:38.53,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fs75\fad(100,100)\move(1000,780,982,780)}8:40 A.M., Musashi Ariadust Academy
+Dialogue: 0,0:03:36.36,0:03:38.53,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fs75\fad(100,100)\move(1000,780,982,780)}8:40, Ariadustova Akademie na Musaši
+Dialogue: 1,0:03:36.36,0:03:38.53,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fs75\fad(100,100)\move(1000,780,982,780)}8:40, Ariadustova Akademie na Musaši
+Dialogue: 2,0:03:36.36,0:03:38.53,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fs75\fad(100,100)\move(1000,780,982,780)}8:40, Ariadustova Akademie na Musaši
 Dialogue: 0,0:03:37.64,0:03:38.94,Default,,0,0,30,,Je čas!
 Dialogue: 0,0:03:38.94,0:03:41.16,Default,,0,0,0,,Třetí ročník, Slivoňe! Nástup!
 Dialogue: 0,0:03:41.16,0:03:44.96,Default,,0,0,0,,Začíná tělocvik.
 Dialogue: 0,0:03:44.96,0:03:48.98,Default,,0,0,0,,Vyrazím teď do Šinagawy zmlátit pár jakuzáků.
 Dialogue: 0,0:03:48.98,0:03:52.08,Default,,0,0,0,,Poběžím tak rychle, jak jen dokážu
-Dialogue: 0,0:03:52.08,0:03:53.98,Default,,0,0,0,,a vy se za mnou nesmíte opozdit.
-Dialogue: 0,0:03:53.98,0:03:55.86,Default,,0,0,0,,Tehdy se uvidí, co dokážete.
+Dialogue: 0,0:03:52.08,0:03:53.98,Default,,0,0,0,,a vy se mnou musíte udržet krok.
+Dialogue: 0,0:03:53.98,0:03:55.86,Default,,0,0,0,,Pak teprve uvidíme, co dokážete.
 Dialogue: 0,0:03:55.86,0:03:58.78,Default,,0,0,0,,Kdo nebude stíhat, uklízí třídu.
 Dialogue: 0,0:03:58.78,0:04:00.37,Default,,0,0,0,,Co vy na to?
 Dialogue: 0,0:04:00.37,0:04:01.73,Default,,0,0,0,,Judgment!
 Dialogue: 0,0:04:02.40,0:04:03.76,Default,,0,0,0,,Vyučující Oriotorai!
 Dialogue: 0,0:04:03.76,0:04:05.35,Default,,0,0,0,,Ano, Širodžiro?
 Dialogue: 0,0:04:05.35,0:04:08.23,Default,,0,0,0,,Co mají jakuzáci společného s tělocvikem?
-Dialogue: 0,0:04:08.23,0:04:09.54,Default,,0,0,0,,Jde o peníze?
+Dialogue: 0,0:04:08.23,0:04:09.54,Default,,0,0,0,,Jde vám o peníze?
 Dialogue: 0,0:04:09.54,0:04:13.83,Default,,0,0,0,,Jakuzáci učitelku nedávno vyhodili z bytu a ona se musela přestěhovat na nejnižší palubu.
-Dialogue: 0,0:04:13.83,0:04:17.59,Default,,0,0,0,,Vzteky udělala díru do zdi a vedení ji kvůli tomu pěkně seřvalo.
-Dialogue: 0,0:04:17.59,0:04:20.86,Default,,0,0,0,,Přijde mi, že za polovinu si může sama.
+Dialogue: 0,0:04:13.83,0:04:17.59,Default,,0,0,0,,Pak někde ve vzteku rozmlátila zeď a dostala za to od vedení školy pěknou čočku.
+Dialogue: 0,0:04:17.59,0:04:20.86,Default,,0,0,0,,Přijde mi, že za půlku si může sama.
 Dialogue: 0,0:04:20.86,0:04:23.41,Default,,0,0,0,,Jde vám o pomstu, vyučující Oriotorai?
 Dialogue: 0,0:04:23.41,0:04:25.52,Default,,0,0,0,,Kdeže, jakápak pomsta?
-Dialogue: 0,0:04:25.52,0:04:28.51,Default,,0,0,0,,Naštvali mě, tak jim to jenom chci  vrátit.
+Dialogue: 0,0:04:25.52,0:04:28.51,Default,,0,0,0,,Naštvali mě, tak jim to jenom chci vrátit.
 Dialogue: 0,0:04:29.09,0:04:30.81,Default,,0,0,0,,Pomsta! Pomsta!
 Dialogue: 0,0:04:31.68,0:04:32.75,Default,,0,0,0,,Pomsta!
 Dialogue: 0,0:04:34.59,0:04:36.81,Default,,0,0,0,,Chybí někdo?
@@ -110,58 +108,58 @@ Dialogue: 0,0:04:36.81,0:04:39.56,Default,,0,0,0,,Tedy kromě Miriam and Azumy?
 Dialogue: 0,0:04:39.56,0:04:43.73,Default,,0,0,0,,Dva lidičkové nám tu chybí - Seidžun a prezident.
 Dialogue: 0,0:04:43.73,0:04:46.43,Default,,0,0,0,,Masazumi dnes učí na základce.
 Dialogue: 0,0:04:46.43,0:04:48.72,Default,,0,0,0,,A v pět hodin bude dělat doprovod panu řediteli,
-Dialogue: 0,0:04:48.72,0:04:50.18,Default,,0,0,0,,takže na hodinu přijít nemusí.
+Dialogue: 0,0:04:48.72,0:04:50.18,Default,,0,0,0,,takže je z hodiny omluvená.
 Dialogue: 0,0:04:50.47,0:04:53.03,Default,,0,0,0,,Dobře. Víte někdo, co je s Tórim?
-Dialogue: 0,0:04:54.34,0:04:57.90,Default,,0,0,0,,Všichni tak zvědaví na to třeštidlo, co si říká můj bratr?
+Dialogue: 0,0:04:54.34,0:04:57.90,Default,,0,0,0,,To jste všichni tak zvědaví na to třeštidlo, co si říká můj bratr?{*Počítadlo klišé: 1}
 Dialogue: 0,0:04:57.90,0:04:59.42,Default,,0,0,0,,Jste celí žhaví, co?
-Dialogue: 0,0:04:59.42,0:05:03.20,Default,,0,0,0,,Je to přece jen prezident Musaši a předseda studentské rady v jedné osobě.
-Dialogue: 0,0:05:05.35,0:05:07.41,Default,,0,0,0,,Ale nic vám neřeknu!
-Dialogue: 0,0:05:08.70,0:05:13.77,Default,,0,0,0,,Když jsem já, Bel Flore Aoi, vstala, už byl pryč.
+Dialogue: 0,0:04:59.42,0:05:03.20,Default,,0,0,0,,Přeci jen je brácha prezident Musaši a předseda studentské rady v jedné osobě.{*Jakseto... krávy? Ne... ovce? Ne... králíci?}
+Dialogue: 0,0:05:05.35,0:05:07.41,Default,,0,0,0,,Ale já vám nic neřeknu!
+Dialogue: 0,0:05:08.70,0:05:13.77,Default,,0,0,0,,Když jsem já, Bel Flore Aoi, opustila své lože, už byl pryč.
 Dialogue: 0,0:05:13.77,0:05:18.23,Default,,0,0,0,,Vstává se slepicema a ani se neobtěžuje připravit mi snídani.
 Dialogue: 0,0:05:18.23,0:05:20.10,Default,,0,0,0,,Ať táhne třeba k čertu!
 Dialogue: 0,0:05:20.10,0:05:23.49,Default,,0,0,0,,Ty, Kimi, už máš zase nový pseudonym?
 Dialogue: 0,0:05:23.49,0:05:24.76,Default,,0,0,0,,Přesně tak, Margot!
 Dialogue: 0,0:05:24.76,0:05:27.19,Default,,0,0,0,,Teď jsem Bel Flore! Jasný?
 Dialogue: 0,0:05:27.19,0:05:29.82,Default,,0,0,0,,Neříkala sis nedávno Josephine?
-Dialogue: 0,0:05:29.82,0:05:34.03,Default,,0,0,0,,Ne od té doby, co se tak jmenuje Nakamurovic pes!
+Dialogue: 0,0:05:29.82,0:05:34.03,Default,,0,0,0,,Od té doby, co tak Nakamurovic pojmenovali psa, už nikdy!
 Dialogue: 0,0:05:34.03,0:05:35.13,Default,,0,0,0,,Kapišto?!
-Dialogue: 0,0:05:35.91,0:05:38.03,Default,,0,0,0,,Takže neomluvená absence pro Tóriho.
-Dialogue: 0,0:05:38.03,0:05:40.26,Default,,0,0,0,,Blízkovýchodní Musaši je pod prozatimní vládou Unie Testamentu,
+Dialogue: 0,0:05:35.91,0:05:38.03,Default,,0,0,0,,Takže Tóriho má neomluvenou absenci.
+Dialogue: 0,0:05:38.03,0:05:40.26,Default,,0,0,0,,Jsme pod prozatimní vládou Unie Testamentu,
 Dialogue: 0,0:05:40.26,0:05:43.04,Default,,0,0,0,,tak od našeho prezidenta nic jiného čekat nelze.
-Dialogue: 0,0:05:44.21,0:05:46.07,Default,,0,0,0,,Nejvyššími zastupiteli jednotlivých zemí světa
-Dialogue: 0,0:05:46.07,0:05:49.45,Default,,0,0,0,,se mohou stát jedině studenti akademií.
-Dialogue: 0,0:05:49.45,0:05:52.04,Default,,0,0,0,,Dálný východ je rozdrobený mezi více zemí,
-Dialogue: 0,0:05:52.04,0:05:56.03,Default,,0,0,0,,takže se Unii Testamentu hodí ovladatelní zastupitelé.
-Dialogue: 0,0:05:56.03,0:05:57.38,Default,,0,0,0,,Jako Tóri Aoi.
-Dialogue: 0,0:05:58.64,0:06:03.22,Default,,0,0,0,,Obvykle si vybírají neschopné lidi jako je on.
+Dialogue: 0,0:05:44.21,0:05:46.07,Default,,0,0,0,,Všechny země světa politicky zastupují
+Dialogue: 0,0:05:46.07,0:05:49.45,Default,,0,0,0,,studenti jednotlivých akademií.
+Dialogue: 0,0:05:49.45,0:05:52.04,Default,,0,0,0,,O vládu nad územím Dálného se dělí více zemí,
+Dialogue: 0,0:05:52.04,0:05:56.03,Default,,0,0,0,,takže se Unii Testamentu hodí někdo, koho může jednoduše ovládat.
+Dialogue: 0,0:05:56.03,0:05:57.38,Default,,0,0,0,,Třeba Tóri Aoi.
+Dialogue: 0,0:05:58.64,0:06:03.22,Default,,0,0,0,,Unie si obvykle vybírá neschopné lidi jako je on.
 Dialogue: 0,0:06:04.10,0:06:07.81,Default,,0,0,0,,Dokonce mu přezdívají "Impossible".
 Dialogue: 0,0:06:07.81,0:06:10.78,Default,,0,0,0,,Tak to chodí už 160 let.
 Dialogue: 0,0:06:10.78,0:06:15.33,Default,,0,0,0,,Dříve ostrovy známé jako Deum patřily nám, Dálnému východu.
 Dialogue: 0,0:06:15.33,0:06:18.76,Default,,0,0,0,,Ale teď jsou z nás jenom poslíčkové a dojné krávy.
-Dialogue: 0,0:06:18.76,0:06:21.65,Default,,0,0,0,,Musaši je pořád v pohybu, takže
-Dialogue: 0,0:06:21.65,0:06:24.80,Default,,0,0,0,,ani na Dálném východě nemá žádný vliv.
+Dialogue: 0,0:06:18.76,0:06:21.65,Default,,0,0,0,,Musaši je pořád v pohybu, takže nemůže udržet
+Dialogue: 0,0:06:21.65,0:06:24.80,Default,,0,0,0,,svůj vliv na Dálném východě, jehož centrem by měla být.
 Dialogue: 0,0:06:27.06,0:06:30.87,Default,,0,0,0,,Navíc naši studenti musí narozdíl od jiných zemí
 Dialogue: 0,0:06:30.87,0:06:33.30,Default,,0,0,0,,ukončit studium už v osmnácti letech.
 Dialogue: 0,0:06:33.30,0:06:36.21,Default,,0,0,0,,Tím přijdou o veškerý politický i vojenský vliv.
-Dialogue: 0,0:06:36.21,0:06:40.54,Default,,0,0,0,,Neměl by sis dávat pozor, co říkáš nahlas?
+Dialogue: 0,0:06:36.21,0:06:40.54,Default,,0,0,0,,Neměl by sis dávat pozor na jazyk?
 Dialogue: 0,0:06:40.54,0:06:42.76,Default,,0,0,0,,V pořádku.
 Dialogue: 0,0:06:42.76,0:06:46.72,Default,,0,0,0,,Nemají čas sledovat, co se kde špitne.
-Dialogue: 0,0:06:46.72,0:06:49.69,Default,,0,0,0,,Když vstupujeme do vzdušného prostoru Mikawy, mají jiné starosti.
+Dialogue: 0,0:06:46.72,0:06:49.69,Default,,0,0,0,,Vstupujeme do vzdušného prostoru Mikawy, takže mají jiné starosti.
 Dialogue: 0,0:06:49.69,0:06:52.28,Default,,0,0,0,,Pán je dospělák.
 Dialogue: 0,0:06:52.98,0:06:57.65,Default,,0,0,0,,Ale je to pravda, naše země je na tom bídně.
-Dialogue: 0,0:06:57.65,0:06:59.44,Default,,0,0,0,,Je na vás, co s tím uděláte.
+Dialogue: 0,0:06:57.65,0:06:59.44,Default,,0,0,0,,Ale záleži na vás, jak to půjde dál.
 Dialogue: 0,0:07:00.17,0:07:01.40,Default,,0,0,0,,Máte jasno?
 Dialogue: 0,0:07:05.11,0:07:10.16,Default,,0,0,0,,Je čas ukázat, jestli se umíte prát.
 Dialogue: 0,0:07:10.55,0:07:12.02,Default,,0,0,0,,Pravidla jsou jednoduchá.
-Dialogue: 0,0:07:12.02,0:07:17.54,Default,,0,0,0,,Jestli mě během cesty dokážete udělit zásah, dostanete pět docházek.
+Dialogue: 0,0:07:12.02,0:07:17.54,Default,,0,0,0,,Pokud mě během cesty dokážete zasáhnout zbraní nebo rukama, dostanete pět docházek.
 Dialogue: 0,0:07:17.54,0:07:19.32,Default,,0,0,0,,Chápete?
 Dialogue: 0,0:07:19.32,0:07:20.88,Default,,0,0,0,,Můžete pětkrát za školu!
 Dialogue: 0,0:07:20.88,0:07:22.24,Default,,0,0,0,,Paní učitelko!
 Dialogue: 0,0:07:22.24,0:07:25.83,Default,,0,0,0,,Útok nemusí projít, stačí když se trefíme?
-Dialogue: 0,0:07:25.83,0:07:28.13,Default,,0,0,0,,Vy válečníci jste puntičkáři.
+Dialogue: 0,0:07:25.83,0:07:28.13,Default,,0,0,0,,Vy bojové typy jste puntičkáři.{*Horizon si trochu hraje na RPG, takže tohle je záměr}
 Dialogue: 0,0:07:28.13,0:07:29.52,Default,,0,0,0,,Ale je to tak.
 Dialogue: 0,0:07:29.52,0:07:30.80,Default,,0,0,0,,Stačí jakýkoliv zásah.
-Dialogue: 0,0:07:30.93,0:07:36.59,Default,,0,0,0,,Máte na těle nějaké zóny, za které strhnete body?
+Dialogue: 0,0:07:30.93,0:07:36.59,Default,,0,0,0,,Má vaše tělo místa, za jejichž zásah body budou strženy?{*Tihle dva mají mluvit jako postavy v samurajském filmu}
 Dialogue: 0,0:07:36.59,0:07:40.41,Default,,0,0,0,,Nebo naopak přidáte?
 Dialogue: 0,0:07:42.01,0:07:44.19,Default,,0,0,0,,Tolik pospícháte na krchov?
 Dialogue: 0,0:07:45.69,0:07:46.41,Default,,0,0,0,,Tak tedy...
