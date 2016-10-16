@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 207
-Active Line: 221
-Video Position: 18305
+Scroll Position: 396
+Active Line: 408
+Video Position: 34045
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -257,19 +257,19 @@ Dialogue: 0,0:12:21.77,0:12:23.01,Default,,0,0,0,,Urozený Nori!
 Dialogue: 0,0:12:25.77,0:12:27.39,Default,,0,0,0,,Takže ty máš vést hlavní útok!
 Dialogue: 0,0:12:27.39,0:12:29.97,Default,,0,0,0,,Nemusíte to říkat nahlas!
 Dialogue: 0,0:12:36.11,0:12:36.88,Default,,0,0,0,,O fortuna!
-Dialogue: 0,0:12:36.88,0:12:38.12,Default,,0,0,0,,Velut luna!
+Dialogue: 0,0:12:36.88,0:12:38.12,Default,,0,0,0,,Věčná škoda!
 Dialogue: 0,0:12:40.90,0:12:43.48,Default,,0,0,0,,Ostatek ve vám ponechám, paní Asamo!
 Dialogue: 0,0:12:57.45,0:12:59.30,Default,,0,0,0,,Persono, podpoř ji!
-Dialogue: 0,0:13:11.69,0:13:13.43,Default,,0,0,0,,Napojuji se na Tektonické tepny!
+Dialogue: 0,0:13:11.69,0:13:13.43,Default,,0,0,0,,Napojuji se na Tektonické tepny!{*Tektonické tepny jsou hlavní toky, kterými proudí "éter" pod zemí}
 Dialogue: 0,0:13:15.21,0:13:18.30,Default,,0,0,0,,To není učitelka, ale učiněná amazonka.
 Dialogue: 0,0:13:19.27,0:13:20.09,Default,,0,0,0,,Jdu na to!
-Dialogue: 0,0:13:20.09,0:13:23.84,Default,,0,0,0,,Provedu mystický útok přes svatyni Asama.
+Dialogue: 0,0:13:20.09,0:13:23.84,Default,,0,0,0,,Provedu mystický útok za podpory svatyně Asama.
 Dialogue: 0,0:13:26.88,0:13:29.89,Default,,0,0,0,,Platbu za propůjčenou moc provedu v obětinách.
 Dialogue: 0,0:13:29.89,0:13:34.72,Default,,0,0,0,,Hanami, dej mé střele čtyřnásobné požehání
 Dialogue: 0,0:13:34.72,0:13:38.89,Default,,0,0,0,,pro přesnost a ochranu před poškozením, odražením a zastavením.
 Dialogue: 0,0:13:38.89,0:13:42.84,Default,,0,0,0,,Na čtyři požehnání potřebuješ čtyři oběti. V pohodě?
-Dialogue: 0,0:13:42.84,0:13:46.73,Default,,0,0,0,,Dvě hodiny rituálního tance,
-Dialogue: 0,0:13:46.73,0:13:48.53,Default,,0,0,0,,na oběd a večeři obětina z Patera zrn,
+Dialogue: 0,0:13:42.84,0:13:45.26,Default,,0,0,0,,Dvě hodiny rituálního tance,
+Dialogue: 0,0:13:45.53,0:13:48.53,Default,,0,0,0,,na oběd a večeři obětina z Patera zrn,
 Dialogue: 0,0:13:48.53,0:13:51.02,Default,,0,0,0,,společná procházka a pokec.
 Dialogue: 0,0:13:51.02,0:13:52.48,Default,,0,0,0,,Dohromady čtyři oběti.
 Dialogue: 0,0:13:52.48,0:13:54.76,Default,,0,0,0,,Jesti to je ok, požehnej mi.
@@ -279,35 +279,35 @@ Dialogue: 0,0:14:02.64,0:14:04.36,Default,,0,0,0,,Mechanický okulus Konoha zam�
 Dialogue: 0,0:14:05.00,0:14:05.84,Default,,0,0,0,,Pal!
 Dialogue: 0,0:14:07.95,0:14:10.06,Default,,0,0,0,,Tenhle šíp neodrazíte!
 Dialogue: 0,0:14:10.06,0:14:11.21,Default,,0,0,0,,Je naváděný.
-Dialogue: 0,0:14:15.13,0:14:17.00,Default,,0,0,0,,Našla střela cíl?
+Dialogue: 0,0:14:15.13,0:14:17.00,Default,,0,0,0,,Našla střela cíl svůj?
 Dialogue: 0,0:14:20.52,0:14:22.15,Default,,0,0,0,,Dneska jsme bez moučníku!
 Dialogue: 0,0:14:22.15,0:14:23.97,Default,,0,0,0,,Jak to udělala?
 Dialogue: 0,0:14:23.97,0:14:27.80,Default,,0,0,0,,Jasně! Usekla si pramen vlasů, které pro navádění šípu
 Dialogue: 0,0:14:27.80,0:14:32.35,Default,,0,0,0,,fungovaly jako klamný cíl. Šíp se po falešném zásahu rozplynul.
 Dialogue: 0,0:14:36.31,0:14:37.82,Default,,0,0,0,,Asamo...
-Dialogue: 0,0:14:37.82,0:14:40.81,Default,,0,0,0,,Ale ve druháku se proti nám ani nemusela snažit.
-Dialogue: 0,0:14:48.66,0:14:50.49,Default,,0,0,0,,Minula, že?
+Dialogue: 0,0:14:37.82,0:14:40.81,Default,,0,0,0,,Ale ve druháku nemusela udělat ani to.
+Dialogue: 0,0:14:48.66,0:14:50.49,Default,,0,0,0,,To letí mimo.
 Dialogue: 0,0:14:53.28,0:14:55.14,Default,,0,0,0,,Už budeme v Šinagawě!
 Dialogue: 0,0:14:56.04,0:14:58.07,Default,,0,0,0,,Margot, jdeme na to!
 Dialogue: 0,0:14:58.07,0:14:59.41,Default,,0,0,0,,Jasně, Malgo!
 Dialogue: 0,0:14:59.41,0:15:01.03,Default,,0,0,0,,Ale ať to neuspěcháme!
 Dialogue: 0,0:15:07.34,0:15:08.44,Default,,0,0,0,,Jdeme na to!
 Dialogue: 0,0:15:08.44,0:15:10.92,Default,,0,0,0,,Dvě kouzelné střelkyně, černá a bíla.
-Dialogue: 0,0:15:13.78,0:15:16.29,Default,,0,0,0,,Ansámbl z nebes padlého a sestoupivšího anděla!
-Dialogue: 0,0:15:23.52,0:15:26.21,Default,,0,0,0,,Že by mě konečně dohnali i mystici?
+Dialogue: 0,0:15:13.78,0:15:16.29,Default,,0,0,0,,Padlý anděl a posel boží! Náš nebeský Ansámbl.
+Dialogue: 0,0:15:23.52,0:15:26.21,Default,,0,0,0,,Že by mě konečně dohnali i magické typy?
 Dialogue: 0,0:15:26.21,0:15:31.13,Default,,0,0,0,,Chcete mě zdržet. než si ostatní připraví svoje zaříkání?
 Dialogue: 0,0:15:32.93,0:15:34.42,Default,,0,0,0,,Bingo.
-Dialogue: 0,0:15:34.42,0:15:37.64,Default,,0,0,0,,Tohle je jenom vyučování, takže nepoužijeme naše schopnosti
-Dialogue: 0,0:15:37.64,0:15:39.94,Default,,0,0,0,,Schwarze Fräulein a Weiße Fräulein.
+Dialogue: 0,0:15:34.42,0:15:37.64,Default,,0,0,0,,Schwarze Fräulein a Weiße Fräulein používat nebudeme.
+Dialogue: 0,0:15:37.64,0:15:39.94,Default,,0,0,0,,Je to jenom trénink.
 Dialogue: 0,0:15:39.94,0:15:41.34,Default,,0,0,0,,Jdeme, Malgo!
 Dialogue: 0,0:15:41.34,0:15:42.95,Default,,0,0,0,,Jasně, Margot!
 Dialogue: 0,0:15:53.27,0:15:54.22,Default,,0,0,0,,Herrlich!
-Dialogue: 0,0:15:58.72,0:16:02.09,Default,,0,0,0,,Chcete pro ostatní získat čas tím, že je rovnou odrovnáte?
-Dialogue: 0,0:16:02.09,0:16:04.11,Default,,0,0,0,,Snažíte se nás zabít?!
+Dialogue: 0,0:15:58.72,0:16:02.09,Default,,0,0,0,,Chcete pro ostatní získat čas, nebo je rovnou odrovnat?
+Dialogue: 0,0:16:02.09,0:16:04.11,Default,,0,0,0,,Chcete nás zabít?!
 Dialogue: 0,0:16:04.11,0:16:05.57,Default,,0,0,0,,Sorka!
 Dialogue: 0,0:16:05.57,0:16:08.28,Default,,0,0,0,,Dostává docela zabrat, že?
-Dialogue: 0,0:16:08.28,0:16:14.53,Default,,0,0,0,,V Šinagawě se pravděpodobnost zásahu blíží nule. Konec.
-Dialogue: 0,0:16:14.53,0:16:17.70,Default,,0,0,0,,Mimochodem, nevadí, že nejste na můstku?
+Dialogue: 0,0:16:08.28,0:16:14.53,Default,,0,0,0,,V Šinagawě se pravděpodobnost úspěchu blíží nule. Konec.
+Dialogue: 0,0:16:14.53,0:16:17.70,Default,,0,0,0,,Mimochodem. Nevadí, že nejste na můstku?
 Dialogue: 0,0:16:18.58,0:16:21.78,Default,,0,0,0,,Problematická cesta přes Sagarmathský koridor je už za námi
 Dialogue: 0,0:16:21.78,0:16:24.88,Default,,0,0,0,,a loď je připravena zakotvit v Mikawě.
 Dialogue: 0,0:16:24.88,0:16:26.96,Default,,0,0,0,,Takže mám padla. Konec.
@@ -320,37 +320,37 @@ Dialogue: 0,0:16:39.87,0:16:42.31,Default,,0,0,0,,Jsem zvědavý, jak si ta děc
 Dialogue: 0,0:16:42.31,0:16:46.36,Default,,0,0,0,,ve kterém Musaši a celý Dálný východ plavou.
 Dialogue: 0,0:16:45.10,0:16:46.36,Default,,0,0,0,,Tumáte!
 Dialogue: 0,0:16:46.93,0:16:48.24,Default,,0,0,0,,Nemohu soudit.
-Dialogue: 0,0:16:48.24,0:16:50.57,Default,,0,0,0,,Leč konec světa se blíží.
+Dialogue: 0,0:16:48.24,0:16:50.57,Default,,0,0,0,,Ale konec světa se blíží.
 Dialogue: 0,0:16:50.57,0:16:54.12,Default,,0,0,0,,Alespoň podle Unie Testamentu. Konec.
 Dialogue: 0,0:17:03.05,0:17:04.91,Default,,0,0,0,,Apokalypsa...
 Dialogue: 0,0:17:09.30,0:17:10.46,Default,,0,0,30,,Copak, copak.
-Dialogue: 0,0:17:10.05,0:17:13.05,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fs70\move(1005,780,987,780)\fad(100,100)\fscx90}9:00 A.M. Temporary Resident District, in Front of the Mafia Office
-Dialogue: 1,0:17:10.05,0:17:13.05,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fs70\move(1005,780,987,780)\fad(100,100)\fscx90}9:00 A.M. Temporary Resident District, in Front of the Mafia Office
-Dialogue: 2,0:17:10.05,0:17:13.05,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fs70\fad(100,100)\move(1005,780,987,780)\fscx90}9:00 A.M. Temporary Resident District, in Front of the Mafia Office
+Dialogue: 0,0:17:10.05,0:17:13.05,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fs70\move(1005,780,987,780)\fad(100,100)\fscx90}9:00, dočasná rezidenční čtvrť, před kancelářemi jakuzy
+Dialogue: 1,0:17:10.05,0:17:13.05,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fs70\move(1005,780,987,780)\fad(100,100)\fscx90}9:00, dočasná rezidenční čtvrť, před kancelářemi jakuzy
+Dialogue: 2,0:17:10.05,0:17:13.05,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fs70\fad(100,100)\move(1005,780,987,780)\fscx90}9:00, dočasná rezidenční čtvrť, před kancelářemi jakuzy
 Dialogue: 0,0:17:10.46,0:17:12.81,Default,,0,0,30,,V hrobě se odpočinete dost.
 Dialogue: 0,0:17:12.81,0:17:14.30,Default,,0,0,30,,Jediná přeživší je Suzu?
 Dialogue: 0,0:17:14.30,0:17:15.23,Default,,0,0,0,,He?
-Dialogue: 0,0:17:15.23,0:17:19.93,Default,,0,0,0,,Mě jenom pořád nosili, takže...
-Dialogue: 0,0:17:19.93,0:17:23.68,Default,,0,0,0,,Tak vypadá týmová práce.
+Dialogue: 0,0:17:15.23,0:17:19.93,Default,,0,0,0,,Mě sem ale v podstatě donesli ostatní...
+Dialogue: 0,0:17:19.93,0:17:23.68,Default,,0,0,0,,Tak ale má vypadat týmová práce.
 Dialogue: 0,0:17:23.68,0:17:25.27,Default,,0,0,0,,Přeživší: jeden.
 Dialogue: 0,0:17:25.27,0:17:28.83,Default,,0,0,0,,A o ty, kteří odpadli, jste se dobře postarali.
 Dialogue: 0,0:17:28.83,0:17:31.40,Default,,0,0,0,,Hodně jste se zlepšili.
-Dialogue: 0,0:17:31.40,0:17:33.28,Default,,0,0,0,,Kušuj, ty kušno!
+Dialogue: 0,0:17:31.40,0:17:33.28,Default,,0,0,0,,Drž pysk, ty kušno!
 Dialogue: 0,0:17:34.54,0:17:37.45,Default,,0,0,0,,Takový pěkný belzebub a takhle dopadl!
 Dialogue: 0,0:17:37.45,0:17:39.16,Default,,0,0,0,,A ty seš jako kdo?
 Dialogue: 0,0:17:39.59,0:17:41.97,Default,,0,0,0,,Dobře se dívejte.
 Dialogue: 0,0:17:41.97,0:17:45.16,Default,,0,0,0,,Ukážu vám, jak se na belzebuby musí.
 Dialogue: 0,0:17:45.16,0:17:46.93,Default,,0,0,0,,Vás mi byl anděl dlužnej!
-Dialogue: 0,0:17:46.93,0:17:48.46,Default,,0,0,0,,Jste tu snad na výletě?
+Dialogue: 0,0:17:46.93,0:17:48.46,Default,,0,0,0,,Jste tu snad na vejletě?
 Dialogue: 0,0:17:48.46,0:17:51.47,Default,,0,0,0,,Pamatuješ, jak jsi mě vyhodil z domova?
-Dialogue: 0,0:17:52.97,0:17:55.70,Default,,0,0,0,,Barák sem, barák tam, všude to samý.
+Dialogue: 0,0:17:52.97,0:17:55.70,Default,,0,0,0,,Kdo si má takový maličkosti pamatovat?
 Dialogue: 0,0:17:55.70,0:17:59.58,Default,,0,0,0,,To je škoda, že dostaneš po papuli a ani nevíš proč.
 Dialogue: 0,0:17:59.58,0:18:01.89,Default,,0,0,0,,Pocem!
 Dialogue: 0,0:18:05.15,0:18:06.77,Default,,0,0,0,,Chce to zrychlit!
 Dialogue: 0,0:18:07.21,0:18:09.44,Default,,0,0,0,,Pocem!
 Dialogue: 0,0:18:10.93,0:18:12.11,Default,,0,0,0,,Poslouchejte!
-Dialogue: 0,0:18:12.11,0:18:15.16,Default,,0,0,0,,Každý živočich má lebku a v ní mozek.
-Dialogue: 0,0:18:15.16,0:18:17.88,Default,,0,0,0,,A větší rána zapříčiní jeho otřes.
+Dialogue: 0,0:18:12.11,0:18:15.16,Default,,0,0,0,,Každý živočich mozek uzavřený v lebce.
+Dialogue: 0,0:18:15.16,0:18:17.88,Default,,0,0,0,,Vetší rána způsobí otřes mozku.
 Dialogue: 0,0:18:17.88,0:18:20.37,Default,,0,0,0,,A na takovou ránu se musíte pořádně
 Dialogue: 0,0:18:21.44,0:18:22.08,Default,,0,0,0,,napřáhnout!
 Dialogue: 0,0:18:26.38,0:18:30.11,Default,,0,0,0,,A pak ještě jednou z druhé strany!
@@ -370,18 +370,12 @@ Dialogue: 0,0:19:10.12,0:19:12.75,Default,,0,0,0,,Taky jste si přišli vystát 
 Dialogue: 0,0:19:12.75,0:19:17.22,Default,,0,0,0,,A na co žes to stál frontu místo toho, abys byl ve škole?
 Dialogue: 0,0:19:17.66,0:19:22.47,Default,,0,0,0,,Cože?! Vás fakticky zajímá můj úlovek?!
 Dialogue: 0,0:19:22.99,0:19:24.41,Default,,0,0,0,,Podívejte!
-Dialogue: 1,0:19:24.18,0:19:33.56,INS,,0,0,0,,{\fad(300,0)\fscx150\blur1\pos(1345.5,24)\c&H8259F6&\3c&H4A4C68&}Nuruhachi!
-Dialogue: 0,0:19:24.18,0:19:33.56,INS,,0,0,0,,{\fad(300,0)\fscx150\bord7.5\blur1.5\pos(1345.5,24)\c&H8259F6&\3c&HC0D5F4&}Nuruhachi!
-Dialogue: 0,0:19:24.21,0:19:33.56,Default,,0,0,0,,{\fad(300,0)\fs30\shad0\bord5.25\blur1.5\pos(1623,93)\3c&H2626CF&}R for Raunchy
 Dialogue: 0,0:19:24.41,0:19:26.22,Default,,0,0,0,,Vidíte?
-Dialogue: 0,0:19:26.22,0:19:29.65,Default,,0,0,0,,Dneska vyšla nová hentai hra! Nuruhači!
+Dialogue: 0,0:19:26.22,0:19:29.65,Default,,0,0,0,,Dneska vyšla nová hentai hra! Vlažná osma!
 Dialogue: 0,0:19:29.65,0:19:31.23,Default,,0,0,0,,Je to prý totální doják.
 Dialogue: 0,0:19:31.23,0:19:33.56,Default,,0,0,0,,A fronta na limitovanou edici se stojí už od rána.
 Dialogue: 0,0:19:34.11,0:19:37.53,Default,,0,0,0,,Už se těším, až to doma vrazím do compu.
 Dialogue: 0,0:19:37.53,0:19:39.88,Default,,0,0,0,,Budu brečet jak želva a přitom dělat různé věci...
-Dialogue: 2,0:19:40.86,0:19:42.61,INS,,0,0,0,,{\fad(0,0)\fscx150\blur1\bord2\fs55\c&H8259F6&\3c&H4A4C68&\frz357\pos(1410,725)}Nuruhachi!
-Dialogue: 1,0:19:40.86,0:19:42.61,INS,,0,0,0,,{\fad(0,0)\fscx150\blur1\fs55\bord4.5\c&H8259F6&\frz357\pos(1410,725)\3c&HC8DDF6&}Nuruhachi!
-Dialogue: 0,0:19:40.86,0:19:42.61,INS,,0,0,0,,{\fad(0,0)\fscx150\blur1\fs55\bord7\c&H8259F6&\frz357\pos(1410,725)\3c&H69B9F0&}Nuruhachi!
 Dialogue: 0,0:19:41.81,0:19:43.25,Default,,0,0,0,,Hele, ty.
 Dialogue: 0,0:19:43.25,0:19:46.28,Default,,0,0,0,,Máš tušení, co se mi teď honí hlavou?
 Dialogue: 0,0:19:46.28,0:19:48.24,Default,,0,0,0,,Co vás nemá!
@@ -397,13 +391,12 @@ Dialogue: 0,0:20:15.61,0:20:19.53,Default,,0,0,0,,To jsem myslel, že budou tvrd
 Dialogue: 0,0:20:19.53,0:20:20.97,Default,,0,0,0,,Neva.
 Dialogue: 0,0:20:20.97,0:20:23.70,Default,,0,0,0,,Teď mě poslouchejte!
 Dialogue: 0,0:20:24.38,0:20:26.66,Default,,0,0,0,,Už jsem o tom mluvil,
-Dialogue: 0,0:20:26.66,0:20:30.17,Default,,0,0,0,,ale zítra se chystám vyznat lásku.
+Dialogue: 0,0:20:26.66,0:20:30.17,Default,,0,0,0,,ale zítra se chystám vyznat lásku jedné slečně.
 Dialogue: 0,0:20:30.87,0:20:31.92,Default,,0,0,0,,Dafuq?
 Dialogue: 0,0:20:31.92,0:20:36.40,Default,,0,0,0,,Ty pitomečku, není ti stydno mluvit o vyznání lásky
 Dialogue: 0,0:20:36.40,0:20:39.90,Default,,0,0,0,,s hentai hrou v ruce?
 Dialogue: 0,0:20:39.90,0:20:42.35,Default,,0,0,0,,Jestli chceš sbalit nějakou kreslenou waifu,
-Dialogue: 0,0:20:42.35,0:20:45.39,Default,,0,0,0,,zkus prostě strčit prcka do zásuvky a uvidíš, jak to mezi váma
-Dialogue: 0,0:20:45.39,0:20:46.18,Default,,0,0,0,,bude jiskřit
+Dialogue: 0,0:20:42.35,0:20:46.18,Default,,0,0,0,,zkus prostě strčit prcka do zásuvky a uvidíš, jak to mezi váma bude jiskřit.
 Dialogue: 0,0:20:46.18,0:20:48.04,Default,,0,0,0,,Ale, ségra!
 Dialogue: 0,0:20:48.04,0:20:49.14,Default,,0,0,0,,To nevíš,
 Dialogue: 0,0:20:49.14,0:20:51.86,Default,,0,0,0,,že po téhle hře s úchylárnama končím?
@@ -412,13 +405,13 @@ Dialogue: 0,0:20:53.13,0:20:55.58,Default,,0,0,0,,kdo je tvoje šťastná vyvole
 Dialogue: 0,0:20:55.58,0:20:57.54,Default,,0,0,0,,Vžyť to víš!
 Dialogue: 0,0:20:58.51,0:20:59.78,Default,,0,0,0,,Je to Horizon, neasi.
 Dialogue: 0,0:21:01.81,0:21:03.08,Default,,0,0,0,,Hlupáčku.
-Dialogue: 0,0:21:03.08,0:21:08.48,Default,,0,0,0,,Vždyť ta zemřela před deseti lety na Třídě lítosti, které se tak bojíš.
+Dialogue: 0,0:21:03.08,0:21:08.48,Default,,0,0,0,,Vždyť ta zemřela před deseti lety na Třídě lítosti. Té ulici, na kterou se bojíš jen vstoupit.
 Dialogue: 0,0:21:08.48,0:21:11.21,Default,,0,0,0,,Tatínek dokonce pomáhal vztyčit její pomník.
 Dialogue: 0,0:21:11.54,0:21:12.81,Default,,0,0,0,,Já vím.
 Dialogue: 0,0:21:12.81,0:21:15.28,Default,,0,0,0,,Ale už se nebudu schovávat před skutečností.
 Dialogue: 0,0:21:17.32,0:21:20.64,Default,,0,0,0,,Moje vyznání pro vás určitě bude znamenat spoustu nepříjemností.
 Dialogue: 0,0:21:20.64,0:21:22.47,Default,,0,0,0,,Vždyť já nic neumím.
-Dialogue: 0,0:21:22.47,0:21:25.52,Default,,0,0,0,,A potom chystám něco,
+Dialogue: 0,0:21:22.47,0:21:25.52,Default,,0,0,0,,A po vyznání chystám něco,
 Dialogue: 0,0:21:25.52,0:21:28.02,Default,,0,0,0,,čím v podstatě hodím rukavici celému světu.
 Dialogue: 0,0:21:28.72,0:21:30.51,Default,,0,0,0,,Zítra to bude deset let
 Dialogue: 0,0:21:30.51,0:21:32.32,Default,,0,0,0,,od smrti Horizon.
@@ -439,49 +432,20 @@ Dialogue: 0,0:22:13.74,0:22:15.85,Default,,0,0,0,,Jo! Parádní death flag.
 Dialogue: 0,0:22:26.21,0:22:27.20,Default,,0,0,0,,Jo!
 Dialogue: 0,0:22:35.39,0:22:36.87,Default,,0,0,0,,Daleká budoucnost,
 Dialogue: 0,0:22:36.87,0:22:41.32,Default,,0,0,0,,v níž probíhá proces rekonstrukce dějin.
-Dialogue: 0,0:22:41.93,0:22:45.88,Default,,0,0,0,,Lidstvo, které se kdysi povzneslo až do nebes,
-Dialogue: 0,0:22:44.42,0:22:48.35,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Towards the sky strives
-Dialogue: 1,0:22:44.42,0:22:48.35,ED,,0,0,0,,{\blur1.5\fad(200,350)}Towards the sky strives
-Dialogue: 0,0:22:45.88,0:22:47.00,Default,,0,0,0,,ztratilo svou moc
-Dialogue: 0,0:22:47.00,0:22:49.02,Default,,0,0,0,,a bylo odsouzeno k odchodu
-Dialogue: 0,0:22:48.85,0:22:55.62,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}our sailing voyage across the real world
-Dialogue: 1,0:22:48.85,0:22:55.62,ED,,0,0,0,,{\blur1.5\fad(200,350)}our sailing voyage across the real world
-Dialogue: 0,0:22:49.02,0:22:52.84,Default,,0,0,0,, zpět do své domoviny, na Zemi.
-Dialogue: 0,0:22:52.84,0:22:56.94,Default,,0,0,0,,Ale Zemi lidstvo nalezlo neobyvatelnou
-Dialogue: 0,0:22:56.06,0:23:00.00,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Although I own nothing
-Dialogue: 1,0:22:56.06,0:23:00.00,ED,,0,0,0,,{\blur1.5\fad(200,350)}Although I own nothing
-Dialogue: 0,0:22:56.94,0:23:00.14,Default,,0,0,0,,až na Deum, Země bohů.
-Dialogue: 0,0:23:00.39,0:23:07.20,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}I have sparkling dreams within my heart
-Dialogue: 1,0:23:00.39,0:23:07.20,ED,,0,0,0,,{\blur1.5\fad(200,350)}I have sparkling dreams within my heart
-Dialogue: 0,0:23:01.53,0:23:04.82,Default,,0,0,0,,Lidstvo zahájilo rekonstrukci dějin zaznamenaných v Testamentu
-Dialogue: 0,0:23:04.82,0:23:08.65,Default,,0,0,0,,s cílem získat zpět dávnou prosperitu.
-Dialogue: 0,0:23:07.65,0:23:13.59,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}So far I can not make out what your heart has to say
-Dialogue: 1,0:23:07.65,0:23:13.59,ED,,0,0,0,,{\blur1.5\fad(200,350)}So far I can not make out what your heart has to say
-Dialogue: 0,0:23:08.65,0:23:11.02,Default,,0,0,0,,Na základě území Dea
-Dialogue: 0,0:23:11.02,0:23:14.31,Default,,0,0,0,,byly vytvořeny umělé ostrovy, Harmonium.
-Dialogue: 0,0:23:13.86,0:23:18.40,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}but I want to know, show me your true self
-Dialogue: 1,0:23:13.86,0:23:18.40,ED,,0,0,0,,{\blur1.5\fad(200,350)}but I want to know, show me your true self
-Dialogue: 0,0:23:14.31,0:23:16.88,Default,,0,0,0,,to reproduce human history.
-Dialogue: 0,0:23:17.41,0:23:20.97,Default,,0,0,0,,Leč v důsledku zničení Harmonia při nevydařeném pokusu
-Dialogue: 0,0:23:18.54,0:23:25.08,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Countless things have been scattered all across the world
-Dialogue: 1,0:23:18.54,0:23:25.08,ED,,0,0,0,,{\blur1.5\fad(200,350)}Countless things have been scattered all across the world
-Dialogue: 0,0:23:20.97,0:23:23.59,Default,,0,0,0,,o rekonstrukci středověkých válek v Deu, byla vláda nad Deem rozdělena
-Dialogue: 0,0:23:23.59,0:23:25.84,Default,,0,0,0,,mezi bývalé národy Harmonia
-Dialogue: 0,0:23:25.35,0:23:30.76,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}We will find them one by one and fill the void
-Dialogue: 1,0:23:25.35,0:23:30.76,ED,,0,0,0,,{\blur1.5\fad(200,350)}We will find them one by one and fill the void
-Dialogue: 0,0:23:26.14,0:23:31.49,Default,,0,0,0,, Králové zemí Harmonia \Nse pak stali zároveň knížaty provincií Dea.
-Dialogue: 0,0:23:30.95,0:23:35.72,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Someone stole your smile from you
-Dialogue: 1,0:23:30.95,0:23:35.72,ED,,0,0,0,,{\blur1.5\fad(200,350)}Someone stole your smile from you
-Dialogue: 0,0:23:31.49,0:23:37.35,Default,,0,0,0,,Dnes tato knížata spolu s hrdiny jednotlivých národů
-Dialogue: 0,0:23:35.85,0:23:39.34,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}These days I run to retrieve it
-Dialogue: 1,0:23:35.85,0:23:39.34,ED,,0,0,0,,{\blur1.5\fad(200,350)}These days I run to retrieve it
-Dialogue: 0,0:23:38.73,0:23:45.17,Default,,0,0,0,,v rámci rekonstrukce střetů období válčících států a třicetileté války
-Dialogue: 0,0:23:39.57,0:23:45.51,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}down a path shining with light
-Dialogue: 1,0:23:39.57,0:23:45.51,ED,,0,0,0,,{\blur1.5\fad(200,350)}down a path shining with light
-Dialogue: 0,0:23:45.17,0:23:54.58,Default,,0,0,0,,soupeří od vládu nad celým světem.
+Dialogue: 0,0:22:41.93,0:22:45.88,Default,,0,0,0,,Lidstvo, které kdysi dokázalo dobýt sama nebesa,
+Dialogue: 0,0:22:45.88,0:22:52.84,Default,,0,0,0,,ztratilo svou moc a bylo odsouzeno k odchodu zpět do své domoviny, na Zemi.
+Dialogue: 0,0:22:52.84,0:22:56.94,Default,,0,0,0,,Ale Zemi lidstvo nalezlo téměř neobyvatelnou.
+Dialogue: 0,0:22:56.94,0:23:00.14,Default,,0,0,0,,Téměř, až na Země bohů - Deum.
+Dialogue: 0,0:23:01.53,0:23:04.82,Default,,0,0,0,,Lidstvo s cílem získat zpět svoji prosperitu zahájilo
+Dialogue: 0,0:23:04.82,0:23:08.65,Default,,0,0,0,,proces rekonstrukce dějin podle záznamů v Testamentu - kronice dávné Země.
+Dialogue: 0,0:23:08.65,0:23:11.02,Default,,0,0,0,,Lidsto se usídlilo ve dvou zemích - v Deu
+Dialogue: 0,0:23:11.02,0:23:14.31,Default,,0,0,0,,a v Harmoniu, umělých ostrovech vytvořených podle vzoru Dea.
+Dialogue: 0,0:23:14.31,0:23:16.88,Default,,0,0,0,,Zde lidé začali znovuvytvářet své dějiny.
+Dialogue: 0,0:23:17.41,0:23:21.78,Default,,0,0,0,,Avšak při rekonstrukci středověkých válek na území Dea došlo k nehodě,
+Dialogue: 0,0:23:21.86,0:23:25.80,Default,,0,0,0,,jejímž důsledkem bylo zničení Harmonia.
+Dialogue: 0,0:23:25.84,0:23:31.24,Default,,0,0,0,,Vykořeněné národy Harmonia pak ovládly Deum a vládu nad jeho územím rozdělily mezi sebe.
+Dialogue: 0,0:23:31.49,0:23:37.92,Default,,0,0,0,,Králové zemí Harmonia \Nse pak spojili s knížaty provincií Dea.
+Dialogue: 0,0:23:39.06,0:23:44.66,Default,,0,0,0,,Dnes tato knížata spolu s hrdiny jednotlivých národů
+Dialogue: 0,0:23:45.17,0:23:51.46,Default,,0,0,0,,v rámci rekonstrukce střetů období válčících států a třicetileté války
+Dialogue: 0,0:23:51.60,0:23:54.58,Default,,0,0,0,,soupeří o vládu nad celým světem.
 Dialogue: 0,0:23:58.71,0:24:00.34,Default,,0,0,0,,To je...
-Dialogue: 2,0:24:03.67,0:24:06.00,INS,,0,0,0,,{\fad(600,0)\blur1\fscx150\fs84\3c&H4A4C68&\frz338.428\pos(750,672)\c&H8F5DF4&}Nuruhachi!
-Dialogue: 1,0:24:03.67,0:24:06.00,INS,,0,0,0,,{\fad(500,0)\blur1\fscx150\fs84\bord7.5\c&H8259F6&\frz338.428\pos(750,672)\3c&HC8DDF6&}Nuruhachi!
-Dialogue: 0,0:24:03.67,0:24:06.00,INS,,0,0,0,,{\fad(400,0)\blur1\fad(0,0)\fscx150\fs84\bord10.2\c&H8259F6&\3c&H69B9F0&\pos(750,672)\frz338.428}Nuruhachi!
-Dialogue: 0,0:24:17.05,0:24:21.10,date2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,720)}Innocents at the Table
-Dialogue: 0,0:24:17.05,0:24:21.10,date2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,187)}Next Episode
