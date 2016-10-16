@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 116
-Active Line: 122
-Video Position: 10812
+Scroll Position: 207
+Active Line: 221
+Video Position: 18305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -159,30 +159,31 @@ Dialogue: 0,0:07:22.24,0:07:25.83,Default,,0,0,0,,Útok nemusí projít, stačí
 Dialogue: 0,0:07:25.83,0:07:28.13,Default,,0,0,0,,Vy bojové typy jste puntičkáři.{*Horizon si trochu hraje na RPG, takže tohle je záměr}
 Dialogue: 0,0:07:28.13,0:07:29.52,Default,,0,0,0,,Ale je to tak.
 Dialogue: 0,0:07:29.52,0:07:30.80,Default,,0,0,0,,Stačí jakýkoliv zásah.
-Dialogue: 0,0:07:30.93,0:07:36.59,Default,,0,0,0,,Já táži se zda na těle vašem místa jsou, za jejichž zásah body se strhnou?{*Tihle dva mají mluvit jako postavy v samurajském filmu}
+Dialogue: 0,0:07:30.93,0:07:36.59,Default,,0,0,0,,Já táži se zda na těle vašem místa jsou, za jejichž zásah body se strhnou?{*Tihle dva mají mluvit jako postavy v samurajském filmu-což je celkem sranda vzhledem k tomu, jací to jsou úchyláci}
 Dialogue: 0,0:07:36.59,0:07:40.41,Default,,0,0,0,,Či připočtou?
 Dialogue: 0,0:07:42.01,0:07:44.19,Default,,0,0,0,,Tolik pospícháte na krchov?
 Dialogue: 0,0:07:45.69,0:07:46.41,Default,,0,0,0,,Tak tedy...
 Dialogue: 0,0:07:48.49,0:07:49.91,Default,,0,0,0,,Hodina začíná!
 Dialogue: 0,0:07:53.99,0:07:55.54,Default,,0,0,0,,Neflákáme se!
-Dialogue: 0,0:08:05.92,0:08:07.38,Title,,0,0,0,,{\fs43.5\fax0.13\fscy120\shad0\bord1.5\blur1.5\frz354.303\move(394.5,649.5,693,753,5,1443)\3c&HBFB4B8&\c&H8F8382&}1638 \N May the young lady, \N Horizon A., rest in peace. \N ~Residents of Musashi
+Dialogue: 0,0:08:05.92,0:08:07.38,Title,,0,0,0,,{\fs43.5\fax0.13\fscy120\shad0\bord1.5\blur1.5\frz354.303\move(394.5,649.5,693,753,5,1443)\3c&HBFB4B8&\c&H8F8382&}1638 \N Nechť slečna \N Horizon A. odpočívá v pokoji. \N ~Občané Musaši
 Dialogue: 0,0:08:12.07,0:08:13.88,Default,,0,0,0,,{\i1}Horizon...{\i0}
-Dialogue: 0,0:08:13.88,0:08:18.61,Default,,0,0,0,,{\i1}To je jméno, kterým pro vás všechno začne.{\i0}
-Dialogue: 0,0:08:19.02,0:08:21.18,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fs75\fad(100,100)\move(1000,780,982,780)}8:50 A.M., Blue Thunder in Tama
-Dialogue: 1,0:08:19.02,0:08:21.18,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fs75\fad(100,100)\move(1000,780,982,780)}8:50 A.M., Blue Thunder in Tama
-Dialogue: 2,0:08:19.02,0:08:21.18,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fs75\fad(100,100)\move(1000,780,982,780)}8:50 A.M., Blue Thunder in Tama
+Dialogue: 0,0:08:13.88,0:08:18.61,Default,,0,0,0,,{\i1}Pro vás to jméno jistě bude znamenat nový začátek.{\i0}
+Dialogue: 0,0:08:19.02,0:08:21.18,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fs75\fad(100,100)\move(1000,780,982,780)}8:50 Blue Thunder v Tamě
+Dialogue: 1,0:08:19.02,0:08:21.18,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fs75\fad(100,100)\move(1000,780,982,780)}8:50 Blue Thunder v Tamě
+Dialogue: 2,0:08:19.02,0:08:21.18,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fs75\fad(100,100)\move(1000,780,982,780)}8:50 Blue Thunder v Tamě
 Dialogue: 0,0:08:38.20,0:08:39.66,Default,,0,0,0,,Supr!
 Dialogue: 0,0:08:39.66,0:08:41.53,Default,,0,0,0,,Koukejte pořádně utrácet!
-Dialogue: 0,0:08:41.11,0:08:42.91,Title,,0,0,0,,{\fad(100,0)\fs60\fscy95\shad0\blur0.8\pos(600,810)}Seal the Deal
-Dialogue: 0,0:08:41.53,0:08:44.12,Default,,0,0,0,,Přijďte zas!
+Dialogue: 0,0:08:41.11,0:08:42.91,Title,,0,0,0,,{\fad(100,0)\fs60\fscy95\shad0\blur0.8\pos(600,810)}Obchod uzavřen
+Dialogue: 0,0:08:41.55,0:08:42.91,Default,,0,0,0,,Obchod uzavřen.
+Dialogue: 0,0:08:42.91,0:08:44.12,Default,,0,0,0,,Přijďte zas!
 Dialogue: 0,0:08:44.12,0:08:45.40,Default,,0,0,0,,Zboží je na cestě!
 Dialogue: 0,0:08:44.46,0:08:44.86,Title,,0,0,0,,{\fs75\fscy90\shad0\frz340.332\frx12\fry176\blur1.5\pos(1129.5,852)}Sec.3-Revised \N{\alpha&HFF\c&H0CEFE7&}Divide
 Dialogue: 0,0:08:44.86,0:08:45.08,Title,,0,0,0,,{\fs75\fscy90\shad0\frz340.332\frx12\fry176\blur1.5\pos(1129.5,852)}Sec.3-Revised \N{\c&H0CEFE7&}Divide{wow, that was really worth it}
-Dialogue: 0,0:08:45.40,0:08:47.78,Default,,0,0,0,,Díky!
+Dialogue: 0,0:08:45.40,0:08:47.78,Default,,0,0,0,,Zboží dorazilo! Díky!
 Dialogue: 0,0:08:53.60,0:08:55.24,Default,,0,0,0,,Jedem!
 Dialogue: 0,0:09:02.57,0:09:04.94,Default,,0,0,0,,Adele, koukám, že jsi první.
 Dialogue: 0,0:09:04.94,0:09:07.44,Default,,0,0,0,,Rychlost je moje silná stránka.
-Dialogue: 0,0:09:09.55,0:09:12.15,Default,,0,0,0,,Já, Adele Balfette, zahajuji útok jakožto První kopí.
+Dialogue: 0,0:09:09.55,0:09:12.15,Default,,0,0,0,,Já, Adele Balfette, zahajuji útok na špici.
 Dialogue: 0,0:09:12.35,0:09:12.40,accel,,0,0,0,,{\alpha&H50\pos(957,643.5)\blur1.5}Speed {\alpha&HFF}Boost
 Dialogue: 0,0:09:12.40,0:09:12.44,accel,,0,0,0,,{\pos(957,619.5)\blur1.5}Speed Boost
 Dialogue: 0,0:09:12.44,0:09:12.48,accel,,0,0,0,,{\pos(957,651)\blur1.5}Speed Boost
@@ -190,55 +191,55 @@ Dialogue: 0,0:09:12.48,0:09:12.52,accel,,0,0,0,,{\fs78\pos(957,624)\blur1.5}Spee
 Dialogue: 0,0:09:12.52,0:09:12.56,accel,,0,0,0,,{\fs87\pos(957,708)\blur1.5}Speed Boost
 Dialogue: 0,0:09:27.36,0:09:29.65,Default,,0,0,0,,Dáte si kari?
 Dialogue: 0,0:09:33.55,0:09:35.53,Default,,0,0,0,,You got me!
-Dialogue: 0,0:09:35.53,0:09:37.10,Default,,0,0,0,,Nechtěla jsem...
+Dialogue: 0,0:09:35.53,0:09:37.10,Default,,0,0,0,,Promiň mi...
 Dialogue: 0,0:09:37.10,0:09:38.17,Default,,0,0,0,,Hej, rup!
 Dialogue: 0,0:09:38.17,0:09:39.77,Default,,0,0,0,,Jauvajky!
 Dialogue: 0,0:09:43.28,0:09:46.11,Default,,0,0,0,,Adele a Hassan už odstoupili!
-Dialogue: 0,0:09:45.95,0:09:46.55,Title,,0,0,0,,{\fad(0,500)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Currently Praying
-Dialogue: 0,0:09:46.11,0:09:48.70,Default,,0,0,0,,Itokene, postarejte se s Nendžim o ně.
-Dialogue: 0,0:09:46.63,0:09:47.55,Title,,0,0,0,,{\fad(300,500)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Currently Praying
-Dialogue: 0,0:09:47.64,0:09:48.55,Title,,0,0,0,,{\fad(300,500)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Currently Praying
-Dialogue: 0,0:09:48.64,0:09:48.68,Title,,0,0,0,,{\fad(100,0)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Currently Praying
+Dialogue: 0,0:09:45.95,0:09:46.55,Title,,0,0,0,,{\fad(0,500)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Spojení vymodleno
+Dialogue: 0,0:09:46.11,0:09:48.70,Default,,0,0,0,,Itokene, vezmi Nendžiho a postarejte se o ně.
+Dialogue: 0,0:09:46.63,0:09:47.55,Title,,0,0,0,,{\fad(300,500)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Spojení vymodleno
+Dialogue: 0,0:09:47.64,0:09:48.55,Title,,0,0,0,,{\fad(300,500)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Spojení vymodleno
+Dialogue: 0,0:09:48.64,0:09:48.68,Title,,0,0,0,,{\fad(100,0)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Spojení vymodleno
 Dialogue: 0,0:09:51.36,0:09:53.25,Default,,0,0,0,,Netřeba se mě obávat!
-Dialogue: 0,0:09:53.25,0:09:56.61,Default,,0,0,0,,Jsem osbcénní démon, inkubus Kendži Itó.
+Dialogue: 0,0:09:53.25,0:09:56.61,Default,,0,0,0,,Jsem jen osbcénní démon, inkubus Kendži Itó.
 Dialogue: 0,0:09:56.61,0:10:00.12,Default,,0,0,0,,Omlouvám se za potíže, které vám působíme.
 Dialogue: 0,0:10:01.33,0:10:03.94,Default,,0,0,0,,Pomoc se blíží, slečno Adele!
 Dialogue: 0,0:10:04.56,0:10:05.34,Default,,0,0,0,,Nendži!
 Dialogue: 0,0:10:05.34,0:10:08.39,Default,,0,0,0,,Jejdamánku! To je mi líto!
-Dialogue: 0,0:10:08.39,0:10:11.06,Default,,0,0,0,,Moc mě to mrzí, opravdu moc!
+Dialogue: 0,0:10:08.39,0:10:11.06,Default,,0,0,0,,Moc mě to mrzí, mocinky moc!
 Dialogue: 0,0:10:11.06,0:10:15.00,Default,,0,0,0,,Kimi! Zkus do té omluvy dát i trochu srdce!
 Dialogue: 0,0:10:15.00,0:10:16.73,Default,,0,0,0,,Buď dáma!
-Dialogue: 0,0:10:16.73,0:10:19.46,Default,,0,0,0,,Hraješ si na učitelku, ty čarodejnice?
-Dialogue: 0,0:10:19.46,0:10:22.93,Default,,0,0,0,,Ale, Mitocudairo, proč vlastně běžíš po zemi?
+Dialogue: 0,0:10:16.73,0:10:19.46,Default,,0,0,0,,Ty jsi mi nějaká zapšklá úča!
+Dialogue: 0,0:10:19.46,0:10:22.93,Default,,0,0,0,,Pověz, Mitocudairo, proč vlastně běžíš po zemi?
 Dialogue: 0,0:10:22.93,0:10:25.49,Default,,0,0,0,,Kam jsi dala ten svůj slavný řetěz?
-Dialogue: 0,0:10:25.49,0:10:28.25,Default,,0,0,0,,Tohle je moje oblast.
-Dialogue: 0,0:10:28.25,0:10:30.33,Default,,0,0,0,,Vy tu všechno akorát rozbijete.
-Dialogue: 0,0:10:30.33,0:10:34.07,Default,,0,0,0,,Na učitelku se nezmůžeš, tak tu brečíš jako želva.
+Dialogue: 0,0:10:25.49,0:10:28.25,Default,,0,0,0,,Tohle je moje sousedství.
+Dialogue: 0,0:10:28.25,0:10:30.33,Default,,0,0,0,,Žádná kůlnička na dříví.
+Dialogue: 0,0:10:30.33,0:10:34.07,Default,,0,0,0,,Víš, že dneska nemáš šanci, tak tu brečíš jako želva.
 Dialogue: 0,0:10:34.07,0:10:36.50,Default,,0,0,0,,Typický těžký tank.
 Dialogue: 0,0:10:36.50,0:10:38.50,Default,,0,0,0,,Jak prosím?!
 Dialogue: 0,0:10:39.80,0:10:41.50,Default,,0,0,0,,Ještě kousek a byl ze mě sulc.
 Dialogue: 0,0:10:41.50,0:10:44.91,Default,,0,0,0,,Nendži, dávej na sebe pozor!
 Dialogue: 0,0:10:44.91,0:10:46.05,Default,,0,0,0,,Žádné strachy!
-Dialogue: 0,0:10:46.05,0:10:48.91,Default,,0,0,0,,Zaujal jsem pevnou obrannou pozici.
+Dialogue: 0,0:10:46.05,0:10:48.91,Default,,0,0,0,,Zaujal jsem stabilní obrannou pozici.
 Dialogue: 0,0:10:48.91,0:10:49.96,Default,,0,0,0,,Fakt?
-Dialogue: 0,0:10:51.45,0:10:51.82,date,,0,0,0,,{\fax0.09\fs63\bord0\shad0\blur1.5\frz352.544\pos(1017,411)}Open for Business
-Dialogue: 0,0:10:51.45,0:10:52.50,date,,0,0,0,,{\fad(0,40)\fax0.09\fs63\bord0\shad0\blur1.5\pos(865.5,613.5)\frz353.678}But
-Dialogue: 0,0:10:51.45,0:10:51.87,date,,0,0,0,,{\fad(0,420)\fax0.09\fs60\fscx82\bord0\shad0\blur1.5\c&H1D9BA7&\pos(1008,847.5)\frz356.471}Shopkeeper is Out on Delivery
-Dialogue: 0,0:10:51.82,0:10:51.95,date,,0,0,0,,{\fax0.09\fs63\bord0\shad0\blur1.5\frz352.544\pos(1017,411)}Open for Bu{\alpha&HFF}siness
-Dialogue: 0,0:10:51.91,0:10:52.46,date,,0,0,0,,{\fad(480,0)\fax0.09\fs60\fscx82\bord0\shad0\blur1.5\pos(1008,847.5)\frz356.471\c&H10ECF1&}Shopkeeper is Out on Delivery
-Dialogue: 0,0:10:52.46,0:10:52.50,date,,0,0,0,,{\fax0.09\fs60\fscx82\bord0\shad0\blur1.5\pos(1008,847.5)\frz356.471\c&H10ECF1&}Shopkeeper is O{\alpha&HFF}ut on Delivery
+Dialogue: 0,0:10:51.45,0:10:51.82,date,,0,0,0,,{\fax0.09\fs63\bord0\shad0\blur1.5\frz352.544\pos(1017,411)}Otevřeno
+Dialogue: 0,0:10:51.45,0:10:52.50,date,,0,0,0,,{\fad(0,40)\fax0.09\fs63\bord0\shad0\blur1.5\pos(865.5,613.5)\frz353.678}Ale
+Dialogue: 0,0:10:51.45,0:10:51.87,date,,0,0,0,,{\fad(0,420)\fax0.09\fs60\fscx82\bord0\shad0\blur1.5\c&H1D9BA7&\pos(1008,847.5)\frz356.471}Majitel je na rozvážce
+Dialogue: 0,0:10:51.82,0:10:51.95,date,,0,0,0,,{\fax0.09\fs63\bord0\shad0\blur1.5\frz352.544\pos(1017,411)}Otev{\alpha&HFF}řeno
+Dialogue: 0,0:10:51.91,0:10:52.46,date,,0,0,0,,{\fad(480,0)\fax0.09\fs60\fscx82\bord0\shad0\blur1.5\pos(1008,847.5)\frz356.471\c&H10ECF1&}Majitel je na rozvážce
+Dialogue: 0,0:10:52.46,0:10:52.50,date,,0,0,0,,{\fax0.09\fs60\fscx82\bord0\shad0\blur1.5\pos(1008,847.5)\frz356.471\c&H10ECF1&}Majitel je {\alpha&HFF}ut on Delivery
 Dialogue: 0,0:10:53.17,0:10:55.36,Default,,0,0,0,,Vy nebudete zavírat?
 Dialogue: 0,0:10:55.36,0:10:56.98,Default,,0,0,0,,Proč by?
 Dialogue: 0,0:10:56.98,0:11:00.60,Default,,0,0,0,,Zavřít v půli všedního dne, to bych se musela propadnout.
-Dialogue: 0,0:11:00.60,0:11:02.74,Default,,0,0,0,,Ona to moc dobře chápe.
-Dialogue: 0,0:11:02.74,0:11:06.12,Default,,0,0,0,,I teď pořád čeká, až přijdou zákazníci na snídani.
+Dialogue: 0,0:11:00.60,0:11:02.74,Default,,0,0,0,,Ona tomu dobře rozumí.
+Dialogue: 0,0:11:02.74,0:11:06.12,Default,,0,0,0,,Pořád nepřestala čekat, až přijdou zákazníci na snídani.
 Dialogue: 0,0:11:06.12,0:11:07.71,Default,,0,0,0,,Má výdrž.
 Dialogue: 0,0:11:10.24,0:11:11.22,Default,,0,0,0,,Tak co?
 Dialogue: 0,0:11:11.22,0:11:13.53,Default,,0,0,0,,Zatím pořád vedle, ale postupně ji unavíme.
 Dialogue: 0,0:11:16.96,0:11:19.41,Default,,0,0,0,,Musaši, pustila jste se do ranního úklidu?
 Dialogue: 0,0:11:19.41,0:11:22.40,Default,,0,0,0,,Judge, pane řediteli Sakai. Konec.
-Dialogue: 0,0:11:22.40,0:11:24.71,Default,,0,0,0,,Dávkované střely bez požehnání?
-Dialogue: 0,0:11:25.14,0:11:27.93,Default,,0,0,0,,Podobné používají i mágové.
+Dialogue: 0,0:11:22.40,0:11:24.71,Default,,0,0,0,,Střelba dávkou bez požehnání?
+Dialogue: 0,0:11:25.14,0:11:27.93,Default,,0,0,0,,Podobné používají i magické typy.
 Dialogue: 0,0:11:27.93,0:11:31.03,Default,,0,0,0,,V otevřeném terénu jako je rovná střecha to stačí,
 Dialogue: 0,0:11:31.03,0:11:32.96,Default,,0,0,0,,ale průmyslová čtvrť je něco jiného.
 Dialogue: 0,0:11:32.96,0:11:35.25,Default,,0,0,0,,Čas boje na blízkou vzdálenost.
@@ -246,18 +247,18 @@ Dialogue: 0,0:11:40.75,0:11:42.03,Default,,0,0,0,,Teď!
 Dialogue: 0,0:11:44.77,0:11:47.00,Default,,0,0,0,,Tušila jsem, že tady přijde vaše chvíle.
 Dialogue: 0,0:11:47.00,0:11:48.90,Default,,0,0,0,,Styl: Ninja Force, Tenzó!
 Dialogue: 0,0:11:50.67,0:11:51.27,Default,,0,0,0,,Do střehu!
-Dialogue: 0,0:11:57.90,0:12:00.13,Default,,0,0,0,,Až po vás, pane Urqui!
+Dialogue: 0,0:11:57.90,0:12:00.13,Default,,0,0,0,,Až po vás, urozený Urqui!
 Dialogue: 0,0:12:01.20,0:12:02.20,Default,,0,0,0,,Pěkná špinavost!
-Dialogue: 0,0:12:05.92,0:12:07.35,Default,,0,0,0,,Tu zbraň más pro okrasu?
-Dialogue: 0,0:12:07.35,0:12:10.84,Default,,0,0,0,,Inkvizitor nemůže vztáhnout zbraň na příslušníka víry šintó.
-Dialogue: 0,0:12:10.84,0:12:13.79,Default,,0,0,0,,Tudíž mou zbraní budiž holé pěsti.
+Dialogue: 0,0:12:05.92,0:12:07.35,Default,,0,0,0,,Tu zbraň máš pro okrasu?
+Dialogue: 0,0:12:07.35,0:12:10.84,Default,,0,0,0,,Byvše inkvizitorem, na věrce šintó své holi vztáhnout nemohu.
+Dialogue: 0,0:12:10.84,0:12:13.79,Default,,0,0,0,,Pěsti mé však poslouží mně zadost.
 Dialogue: 0,0:12:14.38,0:12:15.54,Default,,0,0,0,,Nemáš šanci!
-Dialogue: 0,0:12:21.77,0:12:23.01,Default,,0,0,0,,Pane Nori!
+Dialogue: 0,0:12:21.77,0:12:23.01,Default,,0,0,0,,Urozený Nori!
 Dialogue: 0,0:12:25.77,0:12:27.39,Default,,0,0,0,,Takže ty máš vést hlavní útok!
 Dialogue: 0,0:12:27.39,0:12:29.97,Default,,0,0,0,,Nemusíte to říkat nahlas!
-Dialogue: 0,0:12:36.11,0:12:36.88,Default,,0,0,0,,Žel.
-Dialogue: 0,0:12:36.88,0:12:38.12,Default,,0,0,0,,Vskutku nešťastné.
-Dialogue: 0,0:12:40.90,0:12:43.48,Default,,0,0,0,,Zbytek je na vás, paní Asamo!
+Dialogue: 0,0:12:36.11,0:12:36.88,Default,,0,0,0,,O fortuna!
+Dialogue: 0,0:12:36.88,0:12:38.12,Default,,0,0,0,,Velut luna!
+Dialogue: 0,0:12:40.90,0:12:43.48,Default,,0,0,0,,Ostatek ve vám ponechám, paní Asamo!
 Dialogue: 0,0:12:57.45,0:12:59.30,Default,,0,0,0,,Persono, podpoř ji!
 Dialogue: 0,0:13:11.69,0:13:13.43,Default,,0,0,0,,Napojuji se na Tektonické tepny!
 Dialogue: 0,0:13:15.21,0:13:18.30,Default,,0,0,0,,To není učitelka, ale učiněná amazonka.
