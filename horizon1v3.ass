@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 396
-Active Line: 408
-Video Position: 34045
+Scroll Position: 4
+Active Line: 19
+Video Position: 2154
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,21 +40,22 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:10.99,0:00:15.99,date,TODO,0,0,0,,{\shad0\bord0\blur20\an2\c&HFFFFFF&\fad(580,900)\pos(970,435)\fscx102\fscy110\t(\fs75)}Léta Testamentu 1457, hora Jošino
 Dialogue: 1,0:00:10.99,0:00:15.99,date,,0,0,0,,{\blur1.6\1c&H899294&\an2\fad(580,900)\pos(970,435)\fscx102\fscy110\t(\fs75)}Léta Testamentu 1457, hora Jošino
 Dialogue: 2,0:00:10.99,0:00:15.99,date,,0,0,0,,{\shad0\bord0\an2\fad(580,900)\pos(970,435)\blur1\fscx102\fscy110\t(\fs75)}Léta Testamentu 1457, hora Jošino
-Dialogue: 0,0:01:02.66,0:01:14.18,INS,,0,0,0,,{\fad(100,500)\blur1.5}Walk yonder path, walk yonder path
+Dialogue: 0,0:00:42.26,0:00:49.00,INS,,0,0,0,,{\fad(100,500)\blur1.5}Pojď dál, jen pojď dál.
 Dialogue: 0,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(100,100)\fs75\move(995,780,977,780)}20. duben, léta Testamentu 1648
 Dialogue: 1,0:00:43.23,0:00:46.81,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,200)\move(995,780,977,780)\fs75}20. duben, léta Testamentu 1648
 Dialogue: 2,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,200)\move(995,780,977,780)\fs75}20. duben, léta Testamentu 1648
-Dialogue: 0,0:00:49.15,0:00:55.99,INS,,0,0,0,,{\fad(200,200)\blur1.5}Set out now, perchance to find
+Dialogue: 0,0:00:49.15,0:00:55.99,INS,,0,0,0,,{\fad(200,200)\blur1.5}Povězte kam až vine se ta pěšina?
 Dialogue: 0,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fs75\fad(100,100)\move(1000,780,982,780)}7:58, hřbitov v Okutamě
 Dialogue: 1,0:00:49.23,0:00:52.65,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,100)\move(1000,780,982,780)\fs75}7:58, hřbitov v Okutamě
 Dialogue: 2,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,100)\move(1000,780,982,780)\fs75}7:58, hřbitov v Okutamě
-Dialogue: 0,0:00:55.99,0:01:02.71,INS,,0,0,0,,{\fad(200,200)\blur1.5}the narrow path to Gods does wind
-Dialogue: 0,0:01:02.71,0:01:09.26,INS,,0,0,0,,{\fad(200,200)\blur1.5}Do not say such, its perils much
-Dialogue: 0,0:01:09.26,0:01:16.35,INS,,0,0,0,,{\fad(200,500)\blur1.5}Rejoice, my child now is ten of age
-Dialogue: 0,0:01:16.35,0:01:22.94,INS,,0,0,0,,{\fad(400,200)\blur1.5}and will need charms 'gainst heaven's rage
-Dialogue: 0,0:01:23.40,0:01:29.82,INS,,0,0,0,,{\fad(200,200)\blur1.5}The journey might be bliss eternal
+Dialogue: 0,0:00:55.99,0:01:02.71,INS,,0,0,0,,{\fad(200,200)\blur1.5}Až k bohům do nebes, kde všechno živé počíná.
+Dialogue: 0,0:01:02.71,0:01:06.06,INS,,0,0,0,,{\fad(200,200)\blur1.5}Ty však mlč - slova zbytečně jen maří
+Dialogue: 0,0:01:06.07,0:01:09.00,INS,,0,0,0,,{\fad(200,200)\blur1.5}ten, komu projít se ji nepodaří.
+Dialogue: 0,0:01:09.26,0:01:16.35,INS,,0,0,0,,{\fad(200,500)\blur1.5}Desáté výročí to robě prý slaví,
+Dialogue: 0,0:01:16.35,0:01:22.94,INS,,0,0,0,,{\fad(400,200)\blur1.5}darem amuletů pár mu přinesu.
+Dialogue: 0,0:01:23.40,0:01:29.82,INS,,0,0,0,,{\fad(200,200)\blur1.5}A ta cesta vpřed jako sad líbezný se vine, při návratu však srdce strachy hyne.
 Dialogue: 0,0:01:26.85,0:01:30.31,Title,,0,0,0,,{\fs39\shad0\bord0\blur0.8\3c&HDAECDE&\move(1194,358.5,1113,357,0,3450)\c&H918772&\frz357.609}1638 \N Nechť slečna \N Horizon A. odpočívá v pokoji. \N ~Občané Musaši
-Dialogue: 0,0:01:29.82,0:01:39.82,INS,,0,0,0,,{\fad(200,1200)\blur1.5}but downwards 'gain is fear infernal
+Dialogue: 0,0:01:29.82,0:01:39.82,INS,,0,0,0,,{\fad(200,1200)\blur1.5}Snad to chvějící se srdce mé cíle svého dosáhne.
 Dialogue: 0,0:01:40.60,0:01:42.47,Default,,0,0,0,,Je čas to ukončit.
 Dialogue: 0,0:02:05.23,0:02:08.23,OP,,0,0,0,,{\blur1.5\fad(300,250)}What do you see?
 Dialogue: 0,0:02:08.39,0:02:11.65,OP,,0,0,0,,{\blur1.5\fad(250,250)}You, as you are now,
@@ -241,8 +242,8 @@ Dialogue: 0,0:11:19.41,0:11:22.40,Default,,0,0,0,,Judge, pane řediteli Sakai. K
 Dialogue: 0,0:11:22.40,0:11:24.71,Default,,0,0,0,,Střelba dávkou bez požehnání?
 Dialogue: 0,0:11:25.14,0:11:27.93,Default,,0,0,0,,Podobné používají i magické typy.
 Dialogue: 0,0:11:27.93,0:11:31.03,Default,,0,0,0,,V otevřeném terénu jako je rovná střecha to stačí,
-Dialogue: 0,0:11:31.03,0:11:32.96,Default,,0,0,0,,ale průmyslová čtvrť je něco jiného.
-Dialogue: 0,0:11:32.96,0:11:35.25,Default,,0,0,0,,Čas boje na blízkou vzdálenost.
+Dialogue: 0,0:11:31.03,0:11:32.96,Default,,0,0,0,,ale obchodní čtvrť je jiný terén.
+Dialogue: 0,0:11:32.96,0:11:35.25,Default,,0,0,0,,Tady přijde na řadu boj na blízko.
 Dialogue: 0,0:11:40.75,0:11:42.03,Default,,0,0,0,,Teď!
 Dialogue: 0,0:11:44.77,0:11:47.00,Default,,0,0,0,,Tušila jsem, že tady přijde vaše chvíle.
 Dialogue: 0,0:11:47.00,0:11:48.90,Default,,0,0,0,,Styl: Ninja Force, Tenzó!

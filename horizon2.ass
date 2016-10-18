@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 02 - Innocents at the Table (BD
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 425
-Active Line: 431
-Video Position: 32373
+Scroll Position: 213
+Active Line: 227
+Video Position: 16512
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,21 +40,21 @@ Style: date 2,Thames,69,&H00FFFFFF,&H00FFFFFF,&H00899294,&H78000000,0,0,0,0,105,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.85,0:00:06.27,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1820,979)}April 20, 1648 Testament Era, 7:58 A.M., Sagarmatha Corridor
-Dialogue: 1,0:00:02.85,0:00:06.27,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1820,979)}April 20, 1648 Testament Era, 7:58 A.M., Sagarmatha Corridor
-Dialogue: 2,0:00:02.85,0:00:06.27,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1820,979)}April 20, 1648 Testament Era, 7:58 A.M., Sagarmatha Corridor
-Dialogue: 0,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HF0F0F0&\fad(400,600)\an7\pos(66,804)}Living Room, Murayama/Honda Manor \N 7:58 A.M.
-Dialogue: 1,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(66,804)}Living Room, Murayama/Honda Manor \N 7:58 A.M.
-Dialogue: 2,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(66,804)}Living Room, Murayama/Honda Manor \N 7:58 A.M.
+Dialogue: 0,0:00:02.85,0:00:06.27,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1820,979)}20. duben, Léta Testamentu 1648, 7:58, Sagarmathský koridor
+Dialogue: 1,0:00:02.85,0:00:06.27,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1820,979)}20. duben, Léta Testamentu 1648, 7:58, Sagarmathský koridor
+Dialogue: 2,0:00:02.85,0:00:06.27,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1820,979)}20. duben, Léta Testamentu 1648, 7:58, Sagarmathský koridor
+Dialogue: 0,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HF0F0F0&\fad(400,600)\an7\pos(66,804)} 7:58 \N obývací pokoj rodiny Honda, Marujama
+Dialogue: 1,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(66,804)} 7:58 \N obývací pokoj rodiny Honda, Marujama
+Dialogue: 2,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(66,804)} 7:58 \N obývací pokoj rodiny Honda, Marujama
 Dialogue: 0,0:00:25.68,0:00:31.94,INS,,0,0,0,,{\fad(300,500)\blur1.5}Walk yonder path, walk yonder path
-Dialogue: 0,0:00:28.21,0:00:29.52,Default,,0,0,0,,Šmarjá!
-Dialogue: 0,0:00:32.12,0:00:35.13,Default,,0,0,0,,{\i1}To ráno bylo stejné jako všechna předchozí.{\i0}
+Dialogue: 0,0:00:28.21,0:00:29.52,Default,,0,0,0,,Do háje!
+Dialogue: 0,0:00:32.12,0:00:35.13,Default,,0,0,0,,{\i1}To ráno bylo jako každé jiné.{\i0}
 Dialogue: 0,0:00:32.56,0:00:39.40,INS,,0,0,0,,{\fad(200,200)\blur1.5}Set out now, perchance to find
-Dialogue: 0,0:00:36.13,0:00:37.43,Default,,0,0,0,,{\i1}Nebylo na něm nic zvláštního.{\i0}
-Dialogue: 0,0:00:38.39,0:00:40.05,Default,,0,0,0,,{\i1}Svět vypadal stejně jako vždy.{\i0}
+Dialogue: 0,0:00:36.13,0:00:37.43,Default,,0,0,0,,{\i1}Nikde nic zvláštního.{\i0}
+Dialogue: 0,0:00:38.39,0:00:40.05,Default,,0,0,0,,{\i1}Svět stejný jako každý den.{\i0}
 Dialogue: 0,0:00:39.40,0:00:46.06,INS,,0,0,0,,{\fad(200,200)\blur1.5}the narrow path to Gods does wind
-Dialogue: 0,0:00:41.10,0:00:44.50,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života{\i0}
-Dialogue: 0,0:00:44.50,0:00:47.43,Default,,0,0,0,,{\i1}se ale začínal chýlit ke svému konci.{\i0}
+Dialogue: 0,0:00:41.10,0:00:44.50,Default,,0,0,0,,{\i1}Ten zdánlivě neotřesitelný klid našeho života{\i0}
+Dialogue: 0,0:00:44.50,0:00:47.43,Default,,0,0,0,,{\i1}se ale začínal drolit.{\i0}
 Dialogue: 0,0:00:46.06,0:00:52.67,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Do not say such, its perils much
 Dialogue: 0,0:00:48.71,0:00:50.40,Default,,0,0,0,,{\i1}Tehdy jsem...{\i0}
 Dialogue: 0,0:01:12.25,0:01:15.26,OP,,0,0,0,,{\blur1.5\fad(300,250)}What do you see?
@@ -71,34 +71,33 @@ Dialogue: 0,0:01:57.84,0:02:01.30,OP,,0,0,0,,{\blur1.5\fad(100,100)}like drinkin
 Dialogue: 0,0:02:01.30,0:02:04.48,OP,,0,0,0,,{\blur1.5}and threw all I had away
 Dialogue: 0,0:02:04.48,0:02:10.35,OP,,0,0,0,,{\blur1.5}This new world lies in the vale between cold reason and utter miracles
 Dialogue: 0,0:02:10.81,0:02:18.61,OP,,0,0,0,,{\blur1.5\fad(100,250)}Why was it here that I could meet you?
-Dialogue: 0,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\pos(1163,217)}9:39 A.M., In front of Blue Thunder, Tama
-Dialogue: 1,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\pos(1163,217)}9:39 A.M., In front of Blue Thunder, Tama
-Dialogue: 2,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\pos(1163,217)}9:39 A.M., In front of Blue Thunder, Tama
-Dialogue: 0,0:02:47.78,0:02:53.22,Default,,0,0,0,,Paní, dle mého odhadu vykazuje Masazumi Honda známky blížící se smrti hlady.
-Dialogue: 0,0:02:54.02,0:02:56.86,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(93,814)}10:00 A.M. \N Central Shopping District in Tama
-Dialogue: 1,0:02:54.02,0:02:56.86,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(93,814)}10:00 A.M. \N Central Shopping District in Tama
-Dialogue: 2,0:02:54.02,0:02:56.86,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(93,814)}10:00 A.M. \N Central Shopping District in Tama
+Dialogue: 0,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\pos(1163,217)}9:39, Vchod do Blue Thunder, Tama
+Dialogue: 1,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\pos(1163,217)}9:39, Vchod do Blue Thunder, Tama
+Dialogue: 2,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\pos(1163,217)}9:39, Vchod do Blue Thunder, Tama
+Dialogue: 0,0:02:47.78,0:02:53.22,Default,,0,0,0,,Paní. Odhaduji, že Masazumi Honda je na pokraji smrti hladem.
+Dialogue: 0,0:02:54.02,0:02:56.86,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(93,814)}10:00\N Nákupní čtvrť střed, Tama
+Dialogue: 1,0:02:54.02,0:02:56.86,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(93,814)}10:00\N Nákupní čtvrť střed, Tama
+Dialogue: 2,0:02:54.02,0:02:56.86,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(93,814)}10:00\N Nákupní čtvrť střed, Tama
 Dialogue: 0,0:02:56.15,0:02:58.43,Default,,0,0,45,,Je 10:00.
-Dialogue: 0,0:02:57.62,0:02:59.79,spell,,0,0,0,,{\fad(800,0)\fs100\fax0.7\fscy140\bord4.5\blur1.5\frz338\frx326\fry160\3c&HFFFFFF&\pos(716,396)\org(827,500)}{2:58 Typeset (text written backwards) - }Musashi Stealth Spell{happy reading...}
 Dialogue: 0,0:02:58.43,0:03:02.62,Default,,0,0,0,,Loď nyní vstoupí do režimu stealth.
 Dialogue: 0,0:03:02.62,0:03:03.54,Default,,0,0,0,,Konec hlášení.
-Dialogue: 1,0:03:13.88,0:03:18.26,Title,,0,0,0,,{\fad(600,550)\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3800,0,\blur5)\pos(1464,870)}Innocents at the Table
-Dialogue: 0,0:03:13.88,0:03:18.26,Title,,0,0,0,,{\fad(600,550)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3800,0,\blur3)\pos(1468,874)}Innocents at the Table
+Dialogue: 1,0:03:13.88,0:03:18.26,Title,,0,0,0,,{\fad(600,550)\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3800,0,\blur5)\pos(1464,870)}Večeře nevinných
+Dialogue: 0,0:03:13.88,0:03:18.26,Title,,0,0,0,,{\fad(600,550)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3800,0,\blur3)\pos(1468,874)}Večeře nevinných
 Dialogue: 0,0:03:14.96,0:03:17.76,Default,,0,0,30,,Nechceš snad umřít hlady, Masazumi.
 Dialogue: 0,0:03:17.76,0:03:21.52,Default,,0,0,30,,Nezkusíš nějakou brigádu, která ti vydělá na pořádné jídlo?
 Dialogue: 0,0:03:24.52,0:03:26.12,Default,,0,0,0,,Budu se o sebe lépe starat.
 Dialogue: 0,0:03:26.12,0:03:28.48,Default,,0,0,0,,U nás máš vždy dveře otevřené.
-Dialogue: 0,0:03:28.48,0:03:31.40,Default,,0,0,0,,Dneska máš práci pro studentskou radu?
-Dialogue: 0,0:03:31.40,0:03:33.64,Default,,0,0,0,,Ano, jakožto místopředsedkyně mám za úkol
+Dialogue: 0,0:03:28.48,0:03:31.40,Default,,0,0,0,,Dneska máš zařizování pro studentskou radu?
+Dialogue: 0,0:03:31.40,0:03:33.64,Default,,0,0,0,,Ano, jsem místopředsedkyně, takže je na mě
 Dialogue: 0,0:03:33.64,0:03:36.67,Default,,0,0,0,,doprovodit ředitele Sakaie k přechodu do Mikawy.
-Dialogue: 0,0:03:36.67,0:03:39.37,Default,,0,0,0,,A předtím bych ráda navštívila matčin hrob.
+Dialogue: 0,0:03:36.67,0:03:39.37,Default,,0,0,0,,Předtím bych ještě ráda navštívila matčin hrob.
 Dialogue: 0,0:03:39.37,0:03:43.20,Default,,0,0,0,,Obě totiž původně pocházíme z Mikawy...
 Dialogue: 0,0:03:43.20,0:03:47.04,Default,,0,0,0,,Omlouvám se, že vám způsobuji nepřijemnosti.
 Dialogue: 0,0:03:47.04,0:03:49.78,Default,,0,0,0,,Jednoho dne, až ze mě bude dobrý politik...
 Dialogue: 0,0:03:49.78,0:03:51.53,Default,,0,0,0,,Nedělej si hlavu!
 Dialogue: 0,0:03:52.09,0:03:55.62,Default,,0,0,0,,Mimochodem, ty chceš zasedat v Prozatimní vládě, že?
 Dialogue: 0,0:03:55.62,0:03:59.80,Default,,0,0,0,,Proč jsi ve studentské radě nekandidovala na předsedu?
-Dialogue: 0,0:03:59.80,0:04:03.10,Default,,0,0,0,,Protože další kandidát byl prezident Aoi.
+Dialogue: 0,0:03:59.80,0:04:03.10,Default,,0,0,0,,Protože mezi kandidáty byl prezident Aoi.
 Dialogue: 0,0:04:03.10,0:04:05.48,Default,,0,0,0,,Byla jsem na Musaši teprve rok,
 Dialogue: 0,0:04:05.48,0:04:07.67,Default,,0,0,0,,ale on se tu narodil.
 Dialogue: 0,0:04:07.67,0:04:10.27,Default,,0,0,0,,Takže ho všichni znají mnohem lépe.
@@ -107,13 +106,13 @@ Dialogue: 0,0:04:13.96,0:04:15.62,Default,,0,0,0,,Tady máš výslužku.
 Dialogue: 0,0:04:15.62,0:04:19.26,Default,,0,0,0,,Stejnou jsem dávala i Tórimu a dětem z okolí, když k nám chodili.
 Dialogue: 0,0:04:19.26,0:04:20.36,Default,,0,0,0,,Tórimu?
 Dialogue: 0,0:04:21.62,0:04:27.54,Default,,0,0,0,,Ten se tady ale deset let neukázal. Až loni.
-Dialogue: 0,0:04:27.54,0:04:34.27,Default,,0,0,0,,Tehdy jsem se ujala ztracené kyberloutky s občanským průkazem, ale bez paměti.
+Dialogue: 0,0:04:27.54,0:04:34.27,Default,,0,0,0,,Tehdy jsem se ujala ztracené kyberloutky. Měla občanku, ale žádné vzpomínky.
 Dialogue: 0,0:04:34.27,0:04:36.46,Default,,0,0,0,,Od té doby Tóri přichází den co den.
 Dialogue: 0,0:04:36.46,0:04:39.97,Default,,0,0,0,,Asi ho moje P-01s zajímá.
 Dialogue: 0,0:04:39.97,0:04:43.07,Default,,0,0,0,,Cože? On se zbláznil do P-01s?
 Dialogue: 0,0:04:43.07,0:04:44.72,Default,,0,0,0,,Totální otaku...
-Dialogue: 0,0:04:44.72,0:04:46.21,Default,,0,0,0,,To tě tak zajímá?
-Dialogue: 0,0:04:46.21,0:04:49.31,Default,,0,0,0,,Myslela jsem, že Tóriho nemůžeš vystát.
+Dialogue: 0,0:04:44.72,0:04:46.21,Default,,0,0,0,,Máš o Tóriho starost?
+Dialogue: 0,0:04:46.21,0:04:49.31,Default,,0,0,0,,Myslela jsem, že ho nemůžeš vystát.
 Dialogue: 0,0:04:50.17,0:04:51.94,Default,,0,0,0,,Ne, tak to není...
 Dialogue: 0,0:04:51.94,0:04:54.69,Default,,0,0,0,,Pokud se chceš s ostatními sblížit,
 Dialogue: 0,0:04:54.69,0:04:56.65,Default,,0,0,0,,měla by sis zjistit víc o Třídě lítosti.
@@ -123,9 +122,9 @@ Dialogue: 0,0:05:02.99,0:05:04.91,Default,,0,0,0,,Mám si zjistit něco o tamní
 Dialogue: 0,0:05:05.45,0:05:06.32,Default,,0,0,0,,Jo!
 Dialogue: 0,0:05:06.32,0:05:08.16,Default,,0,0,0,,Vykroč pravdě naproti.
 Dialogue: 0,0:05:09.26,0:05:11.07,Default,,0,0,0,,Třída lítosti...
-Dialogue: 0,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1726,807)}Musashi Ariadust Academy \N 10:43 A.M.
-Dialogue: 1,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1726,807)}Musashi Ariadust Academy \N 10:43 A.M.
-Dialogue: 2,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1726,807)}Musashi Ariadust Academy \N 10:43 A.M.
+Dialogue: 0,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1726,807)}10:43\N Ariadustova akademia na Musaši
+Dialogue: 1,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1726,807)}10:43\N Ariadustova akademia na Musaši
+Dialogue: 2,0:05:11.66,0:05:14.58,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1726,807)}10:43\N Ariadustova akademia na Musaši
 Dialogue: 0,0:05:13.28,0:05:15.16,Default,,0,0,30,,V dnešní hodině probereme
 Dialogue: 0,0:05:15.16,0:05:17.93,Default,,0,0,0,,Válku o unifikaci Harmonia, v jejímž důsledku
 Dialogue: 0,0:05:17.93,0:05:20.43,Default,,0,0,0,,byla nad Deem ustanovena prozatimní vláda.
@@ -135,8 +134,8 @@ Dialogue: 0,0:05:26.68,0:05:27.82,Default,,0,0,0,,Jasně!
 Dialogue: 0,0:05:27.82,0:05:29.64,Default,,0,0,0,,Zahraj si na učitelku.
 Dialogue: 0,0:05:29.64,0:05:30.65,Default,,0,0,0,,Vrhni se na to!
 Dialogue: 0,0:05:30.65,0:05:32.00,Default,,0,0,0,,A-ano...
-Dialogue: 0,0:05:35.55,0:05:39.35,Default,,0,0,0,,V minulosti byl existovaly reálné Země bohů - Deum,
-Dialogue: 0,0:05:39.35,0:05:43.66,Default,,0,0,0,,a v paralelním prostoru pak byla vytvořena jejich kopie - Harmonium.
+Dialogue: 0,0:05:35.55,0:05:39.35,Default,,0,0,0,,V minulosti existovaly dva světy. Reálné Země bohů - Deum,
+Dialogue: 0,0:05:39.35,0:05:43.66,Default,,0,0,0,,a jejich kopie uměle vytvořená v paralelním prostoru - Harmonium.
 Dialogue: 0,0:05:43.66,0:05:47.16,Default,,0,0,0,,Obyvatelé Dea zůstali v reálném světě a národy ostatních zemí
 Dialogue: 0,0:05:47.16,0:05:51.42,Default,,0,0,0,,osídlily paralelní země Harmonia.
 Dialogue: 0,0:05:51.42,0:05:54.56,Default,,0,0,0,,A všichni spolu dobře vycházeli... myslím...
@@ -145,8 +144,8 @@ Dialogue: 0,0:05:55.54,0:05:56.67,Default,,0,0,0,,Hele, Zvonilko!
 Dialogue: 0,0:05:56.67,0:05:57.63,Default,,0,0,0,,Hoď se do klidu.
 Dialogue: 0,0:05:58.15,0:06:01.01,Default,,0,0,0,,Jestli to nedáš, nechám se zmlátit místo tebe.
 Dialogue: 0,0:06:01.01,0:06:02.60,Default,,0,0,0,,Mně se nic nestane!
-Dialogue: 0,0:06:01.18,0:06:06.56,INS,,0,0,0,,{\fad(500,0)\fscx150\3c&HBAB9BB&\pos(1500,163.5)}Nuruhachi!
-Dialogue: 0,0:06:01.18,0:06:06.56,date,,0,0,0,,{\fad(500,0)\fs42\shad0\bord0\c&HB3B2B4&\pos(1500,234)}Customer Survey
+Dialogue: 0,0:06:01.18,0:06:06.56,INS,,0,0,0,,{\fad(500,0)\fscx150\3c&HBAB9BB&\pos(1500,163.5)}Vlažná osma!
+Dialogue: 0,0:06:01.18,0:06:06.56,date,,0,0,0,,{\fad(500,0)\fs42\shad0\bord0\c&HB3B2B4&\pos(1500,234)}Dotazník spokojenosti
 Dialogue: 0,0:06:02.60,0:06:06.55,Default,,0,0,0,,Nemůžu umřít dokud jsem se v tý pařbě nedostal k prvnímu větvení.
 Dialogue: 0,0:06:06.55,0:06:07.72,Default,,0,0,0,,Ticho tam!
 Dialogue: 0,0:06:07.72,0:06:09.99,Default,,0,0,0,,Nedělej jako bys měl zítra zcepenět!
@@ -174,8 +173,8 @@ Dialogue: 0,0:06:52.39,0:06:52.60,date,,0,0,0,,{\fscx120\blur1.5\frz9.358\fs60\a
 Dialogue: 0,0:06:52.60,0:06:52.94,date,,0,0,0,,{\fscx120\blur1.5\frz9.358\fs60\an7\pos(472.5,319.5)}{6:52 Typeset - }It all{pointless}
 Dialogue: 0,0:06:52.93,0:06:55.74,Default,,0,0,0,,Začalo to ve Válce jižní a severní dynastie.
 Dialogue: 0,0:06:55.74,0:06:59.22,Default,,0,0,0,,Tehdy v oblasti Dálného východu známé jako Deum,
-Dialogue: 0,0:06:59.22,0:07:03.45,Default,,0,0,0,,vedli boj o císařský trůn dvě rodové linie.
-Dialogue: 0,0:07:03.45,0:07:07.53,Default,,0,0,0,,Léta Testamentu, 1412.
+Dialogue: 0,0:06:59.22,0:07:03.45,Default,,0,0,0,,vedly boj o císařský stolec dvě rodové linie.
+Dialogue: 0,0:07:03.45,0:07:07.53,Default,,0,0,0,,Léta Testamentu 1412.
 Dialogue: 0,0:07:07.53,0:07:10.54,Default,,0,0,0,,Byla ztracena božská zbraň ovládající tektonické tepny,
 Dialogue: 0,0:07:10.54,0:07:13.93,Default,,0,0,0,,následkem čehož došlo ke kolizi Harmonia s Deem.
 Dialogue: 0,0:07:13.93,0:07:18.29,Default,,0,0,0,,Více než polovina Harmonia byla zničena
@@ -188,7 +187,7 @@ Dialogue: 0,0:07:37.99,0:07:40.57,Default,,0,0,0,,a volali reprezentaci Dea k zo
 Dialogue: 0,0:07:40.99,0:07:42.78,Default,,0,0,0,,Napříč zemí pak vypukly nepokoje
 Dialogue: 0,0:07:43.11,0:07:45.66,Default,,0,0,0,,známé jako Válka o sjednocení Harmonia.
 Dialogue: 0,0:07:45.66,0:07:47.19,Default,,0,0,0,,Velmi dobře!
-Dialogue: 0,0:07:47.19,0:07:49.12,Default,,0,0,0,,Příště si asi Suzu vyvolám zase.
+Dialogue: 0,0:07:47.19,0:07:49.12,Default,,0,0,0,,Příště si asi Suzu vyvoláme zase.
 Dialogue: 0,0:07:51.11,0:07:52.94,Default,,0,0,0,,Tak děcka!
 Dialogue: 0,0:07:52.94,0:07:56.42,Default,,0,0,0,,Chystám menší oslavičku mého vyznání.
 Dialogue: 0,0:07:56.42,0:07:57.67,Default,,0,0,0,,Kde to bude nejlepší...?
@@ -198,9 +197,9 @@ Dialogue: 0,0:08:01.22,0:08:03.46,Default,,0,0,0,,Dáme si zase stezku odvahy, b
 Dialogue: 0,0:08:03.46,0:08:06.93,Default,,0,0,0,,Letos to není úplně dobrý nápad.
 Dialogue: 0,0:08:07.25,0:08:10.65,Default,,0,0,0,,Oproti loňsku se objevuje víc přizraků.
 Dialogue: 0,0:08:11.18,0:08:14.59,Default,,0,0,0,,Tak si dneska dáme trochu vymítání, ne?
-Dialogue: 0,0:08:14.59,0:08:16.55,Default,,0,0,0,,Stejně to má rada v popisu práce.
-Dialogue: 0,0:08:17.49,0:08:19.53,Default,,0,0,0,,Už jsem se na to chystala,
-Dialogue: 0,0:08:19.53,0:08:21.36,Default,,0,0,0,,tak jsem si dneska vzala noční.
+Dialogue: 0,0:08:14.59,0:08:16.55,Default,,0,0,0,,Stejně to je v popisu práce studentské rady.
+Dialogue: 0,0:08:17.49,0:08:19.53,Default,,0,0,0,,Už jsem se chystala s těmi přizraky něco udělat.
+Dialogue: 0,0:08:19.53,0:08:21.36,Default,,0,0,0,,Dneska jsem si dokonce vzala noční.
 Dialogue: 0,0:08:21.36,0:08:22.55,Default,,0,0,0,,Takže máme jasno!
 Dialogue: 0,0:08:22.55,0:08:23.65,Default,,0,0,0,,Večer se bude vymítat!
 Dialogue: 0,0:08:24.16,0:08:25.98,Default,,0,0,0,,To bychom měli.
@@ -208,16 +207,16 @@ Dialogue: 0,0:08:26.48,0:08:28.40,Default,,0,0,0,,Tóri. Je čas na tvůj trest.
 Dialogue: 0,0:08:29.62,0:08:33.19,Default,,0,0,0,,Na mých hodinách si správná odpověď
 Dialogue: 0,0:08:33.19,0:08:35.20,Default,,0,0,0,,vyslouží body, špatná trest.
 Dialogue: 0,0:08:35.60,0:08:36.78,Default,,0,0,0,,To přeci víš.
-Dialogue: 0,0:08:37.36,0:08:39.17,Default,,0,0,0,,Suzu měla ve vém textu chybu.
-Dialogue: 0,0:08:39.17,0:08:42.75,Default,,0,0,0,,Nadvláda sevrního dvora započala v roce 1413.
+Dialogue: 0,0:08:37.36,0:08:39.17,Default,,0,0,0,,Suzu měla ve svém textu chybu.
+Dialogue: 0,0:08:39.17,0:08:42.75,Default,,0,0,0,,Nadvláda Severního dvora správně započala v roce 1413.
 Dialogue: 0,0:08:42.75,0:08:43.91,Default,,0,0,0,,Je to jenom maličkost
 Dialogue: 0,0:08:43.91,0:08:47.43,Default,,0,0,0,,a zbytek byl v pořádku
 Dialogue: 0,0:08:47.43,0:08:48.58,Default,,0,0,0,,takže Suzu prošla.
-Dialogue: 0,0:08:48.88,0:08:52.26,Default,,0,0,0,,Navíc za chyby ve vlastním shrnutí tresty neuděluji.
+Dialogue: 0,0:08:48.88,0:08:52.26,Default,,0,0,0,,Navíc za chyby v osobním shrnutí tresty neuděluji.
 Dialogue: 0,0:08:52.81,0:08:53.68,Default,,0,0,0,,Ale...
 Dialogue: 0,0:08:54.03,0:08:58.04,Default,,0,0,0,,Ale někdo si tu chtěl hrát na hrdinu.
 Dialogue: 0,0:08:58.56,0:09:01.95,Default,,0,0,0,,Jakýpak trest sis pro sebe vymyslel tentokrát?
-Dialogue: 0,0:09:02.57,0:09:04.32,Default,,0,0,0,,Koukej se svlékat!
+Dialogue: 0,0:09:02.57,0:09:04.32,Default,,0,0,0,,A do naha!
 Dialogue: 0,0:09:04.32,0:09:08.65,Default,,0,0,0,,To jsem si zase vymyslel takovou úchylárničku?
 Dialogue: 0,0:09:09.53,0:09:14.90,Default,,0,0,0,,Utichla válečná vřava a lidstvo padlé z nebes se usadilo zpět na Zemi.
 Dialogue: 0,0:09:14.90,0:09:19.42,Default,,0,0,0,,Zde lidé začali uvažovat, jak své místo na nebesích získat zpět
@@ -227,7 +226,7 @@ Dialogue: 0,0:09:26.12,0:09:29.18,Default,,0,0,0,,nalezne cestu zpět na nebesa.
 Dialogue: 0,0:09:29.58,0:09:32.84,Default,,0,0,0,,Tehdy vznikl Testament.
 Dialogue: 0,0:09:32.84,0:09:36.12,Default,,0,0,0,,Soubor záznamů o událostech Věku staré Země.
 Dialogue: 0,0:09:34.42,0:09:37.98,Default,,0,0,0,,{\an8\i1}Do naha! Do naha!
-Dialogue: 0,0:09:39.64,0:09:43.15,Default,,0,0,0,,Další vrstvu! Další vrstvu!
+Dialogue: 0,0:09:39.64,0:09:43.15,Default,,0,0,0,,Pokračuj! Pokračuj!
 Dialogue: 0,0:09:44.36,0:09:47.19,Default,,0,0,0,,Lidé na Musaši jsou studené čumáky.
 Dialogue: 0,0:09:47.19,0:09:53.48,Default,,0,0,0,,Nikdo tě nepřijde přivítat. Jsi přeci císařský syn, Azumo.
 Dialogue: 0,0:09:53.48,0:09:57.20,Default,,0,0,0,,Nevadí. Unie nám nakázala, že nemáme budit rozruch.
@@ -235,43 +234,40 @@ Dialogue: 0,0:09:59.29,0:10:01.18,Default,,0,0,0,,Dolů s tím! Dolů s tím!
 Dialogue: 0,0:10:01.18,0:10:03.60,Default,,0,0,0,,{\i1}To se vám líbí, co!
 Dialogue: 0,0:10:03.60,0:10:04.71,Default,,0,0,0,,Co to je za virvál?!
 Dialogue: 0,0:10:04.84,0:10:07.71,spell,,0,0,0,,{\fad(300,0)\bord4.5\c&H271B92&\fscx80\pos(732,561)\3c&H0E93C9&}{10:05 Typeset - }Censored
-Dialogue: 0,0:10:07.71,0:10:12.34,spell,,0,0,0,,{\fs45\c&H2B3237&\pos(643.5,220.5)}{10:08 Typeset (over the door) - }Class 3-Plum
 Dialogue: 0,0:10:08.12,0:10:09.80,Default,,0,0,0,,Co to děláte, paní učitelko?!
 Dialogue: 0,0:10:09.80,0:10:12.79,Default,,0,0,0,,Počkat! Ne!
-Dialogue: 0,0:10:12.34,0:10:13.35,spell,,0,0,0,,{\fad(0,950)\fs45\c&H2B3237&\t(71,1010,\frz160)\move(661.5,177,274.5,658.5,29,988)}Class 3-Plum
 Dialogue: 0,0:10:14.56,0:10:17.13,Default,,0,0,0,,Hezký den přeji. Zrovna probíhá vyučování.
 Dialogue: 0,0:10:17.13,0:10:20.66,Default,,0,0,0,,A-Azumo, počkej na mě ve sborovně. Pak tě přidělím na pokoj.
 Dialogue: 0,0:10:20.66,0:10:22.98,Default,,0,0,0,,Copak! Jestlipak to není slečna Sanjó.
-Dialogue: 0,0:10:23.81,0:10:25.22,Default,,0,0,0,,No tak, neděs se.
-Dialogue: 0,0:10:25.22,0:10:26.48,Default,,0,0,0,,Bude to v pořádku, Micuki.
-Dialogue: 0,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1650,813)}10:54 A.M. \N Cemetery in Okutama
-Dialogue: 1,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1650,813)}10:54 A.M. \N Cemetery in Okutama
-Dialogue: 2,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1650,813)}10:54 A.M. \N Cemetery in Okutama
+Dialogue: 0,0:10:23.81,0:10:25.22,Default,,0,0,0,,No tak, uklidni se.
+Dialogue: 0,0:10:25.22,0:10:26.48,Default,,0,0,0,,Uklidni se, Micuki.
+Dialogue: 0,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an9\pos(1650,813)}10:54\NHřbitov v Okutamě
+Dialogue: 1,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an9\pos(1650,813)}10:54\NHřbitov v Okutamě
+Dialogue: 2,0:10:26.48,0:10:30.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an9\pos(1650,813)}10:54\NHřbitov v Okutamě
 Dialogue: 0,0:10:36.28,0:10:37.52,Default,,0,0,0,,P-01s?
-Dialogue: 0,0:10:39.28,0:10:40.54,Default,,0,0,0,,Co tu děláš?
-Dialogue: 0,0:10:44.36,0:10:48.21,spell,,0,0,0,,{\fad(500,0)\blur1.2\fs45\fax-0.1\bord9.75\c&H181818&\pos(717,310.5)\frz11.113\3c&H1B241A&}List of \NInstructor's \NComments
-Dialogue: 1,0:10:44.36,0:10:48.21,spell,,0,0,0,,{\fad(500,0)\blur1.5\fs45\fax-0.1\bord3.75\pos(717,310.5)\frz11.113\c&H2D302C&\3c&HD5D8D3&}List of \NInstructor's \NComments
-Dialogue: 0,0:10:45.39,0:10:48.21,Default,,0,0,0,,Tady jsem tě nečekala.
+Dialogue: 0,0:10:39.28,0:10:40.54,Default,,0,0,0,,Co ty tady?
+Dialogue: 0,0:10:44.36,0:10:48.21,spell,,0,0,0,,{\fad(500,0)\blur1.2\fs45\fax-0.1\bord9.75\c&H181818&\pos(717,310.5)\frz11.113\3c&H1B241A&}Skutky\Nvůdců
+Dialogue: 1,0:10:44.36,0:10:48.21,spell,,0,0,0,,{\fad(500,0)\blur1.5\fs45\fax-0.1\bord3.75\pos(717,310.5)\frz11.113\c&H2D302C&\3c&HD5D8D3&}Skutky\Nvůdců
+Dialogue: 0,0:10:45.39,0:10:48.21,Default,,0,0,0,,Tady bych tě nečekala.
 Dialogue: 0,0:10:48.21,0:10:49.77,Default,,0,0,0,,Zametáš?
-Dialogue: 0,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(162,814)}11:01 A.M. \N Cemetery in Okutama
-Dialogue: 1,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(162,814)}11:01 A.M. \N Cemetery in Okutama
-Dialogue: 2,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(162,814)}11:01 A.M. \N Cemetery in Okutama
+Dialogue: 0,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(162,814)}11:01\NHřbitov v Okutamě
+Dialogue: 1,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(162,814)}11:01\NHřbitov v Okutamě
+Dialogue: 2,0:10:48.21,0:10:52.17,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(162,814)}11:01\NHřbitov v Okutamě
 Dialogue: 0,0:10:49.77,0:10:53.14,Default,,0,0,0,,Judge. Úklid hřbitova patří mezi mé povinnosti.
-Dialogue: 0,0:10:54.98,0:10:56.14,Default,,0,0,0,,Nikdo nás neviděl?
+Dialogue: 0,0:10:54.98,0:10:56.14,Default,,0,0,0,,Nikdo nic neviděl?
 Dialogue: 0,0:10:56.14,0:10:57.63,Default,,0,0,0,,Ok? V pohodě?
-Dialogue: 0,0:10:57.63,0:10:59.04,Default,,0,0,0,,Nikdo vás neviděl.
+Dialogue: 0,0:10:57.63,0:10:59.04,Default,,0,0,0,,Nikdo nic neviděl.
 Dialogue: 0,0:10:59.04,0:11:00.24,Default,,0,0,0,,V pořádku.
 Dialogue: 0,0:11:00.24,0:11:02.14,Default,,0,0,0,,Vše probíhá podle plánu.
-Dialogue: 0,0:11:02.14,0:11:03.55,Default,,0,0,0,,{\i1}Jak jako nikdo neviděl?{\i0}
+Dialogue: 0,0:11:02.14,0:11:03.55,Default,,0,0,0,,{\i1}A já jsem vosk?{\i0}
 Dialogue: 0,0:11:04.10,0:11:09.03,Default,,0,0,0,,Slečno Masazumi, vidím, že se o tento hrob dobře staráte.
 Dialogue: 0,0:11:09.03,0:11:11.32,Default,,0,0,0,,Ano. Patří mé matce.
-Dialogue: 0,0:11:09.72,0:11:13.98,spell,,0,0,0,,{\c&H70695F&\pos(978,105)\bord3\blur5\3c&HBEBDA9&}Honda Family Grave
-Dialogue: 0,0:11:11.32,0:11:13.98,Default,,0,0,0,,Místo těla tam jsou ale jen památeční předměty.
-Dialogue: 0,0:11:13.98,0:11:17.04,Default,,0,0,0,,Ale tomu ty jako kyberloutka asi nerozumíš.
-Dialogue: 0,0:11:17.57,0:11:21.10,Default,,0,0,0,,Zrodila ses tím, že se v tobě usídlila duše, takže žádnou matku nemáš.
+Dialogue: 0,0:11:11.32,0:11:13.98,Default,,0,0,0,,Místo kostí tam jsou jen památeční předměty.
+Dialogue: 0,0:11:13.98,0:11:17.04,Default,,0,0,0,,Ale jako kyberloutka asi nechápeš, co pro mě znamenají.
+Dialogue: 0,0:11:17.57,0:11:21.10,Default,,0,0,0,,Ty mámu nemáš - život ti dala duše.
 Dialogue: 0,0:11:21.10,0:11:21.94,Default,,0,0,0,,Judge.
-Dialogue: 0,0:11:22.35,0:11:24.31,Default,,0,0,0,,Ale položím vám otázku.
-Dialogue: 0,0:11:25.17,0:11:28.20,Default,,0,0,0,,Slečno Masazumi, vy jste svoji matku měla ráda, že?
+Dialogue: 0,0:11:22.35,0:11:24.31,Default,,0,0,0,,Pokud mohu mluvit upřimně,
+Dialogue: 0,0:11:25.17,0:11:28.20,Default,,0,0,0,,myslím si, že jste svoji matku měla ráda, slečno Masazumi.
 Dialogue: 0,0:11:33.07,0:11:40.00,Default,,0,0,0,,{\i1}Rejoice, my child now is ten of age
 Dialogue: 0,0:11:40.47,0:11:47.22,Default,,0,0,0,,{\i1}and will need charms 'gainst heaven's rage
 Dialogue: 0,0:11:47.22,0:11:53.71,Default,,0,0,0,,{\i1}The journey might be bliss eternal
