@@ -18,10 +18,10 @@ Audio File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the 
 Video File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the Horizon (BD 1080p AAC) [E1565279].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 17
-Active Line: 20
-Video Position: 4573
+Video Zoom Percent: 0.500000
+Scroll Position: 303
+Active Line: 308
+Video Position: 27134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +44,7 @@ Dialogue: 0,0:00:42.26,0:00:49.00,INS,,0,0,0,,{\fad(100,500)\blur1.5}Pojď dál,
 Dialogue: 0,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(100,100)\fs75\move(995,780,977,780)}20. duben, léta Testamentu 1648
 Dialogue: 1,0:00:43.23,0:00:46.81,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,200)\move(995,780,977,780)\fs75}20. duben, léta Testamentu 1648
 Dialogue: 2,0:00:43.23,0:00:46.81,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,200)\move(995,780,977,780)\fs75}20. duben, léta Testamentu 1648
-Dialogue: 0,0:00:49.15,0:00:55.99,INS,,0,0,0,,{\fad(200,200)\blur1.5}Povězte kam až vine se ta pěšina?
+Dialogue: 0,0:00:49.15,0:00:55.99,INS,,0,0,0,,{\fad(200,200)\blur1.5}Pověz mi kam až vine se ta pěšina?
 Dialogue: 0,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fs75\fad(100,100)\move(1000,780,982,780)}7:58, hřbitov v Okutamě
 Dialogue: 1,0:00:49.23,0:00:52.65,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(100,100)\move(1000,780,982,780)\fs75}7:58, hřbitov v Okutamě
 Dialogue: 2,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,100)\move(1000,780,982,780)\fs75}7:58, hřbitov v Okutamě
@@ -91,9 +91,9 @@ Dialogue: 0,0:04:25.52,0:04:28.51,Default,,0,0,0,,Naštvali mě, tak jim to jeno
 Dialogue: 0,0:04:29.09,0:04:30.81,Default,,0,0,0,,Pomsta! Pomsta!
 Dialogue: 0,0:04:31.68,0:04:32.75,Default,,0,0,0,,Pomsta!
 Dialogue: 0,0:04:34.59,0:04:36.81,Default,,0,0,0,,Chybí někdo?
-Dialogue: 0,0:04:36.81,0:04:39.56,Default,,0,0,0,,Tedy kromě Miriam and Azumy?
+Dialogue: 0,0:04:36.81,0:04:39.56,Default,,0,0,0,,Tedy kromě Miriam a Azumy?
 Dialogue: 0,0:04:39.56,0:04:43.73,Default,,0,0,0,,Dva lidičkové nám tu chybí - Seidžun a prezident.
-Dialogue: 0,0:04:43.73,0:04:46.43,Default,,0,0,0,,Masazumi dnes učí na základce.
+Dialogue: 0,0:04:43.73,0:04:46.43,Default,,0,0,0,,Masazumi dnes učí n a základce.
 Dialogue: 0,0:04:46.43,0:04:48.72,Default,,0,0,0,,A v pět hodin bude dělat doprovod panu řediteli,
 Dialogue: 0,0:04:48.72,0:04:50.18,Default,,0,0,0,,takže je z hodiny omluvená.
 Dialogue: 0,0:04:50.47,0:04:53.03,Default,,0,0,0,,Dobře. Víte někdo, co je s Tórim?
@@ -112,7 +112,7 @@ Dialogue: 0,0:05:29.82,0:05:34.03,Default,,0,0,0,,Od té doby, co tak Nakamurovi
 Dialogue: 0,0:05:34.03,0:05:35.13,Default,,0,0,0,,Kapišto?!
 Dialogue: 0,0:05:35.91,0:05:38.03,Default,,0,0,0,,Takže Tóriho má neomluvenou absenci.
 Dialogue: 0,0:05:38.03,0:05:40.26,Default,,0,0,0,,Jsme pod prozatimní vládou Unie Testamentu,
-Dialogue: 0,0:05:40.26,0:05:43.04,Default,,0,0,0,,tak od našeho prezidenta nic jiného čekat nelze.
+Dialogue: 0,0:05:40.26,0:05:43.04,Default,,0,0,0,,tak od našeho prezidenta nic jiného čekat nemůžeme
 Dialogue: 0,0:05:44.21,0:05:46.07,Default,,0,0,0,,Všechny země světa politicky zastupují
 Dialogue: 0,0:05:46.07,0:05:49.45,Default,,0,0,0,,studenti jednotlivých akademií.
 Dialogue: 0,0:05:49.45,0:05:52.04,Default,,0,0,0,,O vládu nad územím Dálného se dělí více zemí,
@@ -123,9 +123,9 @@ Dialogue: 0,0:06:04.10,0:06:07.81,Default,,0,0,0,,Dokonce mu přezdívají "Impo
 Dialogue: 0,0:06:07.81,0:06:10.78,Default,,0,0,0,,Tak to chodí už 160 let.
 Dialogue: 0,0:06:10.78,0:06:15.33,Default,,0,0,0,,Dříve ostrovy známé jako Deum patřily nám, Dálnému východu.
 Dialogue: 0,0:06:15.33,0:06:18.76,Default,,0,0,0,,Ale teď jsou z nás jenom poslíčkové a dojné krávy.
-Dialogue: 0,0:06:18.76,0:06:21.65,Default,,0,0,0,,Musaši je pořád v pohybu, takže nemůže udržet
-Dialogue: 0,0:06:21.65,0:06:24.80,Default,,0,0,0,,svůj vliv na Dálném východě, jehož centrem by měla být.
-Dialogue: 0,0:06:27.06,0:06:30.87,Default,,0,0,0,,Navíc naši studenti musí narozdíl od jiných zemí
+Dialogue: 0,0:06:18.76,0:06:21.65,Default,,0,0,0,,Musaši je pořád v pohybu, takže i když se snažíme být středem
+Dialogue: 0,0:06:21.65,0:06:24.80,Default,,0,0,0,,Dálného východu, nejsme schopni udržet si na něm vliv.
+Dialogue: 0,0:06:27.06,0:06:30.87,Default,,0,0,0,,Navíc naši studenti musí narozdíl od jinýc h zemí
 Dialogue: 0,0:06:30.87,0:06:33.30,Default,,0,0,0,,ukončit studium už v osmnácti letech.
 Dialogue: 0,0:06:33.30,0:06:36.21,Default,,0,0,0,,Tím přijdou o veškerý politický i vojenský vliv.
 Dialogue: 0,0:06:36.21,0:06:40.54,Default,,0,0,0,,Neměl by sis dávat pozor na jazyk?
@@ -134,15 +134,15 @@ Dialogue: 0,0:06:42.76,0:06:46.72,Default,,0,0,0,,Nemají čas sledovat, co se k
 Dialogue: 0,0:06:46.72,0:06:49.69,Default,,0,0,0,,Vstupujeme do vzdušného prostoru Mikawy, takže mají jiné starosti.
 Dialogue: 0,0:06:49.69,0:06:52.28,Default,,0,0,0,,Pán je dospělák.
 Dialogue: 0,0:06:52.98,0:06:57.65,Default,,0,0,0,,Ale je to pravda, naše země je na tom bídně.
-Dialogue: 0,0:06:57.65,0:06:59.44,Default,,0,0,0,,Ale záleži na vás, jak to půjde dál.
-Dialogue: 0,0:07:00.17,0:07:01.40,Default,,0,0,0,,Máte jasno?
+Dialogue: 0,0:06:57.65,0:06:59.44,Default,,0,0,0,,Záleži na vás, jak to půjde dál.
+Dialogue: 0,0:07:00.17,0:07:01.40,Default,,0,0,0,,M áte jasno?
 Dialogue: 0,0:07:05.11,0:07:10.16,Default,,0,0,0,,Je čas ukázat, jestli se umíte prát.
 Dialogue: 0,0:07:10.55,0:07:12.02,Default,,0,0,0,,Pravidla jsou jednoduchá.
 Dialogue: 0,0:07:12.02,0:07:17.54,Default,,0,0,0,,Pokud mě během cesty dokážete zasáhnout zbraní nebo rukama, dostanete pět docházek.
 Dialogue: 0,0:07:17.54,0:07:19.32,Default,,0,0,0,,Chápete?
 Dialogue: 0,0:07:19.32,0:07:20.88,Default,,0,0,0,,Můžete pětkrát za školu!
 Dialogue: 0,0:07:20.88,0:07:22.24,Default,,0,0,0,,Paní učitelko!
-Dialogue: 0,0:07:22.24,0:07:25.83,Default,,0,0,0,,Útok nemusí projít, stačí když se trefíme?
+Dialogue: 0,0:07:22.24,0:07:25.83,Default,,0,0,0,,Útok projít nemusí, stačí když trefíme se?
 Dialogue: 0,0:07:25.83,0:07:28.13,Default,,0,0,0,,Vy bojové typy jste puntičkáři.{*Horizon si trochu hraje na RPG, takže tohle je záměr}
 Dialogue: 0,0:07:28.13,0:07:29.52,Default,,0,0,0,,Ale je to tak.
 Dialogue: 0,0:07:29.52,0:07:30.80,Default,,0,0,0,,Stačí jakýkoliv zásah.
@@ -154,7 +154,7 @@ Dialogue: 0,0:07:48.49,0:07:49.91,Default,,0,0,0,,Hodina začíná!
 Dialogue: 0,0:07:53.99,0:07:55.54,Default,,0,0,0,,Neflákáme se!
 Dialogue: 0,0:08:05.92,0:08:07.38,Title,,0,0,0,,{\fs43.5\fax0.13\fscy120\shad0\bord1.5\blur1.5\frz354.303\move(394.5,649.5,693,753,5,1443)\3c&HBFB4B8&\c&H8F8382&}1638 \N Nechť slečna \N Horizon A. odpočívá v pokoji. \N ~Občané Musaši
 Dialogue: 0,0:08:12.07,0:08:13.88,Default,,0,0,0,,{\i1}Horizon...{\i0}
-Dialogue: 0,0:08:13.88,0:08:18.61,Default,,0,0,0,,{\i1}Pro vás to jméno jistě bude znamenat nový začátek.{\i0}
+Dialogue: 0,0:08:13.88,0:08:18.61,Default,,0,0,0,,{\i1}To je jméno, ve kterém na vás čeká nový začátek.{\i0}
 Dialogue: 0,0:08:19.02,0:08:21.18,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fs75\fad(100,100)\move(1000,780,982,780)}8:50 Blue Thunder v Tamě
 Dialogue: 1,0:08:19.02,0:08:21.18,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fs75\fad(100,100)\move(1000,780,982,780)}8:50 Blue Thunder v Tamě
 Dialogue: 2,0:08:19.02,0:08:21.18,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fs75\fad(100,100)\move(1000,780,982,780)}8:50 Blue Thunder v Tamě
@@ -170,14 +170,14 @@ Dialogue: 0,0:08:45.40,0:08:47.78,Default,,0,0,0,,Zboží dorazilo! Díky!
 Dialogue: 0,0:08:53.60,0:08:55.24,Default,,0,0,0,,Jedem!
 Dialogue: 0,0:09:02.57,0:09:04.94,Default,,0,0,0,,Adele, koukám, že jsi první.
 Dialogue: 0,0:09:04.94,0:09:07.44,Default,,0,0,0,,Rychlost je moje silná stránka.
-Dialogue: 0,0:09:09.55,0:09:12.15,Default,,0,0,0,,Já, Adele Balfette, zahajuji útok na špici.
+Dialogue: 0,0:09:09.55,0:09:12.15,Default,,0,0,0,,Já, Adele Balfette, zahajuji útok ze špice.
 Dialogue: 0,0:09:12.35,0:09:12.40,accel,,0,0,0,,{\alpha&H50\pos(957,643.5)\blur1.5}Speed {\alpha&HFF}Boost
 Dialogue: 0,0:09:12.40,0:09:12.44,accel,,0,0,0,,{\pos(957,619.5)\blur1.5}Speed Boost
 Dialogue: 0,0:09:12.44,0:09:12.48,accel,,0,0,0,,{\pos(957,651)\blur1.5}Speed Boost
 Dialogue: 0,0:09:12.48,0:09:12.52,accel,,0,0,0,,{\fs78\pos(957,624)\blur1.5}Speed Boost
 Dialogue: 0,0:09:12.52,0:09:12.56,accel,,0,0,0,,{\fs87\pos(957,708)\blur1.5}Speed Boost
 Dialogue: 0,0:09:27.36,0:09:29.65,Default,,0,0,0,,Dáte si kari?
-Dialogue: 0,0:09:33.55,0:09:35.53,Default,,0,0,0,,You got me!
+Dialogue: 0,0:09:33.55,0:09:35.53,Default,,0,0,0,,Svatá brahmíno!
 Dialogue: 0,0:09:35.53,0:09:37.10,Default,,0,0,0,,Promiň mi...
 Dialogue: 0,0:09:37.10,0:09:38.17,Default,,0,0,0,,Hej, rup!
 Dialogue: 0,0:09:38.17,0:09:39.77,Default,,0,0,0,,Jauvajky!
@@ -229,7 +229,7 @@ Dialogue: 0,0:11:22.40,0:11:24.71,Default,,0,0,0,,Střelba dávkou bez požehná
 Dialogue: 0,0:11:25.14,0:11:27.93,Default,,0,0,0,,Podobné používají i magické typy.
 Dialogue: 0,0:11:27.93,0:11:31.03,Default,,0,0,0,,V otevřeném terénu jako je rovná střecha to stačí,
 Dialogue: 0,0:11:31.03,0:11:32.96,Default,,0,0,0,,ale obchodní čtvrť je jiný terén.
-Dialogue: 0,0:11:32.96,0:11:35.25,Default,,0,0,0,,Tady přijde na řadu boj na blízko.
+Dialogue: 0,0:11:32.96,0:11:35.25,Default,,0,0,0,,Tam přijde na řadu boj na blízko.
 Dialogue: 0,0:11:40.75,0:11:42.03,Default,,0,0,0,,Teď!
 Dialogue: 0,0:11:44.77,0:11:47.00,Default,,0,0,0,,Tušila jsem, že tady přijde vaše chvíle.
 Dialogue: 0,0:11:47.00,0:11:48.90,Default,,0,0,0,,Styl: Ninja Force, Tenzó!
@@ -272,17 +272,17 @@ Dialogue: 0,0:14:22.15,0:14:23.97,Default,,0,0,0,,Jak to udělala?
 Dialogue: 0,0:14:23.97,0:14:27.80,Default,,0,0,0,,Jasně! Usekla si pramen vlasů, které pro navádění šípu
 Dialogue: 0,0:14:27.80,0:14:32.35,Default,,0,0,0,,fungovaly jako klamný cíl. Šíp se po falešném zásahu rozplynul.
 Dialogue: 0,0:14:36.31,0:14:37.82,Default,,0,0,0,,Asamo...
-Dialogue: 0,0:14:37.82,0:14:40.81,Default,,0,0,0,,Ale ve druháku nemusela udělat ani to.
+Dialogue: 0,0:14:37.82,0:14:40.81,Default,,0,0,0,,Ale ve druháku na nás stačila i bez toho.
 Dialogue: 0,0:14:48.66,0:14:50.49,Default,,0,0,0,,To letí mimo.
 Dialogue: 0,0:14:53.28,0:14:55.14,Default,,0,0,0,,Už budeme v Šinagawě!
 Dialogue: 0,0:14:56.04,0:14:58.07,Default,,0,0,0,,Margot, jdeme na to!
 Dialogue: 0,0:14:58.07,0:14:59.41,Default,,0,0,0,,Jasně, Malgo!
-Dialogue: 0,0:14:59.41,0:15:01.03,Default,,0,0,0,,Ale ať to neuspěcháme!
+Dialogue: 0,0:14:59.41,0:15:01.03,Default,,0,0,0,,Ale žádný spěch!
 Dialogue: 0,0:15:07.34,0:15:08.44,Default,,0,0,0,,Jdeme na to!
 Dialogue: 0,0:15:08.44,0:15:10.92,Default,,0,0,0,,Dvě kouzelné střelkyně, černá a bíla.
 Dialogue: 0,0:15:13.78,0:15:16.29,Default,,0,0,0,,Padlý anděl a posel boží! Náš nebeský Ansámbl.
 Dialogue: 0,0:15:23.52,0:15:26.21,Default,,0,0,0,,Že by mě konečně dohnali i magické typy?
-Dialogue: 0,0:15:26.21,0:15:31.13,Default,,0,0,0,,Chcete mě zdržet. než si ostatní připraví svoje zaříkání?
+Dialogue: 0,0:15:26.21,0:15:31.13,Default,,0,0,0,,Chcete mě zdržet, než si ostatní připraví svoje zaříkání?
 Dialogue: 0,0:15:32.93,0:15:34.42,Default,,0,0,0,,Bingo.
 Dialogue: 0,0:15:34.42,0:15:37.64,Default,,0,0,0,,Schwarze Fräulein a Weiße Fräulein používat nebudeme.
 Dialogue: 0,0:15:37.64,0:15:39.94,Default,,0,0,0,,Je to jenom trénink.
@@ -292,7 +292,7 @@ Dialogue: 0,0:15:53.27,0:15:54.22,Default,,0,0,0,,Herrlich!
 Dialogue: 0,0:15:58.72,0:16:02.09,Default,,0,0,0,,Chcete pro ostatní získat čas, nebo je rovnou odrovnat?
 Dialogue: 0,0:16:02.09,0:16:04.11,Default,,0,0,0,,Chcete nás zabít?!
 Dialogue: 0,0:16:04.11,0:16:05.57,Default,,0,0,0,,Sorka!
-Dialogue: 0,0:16:05.57,0:16:08.28,Default,,0,0,0,,Dostává docela zabrat, že?
+Dialogue: 0,0:16:05.57,0:16:08.28,Default,,0,0,0,,Dávají jí docela zabrat, že?
 Dialogue: 0,0:16:08.28,0:16:14.53,Default,,0,0,0,,V Šinagawě se pravděpodobnost úspěchu blíží nule. Konec.
 Dialogue: 0,0:16:14.53,0:16:17.70,Default,,0,0,0,,Mimochodem. Nevadí, že nejste na můstku?
 Dialogue: 0,0:16:18.58,0:16:21.78,Default,,0,0,0,,Problematická cesta přes Sagarmathský koridor je už za námi
@@ -318,7 +318,7 @@ Dialogue: 0,0:17:10.46,0:17:12.81,Default,,0,0,30,,V hrobě se odpočinete dost.
 Dialogue: 0,0:17:12.81,0:17:14.30,Default,,0,0,30,,Jediná přeživší je Suzu?
 Dialogue: 0,0:17:14.30,0:17:15.23,Default,,0,0,0,,He?
 Dialogue: 0,0:17:15.23,0:17:19.93,Default,,0,0,0,,Mě sem ale v podstatě donesli ostatní...
-Dialogue: 0,0:17:19.93,0:17:23.68,Default,,0,0,0,,Tak ale má vypadat týmová práce.
+Dialogue: 0,0:17:19.93,0:17:23.68,Default,,0,0,0,,Tak má ale týmová práce vypadat .
 Dialogue: 0,0:17:23.68,0:17:25.27,Default,,0,0,0,,Přeživší: jeden.
 Dialogue: 0,0:17:25.27,0:17:28.83,Default,,0,0,0,,A o ty, kteří odpadli, jste se dobře postarali.
 Dialogue: 0,0:17:28.83,0:17:31.40,Default,,0,0,0,,Hodně jste se zlepšili.
@@ -336,7 +336,7 @@ Dialogue: 0,0:17:59.58,0:18:01.89,Default,,0,0,0,,Pocem!
 Dialogue: 0,0:18:05.15,0:18:06.77,Default,,0,0,0,,Chce to zrychlit!
 Dialogue: 0,0:18:07.21,0:18:09.44,Default,,0,0,0,,Pocem!
 Dialogue: 0,0:18:10.93,0:18:12.11,Default,,0,0,0,,Poslouchejte!
-Dialogue: 0,0:18:12.11,0:18:15.16,Default,,0,0,0,,Každý živočich mozek uzavřený v lebce.
+Dialogue: 0,0:18:12.11,0:18:15.16,Default,,0,0,0,,Každý živočich má mozek chráněnýv lebkou.
 Dialogue: 0,0:18:15.16,0:18:17.88,Default,,0,0,0,,Vetší rána způsobí otřes mozku.
 Dialogue: 0,0:18:17.88,0:18:20.37,Default,,0,0,0,,A na takovou ránu se musíte pořádně
 Dialogue: 0,0:18:21.44,0:18:22.08,Default,,0,0,0,,napřáhnout!
@@ -344,7 +344,7 @@ Dialogue: 0,0:18:26.38,0:18:30.11,Default,,0,0,0,,A pak ještě jednou z druhé 
 Dialogue: 0,0:18:35.92,0:18:37.89,Default,,0,0,0,,Tohle je slabina každého belzebuba.
 Dialogue: 0,0:18:40.39,0:18:42.86,Default,,0,0,0,,Takže, první praktika máme za sebou.
 Dialogue: 0,0:18:42.86,0:18:43.56,Default,,0,0,0,,Příště bude...
-Dialogue: 0,0:18:45.12,0:18:46.59,Default,,0,0,0,,Asi se nás lekli...
+Dialogue: 0,0:18:45.12,0:18:46.59,Default,,0,0,0,,Že bychom je vylekali?
 Dialogue: 0,0:18:46.59,0:18:49.52,Default,,0,0,0,,Hola, smečko! Co vy tady?
 Dialogue: 0,0:18:52.18,0:18:53.59,Default,,0,0,0,,Tóri!
 Dialogue: 0,0:18:57.97,0:18:59.99,Default,,0,0,0,,Tóri "Impossible" Aoi...
