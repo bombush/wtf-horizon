@@ -18,10 +18,10 @@ Audio File: [Zurako] Kyoukai Senjou no Horizon - 02 - Innocents at the Table (BD
 Video File: [Zurako] Kyoukai Senjou no Horizon - 02 - Innocents at the Table (BD 1080p AAC) [1E51A951].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 376
-Active Line: 383
-Video Position: 29187
+Video Zoom Percent: 0.375000
+Scroll Position: 14
+Active Line: 15
+Video Position: 1733
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,31 +46,17 @@ Dialogue: 2,0:00:02.85,0:00:06.27,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\b
 Dialogue: 0,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HF0F0F0&\fad(400,600)\an7\pos(66,804)} 7:58 \N obývací pokoj rodiny Honda, Marujama
 Dialogue: 1,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(66,804)} 7:58 \N obývací pokoj rodiny Honda, Marujama
 Dialogue: 2,0:00:07.90,0:00:11.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(66,804)} 7:58 \N obývací pokoj rodiny Honda, Marujama
-Dialogue: 0,0:00:25.68,0:00:31.94,INS,,0,0,0,,{\fad(300,500)\blur1.5}Walk yonder path, walk yonder path
+Dialogue: 0,0:00:25.68,0:00:31.94,INS,,0,0,0,,{\fad(300,500)\blur1.5}Pojď dál, jen pojď dál.
 Dialogue: 0,0:00:28.21,0:00:29.52,Default,,0,0,0,,Do háje!
 Dialogue: 0,0:00:32.12,0:00:35.13,Default,,0,0,0,,{\i1}To ráno bylo jako každé jiné.{\i0}
-Dialogue: 0,0:00:32.56,0:00:39.40,INS,,0,0,0,,{\fad(200,200)\blur1.5}Set out now, perchance to find
+Dialogue: 0,0:00:32.56,0:00:39.40,INS,,0,0,0,,{\fad(200,200)\blur1.5}Povězte kam až vine se ta pěšina?
 Dialogue: 0,0:00:36.13,0:00:37.43,Default,,0,0,0,,{\i1}Nikde nic zvláštního.{\i0}
 Dialogue: 0,0:00:38.39,0:00:40.05,Default,,0,0,0,,{\i1}Svět stejný jako každý den.{\i0}
-Dialogue: 0,0:00:39.40,0:00:46.06,INS,,0,0,0,,{\fad(200,200)\blur1.5}the narrow path to Gods does wind
+Dialogue: 0,0:00:39.40,0:00:46.06,INS,,0,0,0,,{\fad(200,200)\blur1.5}Až k bohům do nebes, kde všechno živé počíná.
 Dialogue: 0,0:00:41.10,0:00:44.50,Default,,0,0,0,,{\i1}Ten zdánlivě neotřesitelný klid našeho života{\i0}
-Dialogue: 0,0:00:44.50,0:00:47.43,Default,,0,0,0,,{\i1}se ale začínal drolit.{\i0}
-Dialogue: 0,0:00:46.06,0:00:52.67,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Do not say such, its perils much
+Dialogue: 0,0:00:44.50,0:00:47.43,Default,,0,0,0,,{\i1}se ale začínal rozpadat.{\i0}
+Dialogue: 0,0:00:46.06,0:00:52.67,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Ty však mlč - slova zbytečně jen maří\Nten, jemuž projít se ji nepodaří.
 Dialogue: 0,0:00:48.71,0:00:50.40,Default,,0,0,0,,{\i1}Tehdy jsem...{\i0}
-Dialogue: 0,0:01:12.25,0:01:15.26,OP,,0,0,0,,{\blur1.5\fad(300,250)}What do you see?
-Dialogue: 0,0:01:15.42,0:01:18.68,OP,,0,0,0,,{\blur1.5\fad(250,250)}You, as you are now,
-Dialogue: 0,0:01:18.84,0:01:24.56,OP,,0,0,0,,{\blur1.5\fad(300,0)}lock your heart until you've summoned the strength you need
-Dialogue: 0,0:01:24.56,0:01:27.65,OP,,0,0,0,,{\blur1.5\fad(300,250)}What do you hear?
-Dialogue: 0,0:01:27.65,0:01:30.73,OP,,0,0,0,,{\blur1.5\fad(300,250)}Shall we speak of bygone days
-Dialogue: 0,0:01:30.73,0:01:35.95,OP,,0,0,0,,{\blur1.5\fad(300,100)}in this secret, little room?
-Dialogue: 0,0:01:36.69,0:01:43.07,OP,,0,0,0,,{\blur1.5\fad(300,100)}My memories embraced all mysteries and smashed them
-Dialogue: 0,0:01:43.07,0:01:45.95,OP,,0,0,0,,{\blur1.5\fad(300,250)}with quiet prayers I overcame my suffering
-Dialogue: 0,0:01:45.95,0:01:52.26,OP,,0,0,0,,{\blur1.5\fad(250,250)}and a new world began
-Dialogue: 0,0:01:52.26,0:01:57.84,OP,,0,0,0,,{\blur1.5\fad(0,100)}I didn't know whether men could accept the future
-Dialogue: 0,0:01:57.84,0:02:01.30,OP,,0,0,0,,{\blur1.5\fad(100,100)}like drinking wine
-Dialogue: 0,0:02:01.30,0:02:04.48,OP,,0,0,0,,{\blur1.5}and threw all I had away
-Dialogue: 0,0:02:04.48,0:02:10.35,OP,,0,0,0,,{\blur1.5}This new world lies in the vale between cold reason and utter miracles
-Dialogue: 0,0:02:10.81,0:02:18.61,OP,,0,0,0,,{\blur1.5\fad(100,250)}Why was it here that I could meet you?
 Dialogue: 0,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\pos(1163,217)}9:39, Vchod do Blue Thunder, Tama
 Dialogue: 1,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\pos(1163,217)}9:39, Vchod do Blue Thunder, Tama
 Dialogue: 2,0:02:23.66,0:02:27.08,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\pos(1163,217)}9:39, Vchod do Blue Thunder, Tama
@@ -268,11 +254,11 @@ Dialogue: 0,0:11:17.57,0:11:21.10,Default,,0,0,0,,Ty mámu nemáš - žiješ dí
 Dialogue: 0,0:11:21.10,0:11:21.94,Default,,0,0,0,,Judge.
 Dialogue: 0,0:11:22.35,0:11:24.31,Default,,0,0,0,,Pokud mohu mluvit upřimně,
 Dialogue: 0,0:11:25.17,0:11:28.20,Default,,0,0,0,,myslím, že jste svoji matku měla ráda, slečno Masazumi.
-Dialogue: 0,0:11:33.07,0:11:40.00,Default,,0,0,0,,{\i1}Rejoice, my child now is ten of age
-Dialogue: 0,0:11:40.47,0:11:47.22,Default,,0,0,0,,{\i1}and will need charms 'gainst heaven's rage
-Dialogue: 0,0:11:47.22,0:11:53.71,Default,,0,0,0,,{\i1}The journey might be bliss eternal
-Dialogue: 0,0:11:53.71,0:11:57.61,Default,,0,0,0,,{\i1}but downwards 'gain is
-Dialogue: 0,0:11:57.61,0:12:03.41,Default,,0,0,0,,{\i1}fear infernal
+Dialogue: 0,0:11:33.07,0:11:40.00,Default,,0,0,0,,{\i1}Desáté výročí ta dívka že prý slaví,
+Dialogue: 0,0:11:40.47,0:11:47.22,Default,,0,0,0,,{\i1}darem amuletů pár já teď nesu jí.
+Dialogue: 0,0:11:47.22,0:11:53.71,Default,,0,0,0,,{\i1}A ta cesta vpřed jako sad líbezný se vine,
+Dialogue: 0,0:11:53.71,0:11:57.61,Default,,0,0,0,,{\i1}při návratu však srdce jen strachy
+Dialogue: 0,0:11:57.61,0:12:03.41,Default,,0,0,0,,{\i1}hyne.
 Dialogue: 0,0:12:04.38,0:12:07.32,Default,,0,0,0,,Děje se něco, slečno Masazumi?
 Dialogue: 0,0:12:09.23,0:12:11.69,Default,,0,0,0,,Víš, že pocházím z Mikawy?
 Dialogue: 0,0:12:12.28,0:12:14.33,Default,,0,0,0,,Pod vládcem Mikawy, Macudairou,
@@ -469,27 +455,3 @@ Dialogue: 1,0:22:26.28,0:22:29.91,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H8
 Dialogue: 2,0:22:26.28,0:22:29.91,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(33,805)}18:30\NCentrální jednotící reaktor v Šin-nagojském hradě
 Dialogue: 0,0:22:28.23,0:22:31.04,Default,,0,0,45,,To jsem zvědavý, jak to dopadne.
 Dialogue: 0,0:22:34.68,0:22:37.29,Default,,0,0,0,,Dnešního ohňostroje se nemůžu dočkat.
-Dialogue: 1,0:22:46.06,0:22:49.99,ED,,0,0,0,,{\blur1.5\fad(200,350)}Towards the sky strives
-Dialogue: 0,0:22:46.06,0:22:49.99,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Towards the sky strives
-Dialogue: 1,0:22:50.49,0:22:57.26,ED,,0,0,0,,{\blur1.5\fad(200,350)}our sailing voyage across the real world
-Dialogue: 0,0:22:50.49,0:22:57.26,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}our sailing voyage across the real world
-Dialogue: 1,0:22:57.73,0:23:01.64,ED,,0,0,0,,{\blur1.5\fad(200,350)}Although I own nothing
-Dialogue: 0,0:22:57.73,0:23:01.64,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Although I own nothing
-Dialogue: 1,0:23:02.03,0:23:08.84,ED,,0,0,0,,{\blur1.5\fad(200,350)}I have sparkling dreams within my heart
-Dialogue: 0,0:23:02.03,0:23:08.84,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}I have sparkling dreams within my heart
-Dialogue: 1,0:23:09.36,0:23:15.23,ED,,0,0,0,,{\blur1.5\fad(200,350)}So far I can not make out what your heart has to say
-Dialogue: 0,0:23:09.36,0:23:15.23,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}So far I can not make out what your heart has to say
-Dialogue: 1,0:23:15.50,0:23:20.04,ED,,0,0,0,,{\blur1.5\fad(200,350)}but I want to know, show me your true self
-Dialogue: 0,0:23:15.50,0:23:20.04,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}but I want to know, show me your true self
-Dialogue: 1,0:23:20.18,0:23:26.72,ED,,0,0,0,,{\blur1.5\fad(200,350)}Countless things have been scattered all across the world
-Dialogue: 0,0:23:20.18,0:23:26.72,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Countless things have been scattered all across the world
-Dialogue: 1,0:23:26.99,0:23:32.40,ED,,0,0,0,,{\blur1.5\fad(200,350)}We will find them one by one and fill the void
-Dialogue: 0,0:23:26.99,0:23:32.40,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}We will find them one by one and fill the void
-Dialogue: 1,0:23:32.59,0:23:37.36,ED,,0,0,0,,{\blur1.5\fad(200,350)}Someone stole your smile from you
-Dialogue: 0,0:23:32.59,0:23:37.36,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}Someone stole your smile from you
-Dialogue: 1,0:23:37.49,0:23:40.98,ED,,0,0,0,,{\blur1.5\fad(200,350)}These days I run to retrieve it
-Dialogue: 0,0:23:37.49,0:23:40.98,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}These days I run to retrieve it
-Dialogue: 1,0:23:41.21,0:23:47.15,ED,,0,0,0,,{\blur1.5\fad(200,350)}down a path shining with light
-Dialogue: 0,0:23:41.21,0:23:47.15,Copy of ED,,0,0,0,,{\blur3\fad(200,350)}down a path shining with light
-Dialogue: 0,0:24:17.01,0:24:21.01,Title 2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,187)}Next Episode
-Dialogue: 0,0:24:17.01,0:24:21.01,Title 2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,720)}Commandos in Town

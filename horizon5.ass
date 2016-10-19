@@ -19,9 +19,9 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 05 - Graduates Under the Moon (
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 299
-Active Line: 316
-Video Position: 35001
+Scroll Position: 251
+Active Line: 256
+Video Position: 26353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,21 +40,21 @@ Style: date 2,Thames,69,&H00FFFFFF,&H00FFFFFF,&H00899294,&H78000000,0,0,0,0,105,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.59,0:00:08.85,INS,,0,0,0,,{\fad(300,500)\blur1.5}Walk yonder path, walk yonder path
-Dialogue: 0,0:00:09.47,0:00:16.31,INS,,0,0,0,,{\fad(300,200)\blur1.5}Set out now, perchance to find
-Dialogue: 0,0:00:16.31,0:00:23.03,INS,,0,0,0,,{\fad(300,200)\blur1.5}the narrow path to Gods does wind
+Dialogue: 0,0:00:02.59,0:00:08.85,INS,,0,0,0,,{\fad(300,500)\blur1.5}Pojď dál, jen pojď dál.
+Dialogue: 0,0:00:09.47,0:00:16.31,INS,,0,0,0,,{\fad(300,200)\blur1.5}Pověz mi kam až vine se ta pěšina?
+Dialogue: 0,0:00:16.31,0:00:23.03,INS,,0,0,0,,{\fad(300,200)\blur1.5}Až k bohům do nebes, kde všechno živé počíná.
 Dialogue: 0,0:00:17.99,0:00:21.37,Default,,0,0,0,,{\i1}To ráno bylo stejné jako všechna předchozí.{\i0}
-Dialogue: 0,0:00:23.03,0:00:29.58,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Do not say such, its perils much
+Dialogue: 0,0:00:23.03,0:00:29.58,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Ty však mlč - slova zbytečně jen maří\Nten, jemuž projít se ji nepodaří.
 Dialogue: 0,0:00:23.18,0:00:25.20,Default,,0,0,0,,{\i1}Nebylo na něm nic zvláštního.{\i0}
 Dialogue: 0,0:00:26.84,0:00:28.63,Default,,0,0,38,,{\i1}Svět vypadal stejně jako vždy.{\i0}
-Dialogue: 0,0:00:29.58,0:00:36.67,INS,,0,0,0,,{\fad(200,500)\blur1.5}Rejoice, my child now is ten of age
-Dialogue: 0,0:00:30.13,0:00:33.59,Title,,0,0,0,,{\an2\fs36\shad0\bord1.2\blur0.8\c&H8E9199&\3c&HE8E2D8&\frz357.807\move(1194,354,1113,354,2,3450)}1638 \N May the young lady, \N Horizon A., rest in peace. \N ~Residents of Musashi
+Dialogue: 0,0:00:29.58,0:00:36.67,INS,,0,0,0,,{\fad(200,500)\blur1.5}Desáté výročí ta dívka že prý slaví
+Dialogue: 0,0:00:30.13,0:00:33.59,Title,,0,0,0,,{\an2\fs36\shad0\bord1.2\blur0.8\c&H8E9199&\3c&HE8E2D8&\frz357.807\move(1194,354,1113,354,2,3450)}1638 \N Nechť slečna \N Horizon A. odpočívá v pokoji. \N ~Občané Musaši
 Dialogue: 0,0:00:32.09,0:00:36.02,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života{\i0}
 Dialogue: 0,0:00:36.44,0:00:40.50,Default,,0,0,0,,{\i1}se ale začínal hroutit.{\i0}
-Dialogue: 0,0:00:36.67,0:00:43.26,INS,,0,0,0,,{\fad(400,200)\blur1.5}and will need charms 'gainst heaven's rage
-Dialogue: 0,0:00:43.72,0:00:50.14,INS,,0,0,0,,{\fad(200,200)\blur1.5}The journey might be bliss eternal
+Dialogue: 0,0:00:36.67,0:00:43.26,INS,,0,0,0,,{\fad(400,200)\blur1.5}darem amuletů pár já teď nesu jí.
+Dialogue: 0,0:00:43.72,0:00:50.14,INS,,0,0,0,,{\fad(200,200)\blur1.5}A ta cesta vpřed jako sad líbezný se vine,
 Dialogue: 0,0:00:48.97,0:00:52.26,Default,,0,0,0,,{\i1}Tehdy celý svět...{\i0}
-Dialogue: 0,0:00:50.14,0:00:59.95,INS,,0,0,0,,{\fad(200,1200)\blur1.5}but downwards 'gain is fear infernal
+Dialogue: 0,0:00:50.14,0:00:59.95,INS,,0,0,0,,{\fad(200,1200)\blur1.5}při návratu však srdce jen strachy hyne.
 Dialogue: 0,0:01:23.78,0:01:24.66,Default,,0,0,0,,Sejměte ji!
 Dialogue: 0,0:01:24.66,0:01:26.69,Default,,0,0,0,,Leť kuředu.
 Dialogue: 0,0:01:35.49,0:01:36.25,Default,,0,0,0,,Ještě uvidíš!
@@ -70,7 +70,7 @@ Dialogue: 0,0:02:26.93,0:02:27.85,Default,,0,0,0,,Přivázat!
 Dialogue: 0,0:02:38.76,0:02:40.93,Default,,0,0,0,,C-co to je...
 Dialogue: 0,0:02:41.36,0:02:43.39,Default,,0,0,0,,Zdá se, že nevíš.
 Dialogue: 0,0:02:43.80,0:02:48.28,Default,,0,0,0,,Na hrotu čepele jednou přistála vážka. Jen co usedla, rozpůlila se vedví. Odtud pochází jméno
-Dialogue: 0,0:02:48.28,0:02:49.54,Default,,0,0,0,,této z božských zbraní.
+Dialogue: 0,0:02:48.28,0:02:49.54,Default,,0,0,0,,této z Božských zbraní.
 Dialogue: 0,0:02:50.71,0:02:52.33,Default,,0,0,0,,Hbitá vážka.
 Dialogue: 0,0:03:01.80,0:03:05.41,Default,,0,0,0,,Za šest minut dosáhne reaktor kritického stavu.
 Dialogue: 0,0:03:05.41,0:03:07.55,Default,,0,0,0,,Zdá se, že jste si dal načas.
@@ -79,8 +79,8 @@ Dialogue: 0,0:03:09.54,0:03:12.42,Default,,0,0,0,,Teď půjdu nastoupit stráž 
 Dialogue: 0,0:03:12.73,0:03:13.76,Default,,0,0,0,,Co ty?
 Dialogue: 0,0:03:14.64,0:03:17.12,Default,,0,0,0,,Budu následovat pánovu vůli.
 Dialogue: 0,0:03:17.87,0:03:18.98,Default,,0,0,0,,Dobře.
-Dialogue: 0,0:03:22.84,0:03:27.24,Title,,0,0,0,,{\fad(600,600)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3800,0,\blur3)\fad(600,600)\pos(1451,863)}Graduates Under the Moon
-Dialogue: 1,0:03:22.84,0:03:27.24,Title,,0,0,0,,{\fad(600,600)\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3800,0,\blur5)\pos(1447,859)}Graduates Under the Moon
+Dialogue: 0,0:03:22.84,0:03:27.24,Title,,0,0,0,,{\fad(600,600)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3800,0,\blur3)\fad(600,600)\pos(1451,863)}Absolventi za svitu měsíce
+Dialogue: 1,0:03:22.84,0:03:27.24,Title,,0,0,0,,{\fad(600,600)\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3800,0,\blur5)\pos(1447,859)}Absolventi za svitu měsíce
 Dialogue: 0,0:03:25.34,0:03:29.01,Default,,0,0,38,,Byla bych se ale ráda převlékla.
 Dialogue: 0,0:03:38.06,0:03:38.82,Default,,0,0,0,,Kazuno?
 Dialogue: 0,0:03:43.01,0:03:43.66,Default,,0,0,0,,Co je?!
@@ -90,8 +90,8 @@ Dialogue: 0,0:04:12.32,0:04:14.31,Default,,0,0,0,,Poprvé se setkáváme.
 Dialogue: 0,0:04:14.81,0:04:17.88,Default,,0,0,0,,Jmenuji se Munešige Tačibana z Tres España a jsem
 Dialogue: 0,0:04:17.88,0:04:22.66,Default,,0,0,0,,nositelem jména "rychlonohý García de Ceballos".
 Dialogue: 0,0:04:22.66,0:04:25.03,Default,,0,0,0,,Můj bojový typ je strike-forcer.
-Dialogue: 0,0:04:25.60,0:04:30.73,Default,,0,0,0,,Jsem nositelem Lenosti smutku, jedné ze Zbraní smrtelných hříchů,
-Dialogue: 0,0:04:30.73,0:04:34.12,Default,,0,0,0,,jeden z Osmi dračích králů.
+Dialogue: 0,0:04:25.60,0:04:30.73,Default,,0,0,0,,Jsem nositelem Lenosti smutku, jedné ze Zbraní smrtelných hříchů.
+Dialogue: 0,0:04:30.73,0:04:34.12,Default,,0,0,0,,Jsem také jeden z Osmi dračích králů.
 Dialogue: 0,0:04:34.51,0:04:36.92,Default,,0,0,0,,Jsi celý žhavý si to rozdat, co?
 Dialogue: 0,0:04:37.37,0:04:38.56,Default,,0,0,0,,Testament!
 Dialogue: 0,0:04:41.33,0:04:43.28,Default,,0,0,0,,Žádám vás, vzdejte se.
@@ -99,14 +99,14 @@ Dialogue: 0,0:04:43.28,0:04:45.33,Default,,0,0,0,,Hbitá vážka! Přivázat!
 Dialogue: 0,0:04:57.38,0:04:59.94,Default,,0,0,0,,Zdá se, že rychlonohý ti neříkají pro nic za nic.
 Dialogue: 0,0:05:00.14,0:05:01.11,Default,,0,0,0,,Tes.
 Dialogue: 0,0:05:01.11,0:05:05.07,Default,,0,0,0,,Hbitá vážka k sobě dokáže přivázat jméno soupeře, který se odrazí na její čepeli.
-Dialogue: 0,0:05:05.07,0:05:06.41,Default,,0,0,0,,Soupeře a jeho jméno pak oddělí.
+Dialogue: 0,0:05:05.07,0:05:06.41,Default,,0,0,0,,To pak oddělí od existence.
 Dialogue: 0,0:05:07.11,0:05:09.07,Default,,0,0,0,,Dosah efektu je 30 metrů.
 Dialogue: 0,0:05:09.07,0:05:11.08,Default,,0,0,0,,Musím tedy zůstat mimo dosah, a nebo nedovolit,
 Dialogue: 0,0:05:11.08,0:05:13.92,Default,,0,0,0,,abych se vůbec na čepeli odrazil.
 Dialogue: 0,0:05:14.82,0:05:16.12,Default,,0,0,0,,Jak to všechno víš?
 Dialogue: 0,0:05:16.67,0:05:18.80,Default,,0,0,0,,Copak, pořád naživu?
 Dialogue: 0,0:05:19.06,0:05:22.87,Default,,0,0,0,,Netušila jsem, že vás tak zajímají mrtvoly.
-Dialogue: 0,0:05:22.87,0:05:24.45,Default,,0,0,0,,Mám tě jako brnění.
+Dialogue: 0,0:05:22.87,0:05:24.45,Default,,0,0,0,,Hodíš se mi jako brnění.
 Dialogue: 0,0:05:25.00,0:05:28.18,Default,,0,0,0,,Pak byste mě měl držet takto.
 Dialogue: 0,0:05:28.83,0:05:32.56,Default,,0,0,0,,Nechala jsem střelu vstoupit do těla
 Dialogue: 0,0:05:32.56,0:05:36.48,Default,,0,0,0,,a svedla ji na stranu pomocí mého gravitačního gradientu.
@@ -115,9 +115,9 @@ Dialogue: 0,0:05:38.81,0:05:41.78,Default,,0,0,0,,Hypermód Lenosti smutku.
 Dialogue: 0,0:05:44.41,0:05:47.45,Default,,0,0,0,,Lenost smutku může pracovat ve třech módech.
 Dialogue: 0,0:05:47.67,0:05:50.17,Default,,0,0,0,,Pevní je běžný gunblade.
 Dialogue: 0,0:05:50.17,0:05:54.01,Default,,0,0,0,,Dále běžný mód podobný Hbité vážce.
-Dialogue: 0,0:05:54.01,0:05:57.42,Default,,0,0,0,,A poté hypermód hromadného ničení.
-Dialogue: 0,0:05:58.49,0:06:03.14,Default,,0,0,0,,V něm může odříznout existenci čehokoliv v operační vzdálenosti, co se odrazí na její čepeli.
-Dialogue: 0,0:06:03.98,0:06:08.38,Default,,0,0,0,,Po aktivaci začne ničit vše v okolí jako člověk zešílený zoufalstvím.
+Dialogue: 0,0:05:54.01,0:05:57.42,Default,,0,0,0,,A poté hypermód schopný hromadného ničení.
+Dialogue: 0,0:05:58.49,0:06:03.14,Default,,0,0,0,,V něm může odříznout od existence cokoliv v operační vzdálenosti, co se odrazí na její čepeli.
+Dialogue: 0,0:06:03.98,0:06:08.38,Default,,0,0,0,,Po aktivaci začne ničit vše v okolí jako člověk, který zešílel zoufalstvím.
 Dialogue: 0,0:06:12.02,0:06:14.60,Default,,0,0,0,,Dosah má zhruba tři kilometry, že?
 Dialogue: 0,0:06:15.30,0:06:18.60,Default,,0,0,0,,Usuzuji, že teď můžeš hypermód aktivovat už jen jednou.
 Dialogue: 0,0:06:18.91,0:06:19.82,Default,,0,0,0,,Tes.
@@ -134,14 +134,13 @@ Dialogue: 0,0:07:13.45,0:07:16.41,Default,,0,0,0,,éter zapříčiní přetíže
 Dialogue: 0,0:07:16.81,0:07:17.84,Default,,0,0,0,,Správně!
 Dialogue: 0,0:07:19.26,0:07:20.71,Default,,0,0,0,,Gratuluji, dostal jsi se daleko.
 Dialogue: 0,0:07:21.32,0:07:24.06,Default,,0,0,0,,Máš zhruba pět minut, abys nás zastavil.
-Dialogue: 0,0:07:23.46,0:07:27.80,spell,,0,0,0,,{\fad(1200,0)\bord3\blur3.5\fs37.5\c&H1F2570&\pos(538.5,46.5)\3c&H2436E7&}Motonobu {\3c&H45E0F3&}Matsudaira
+Dialogue: 0,0:07:23.46,0:07:27.80,spell,,0,0,0,,{\fad(1200,0)\bord3\blur3.5\fs37.5\c&H1F2570&\pos(538.5,46.5)\3c&H2436E7&}Motonobu {\3c&H45E0F3&}Macudaira
 Dialogue: 0,0:07:24.06,0:07:26.72,Default,,0,0,0,,Jak to dokážeš, Munešige Tačibano?
 Dialogue: 0,0:07:27.46,0:07:30.11,Default,,0,0,0,,Dobře si rozmysli, jak ten čas využiješ.
 Dialogue: 0,0:07:31.64,0:07:34.01,Default,,0,0,0,,Lidé všech zemí! Přeji vám
 Dialogue: 0,0:07:34.39,0:07:35.97,Default,,0,0,0,,dobrý večer!
 Dialogue: 0,0:07:35.97,0:07:41.90,Default,,0,0,0,,Hlásím se vám z Mikawy, kde se reaktory chystají na explozi zábavy.
 Dialogue: 0,0:07:42.48,0:07:43.73,Default,,0,0,0,,Pane Motonobu...
-Dialogue: 0,0:07:43.73,0:07:48.11,spell,,0,0,0,,{\fs24\frz60.074\blur0.8\t(\fs27)\move(1084.5,382.5,1095,373.5,0,4365)\c&H35B8D9&}The World
 Dialogue: 0,0:07:44.12,0:07:46.17,Default,,0,0,0,,Ano, Munešige?
 Dialogue: 0,0:07:46.17,0:07:47.69,Default,,0,0,0,,Chceš ne na něco zeptat?
 Dialogue: 0,0:07:48.52,0:07:49.51,Default,,0,0,0,,Tes!
@@ -172,7 +171,6 @@ Dialogue: 0,0:08:58.66,0:09:02.71,Default,,0,0,0,,Děti moje, vdyť je to jednod
 Dialogue: 0,0:09:02.71,0:09:06.22,Default,,0,0,0,,Je jenom jedna věc děsivější, než přivést Dálný východ na pokraj záhuby.
 Dialogue: 0,0:09:06.90,0:09:07.65,Default,,0,0,0,,Přesně tak!
 Dialogue: 0,0:09:08.22,0:09:10.65,Default,,0,0,0,,Je to konec světa!
-Dialogue: 0,0:09:09.28,0:09:10.64,spell,,0,0,0,,{\fad(200,0)\bord3\blur1.5\fs37.5\c&HE45F6F&\3c&HFFDDC2&\t(80,940,\fs34.5)\move(555,274.5,570,264,80,940)}Divine Transmission
 Dialogue: 0,0:09:10.90,0:09:14.40,Default,,0,0,0,,Konec našeho světa - to je dokonalá šou!
 Dialogue: 0,0:09:14.96,0:09:19.66,Default,,0,0,0,,Školní léta se blíží ke konci. Absolventy čeká konec světa.
 Dialogue: 0,0:09:19.92,0:09:21.48,Default,,0,0,0,,To je rauš, co?
@@ -254,7 +252,7 @@ Dialogue: 0,0:14:17.56,0:14:19.12,Default,,0,0,0,,Hbitá vážka!
 Dialogue: 0,0:14:24.84,0:14:25.89,Default,,0,0,0,,Uzavřít.
 Dialogue: 0,0:14:37.09,0:14:38.02,Default,,0,0,0,,Navázat!
 Dialogue: 0,0:14:45.19,0:14:48.75,Default,,0,0,0,,Omlouvám se za svoji neuctivost.
-Dialogue: 0,0:14:48.75,0:14:51.70,Default,,0,0,0,,Byla to jenom zvláštní schopnost mé zbroje.
+Dialogue: 0,0:14:48.75,0:14:51.70,Default,,0,0,0,,Kdepak, jsem rád, že má moje zbroj zvláštní schopnosti.
 Dialogue: 0,0:14:52.00,0:14:55.12,Default,,0,0,0,,Soupeř měl lepší zbraň.
 Dialogue: 0,0:14:55.12,0:14:56.14,Default,,0,0,0,,Judge.
 Dialogue: 0,0:14:56.14,0:14:58.16,Default,,0,0,0,,Komu není shůry dáno, v apatyce nekoupí.
@@ -297,7 +295,7 @@ Dialogue: 0,0:18:05.53,0:18:09.98,Default,,0,0,0,,Jsi Gin Tačibana, dcera Dóse
 Dialogue: 0,0:18:09.98,0:18:11.47,Default,,0,0,0,,Slyšel jsem, že jsi silná!
 Dialogue: 0,0:18:13.24,0:18:16.97,Default,,0,0,0,,Otec učinil svým dědicem Munešigeho.
 Dialogue: 0,0:18:16.97,0:18:18.42,Default,,0,0,0,,Nemá co víc říci.
-Dialogue: 0,0:18:19.12,0:18:22.66,Default,,0,0,0,,To neznamená, že jsi slabá.
+Dialogue: 0,0:18:19.12,0:18:22.66,Default,,0,0,0,,To ale neznamená, že ty jsi slabá.
 Dialogue: 0,0:18:25.37,0:18:27.33,Default,,0,0,0,,Mám zakázáno účastnit se boje.
 Dialogue: 0,0:18:27.33,0:18:29.72,Default,,0,0,0,,Nyní se vzdálím.
 Dialogue: 0,0:18:30.99,0:18:31.92,Default,,0,0,0,,Judge.
@@ -318,9 +316,9 @@ Dialogue: 0,0:20:12.23,0:20:14.35,Default,,0,0,0,,Oscilační vzorce éteru sed�
 Dialogue: 0,0:20:14.65,0:20:17.15,Default,,0,0,0,,Bezpochyby to je Zbraň smrtelných hříchů.
 Dialogue: 0,0:20:19.93,0:20:21.05,Default,,0,0,0,,Chci, abyste ji polapili.
 Dialogue: 0,0:20:32.47,0:20:33.53,Default,,0,0,0,,Horizon!
-Dialogue: 0,0:20:46.37,0:20:47.05,spell,,0,0,0,,{\fad(0,50)\bord3.75\blur1.8\fs52.5\c&HC4CC16&\frz318.197\clip(290,300,741,717)\move(915,891,525,558,0,292)\3c&H393642&}Activating Spell: "March"
-Dialogue: 0,0:20:46.39,0:20:47.01,spell,,0,0,0,,{\blur2\c&HEBEEFD&\pos(1048.5,817.5)\frz228.733}Universal
-Dialogue: 0,0:20:50.69,0:20:52.43,Default,,0,0,0,,Snažíš se mě ulechtat?
+Dialogue: 0,0:20:46.37,0:20:47.05,spell,,0,0,0,,{\fad(0,50)\bord3.75\blur1.8\fs52.5\c&HC4CC16&\frz318.197\clip(290,300,741,717)\move(915,891,525,558,0,292)\3c&H393642&}Aktivace schopnosti: "březnové"
+Dialogue: 0,0:20:46.39,0:20:47.01,spell,,0,0,0,,{\blur2\c&HEBEEFD&\pos(1048.5,817.5)\frz228.733}Univerzální
+Dialogue: 0,0:20:50.69,0:20:52.43,Default,,0,0,0,,To mě možná tak polechtalo.
 Dialogue: 0,0:20:56.98,0:21:01.06,Default,,0,0,0,,Dle zmocnění Unie Testamentu přebýrá nyní K.P.A Italia
 Dialogue: 0,0:21:01.06,0:21:03.16,Default,,0,0,0,,správu nad touto oblastí!
 Dialogue: 0,0:21:04.34,0:21:05.48,Default,,0,0,0,,Horizon!
@@ -328,8 +326,8 @@ Dialogue: 0,0:21:10.59,0:21:12.80,Default,,0,0,0,,Odpor je zbytečný.
 Dialogue: 0,0:21:18.84,0:21:20.47,Default,,0,0,0,,Já, P-01s...
 Dialogue: 0,0:21:21.49,0:21:22.69,Default,,0,0,0,,Horizon...
 Dialogue: 0,0:21:24.07,0:21:27.14,Default,,0,0,0,,s tím nic nenadělám, že?
-Dialogue: 0,0:21:32.79,0:21:37.02,spell,,0,0,0,,{\blur1.5\fs54\fay-0.4\fax-0.1\bord7.5\c&H181818&\t(\fs66)\frz327.617\i1\move(1113,433.5,1153.5,390,0,4214)\3c&H14200E&}List of \N\NInstructor's \NComments
-Dialogue: 1,0:21:32.79,0:21:37.02,spell,,0,0,0,,{\blur1.5\fs54\fay-0.4\fax-0.1\bord3.75\c&H181818&\t(\fs66)\frz327.617\i1\move(1113,433.5,1153.5,390,0,4214)\3c&HABB4A5&}List of \N\NInstructor's \NComments
+Dialogue: 0,0:21:32.79,0:21:37.02,spell,,0,0,0,,{\blur1.5\fs54\fay-0.4\fax-0.1\bord7.5\c&H181818&\t(\fs66)\frz327.617\i1\move(1113,433.5,1153.5,390,0,4214)\3c&H14200E&}Skutky\Nvůdců
+Dialogue: 1,0:21:32.79,0:21:37.02,spell,,0,0,0,,{\blur1.5\fs54\fay-0.4\fax-0.1\bord3.75\c&H181818&\t(\fs66)\frz327.617\i1\move(1113,433.5,1153.5,390,0,4214)\3c&HABB4A5&}Skutky\Nvůdců
 Dialogue: 0,0:21:33.46,0:21:36.72,Default,,0,0,0,,Nejlépe bude zařídit se podle tohoto textu, že?
 Dialogue: 0,0:21:37.35,0:21:38.47,Default,,0,0,0,,Horizon!
 Dialogue: 0,0:21:39.26,0:21:40.69,Default,,0,0,0,,Slyšíš mě, Horizon?!
@@ -341,22 +339,14 @@ Dialogue: 0,0:22:00.97,0:22:03.31,Default,,0,0,0,,{\i1}Takhle nikoho nezachrán�
 Dialogue: 0,0:22:08.96,0:22:11.20,Default,,0,0,0,,{\i1}Je mimo tvůj dosah.
 Dialogue: 0,0:22:12.44,0:22:18.27,Default,,0,0,0,,{\fad(0,2000)}Začíná hodina!
 Dialogue: 0,0:22:40.40,0:22:43.10,Default,,0,0,0,,Na tohle ještě nenastal čas.
-Dialogue: 0,0:22:45.81,0:22:54.55,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}I gather my dented courage and walk forward
-Dialogue: 0,0:22:54.55,0:23:02.98,ED-4,,0,0,0,,{\fad(200,800)\blur1.6}because I swore to myself I would create my own future
-Dialogue: 0,0:23:03.59,0:23:12.75,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}Shower your light, O Star, upon the melody sprung forth here
 Dialogue: 0,0:23:10.81,0:23:13.56,Default,,0,0,0,,{\an8}Už nás nic nerozdělí.
-Dialogue: 0,0:23:12.75,0:23:21.60,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}and let me see your smile by my side
-Dialogue: 0,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}1648, Testament Era
-Dialogue: 1,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\fs90\shad0\pos(960,150)}1648, Testament Era
-Dialogue: 0,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\fs90\shad0\pos(960,840)}April 20th, 9:03 P.M.
-Dialogue: 1,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\fs90\shad0\pos(960,840)}April 20th, 9:03 P.M.
-Dialogue: 0,0:23:21.60,0:23:30.95,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}I kept on calling your name even as pain stabbed my body
-Dialogue: 0,0:23:30.95,0:23:41.13,ED-4,,0,0,0,,{\fad(200,1200)\blur1.6}I hope you will hear me some day, above the distant horizon
-Dialogue: 1,0:23:40.22,0:23:46.45,Default,,0,0,0,,O šesté hodině ranní, 21. dubna 1648 Let Testamentu
-Dialogue: 0,0:23:46.45,0:23:49.00,Default,,0,0,0,,byla identita kyberloutky P-01s
-Dialogue: 0,0:23:49.00,0:23:52.78,Default,,0,0,0,,oficiálně uznána jako Horizon Ariadust, vládkyně Mikawy.
+Dialogue: 0,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}Léta Testamentu 1648
+Dialogue: 1,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\fs90\shad0\pos(960,150)}Léta Testamentu 1648
+Dialogue: 0,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\fs90\shad0\pos(960,840)}20. dubna, 21:03
+Dialogue: 1,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\fs90\shad0\pos(960,840)}20. dubna, 21:03
+Dialogue: 1,0:23:40.22,0:23:46.45,Default,,0,0,0,,O šesté hodině ranní, 21. dubna Let Testamentu 1648 
+Dialogue: 0,0:23:46.45,0:23:49.00,Default,,0,0,0,,byla kyberloutka P-01s
+Dialogue: 0,0:23:49.00,0:23:52.78,Default,,0,0,0,,oficiálně prohlášena za Horizon Ariadust, vládkyni Mikawy.
 Dialogue: 0,0:23:53.69,0:23:58.04,Default,,0,0,0,,Zároveň byla jakožto vládce shledána vinnou z destrukce Mikawy
 Dialogue: 0,0:23:58.05,0:24:00.42,Default,,0,0,0,,a odsouzena ke smrti sebevraždou.
 Dialogue: 0,0:24:00.94,0:24:04.65,Default,,0,0,0,,Vykonání rozsudku bylo naplánováno na šestou hodinu večerní téhož dne.
-Dialogue: 0,0:24:17.14,0:24:21.10,Title 2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,187)}Next Episode
-Dialogue: 0,0:24:17.14,0:24:21.10,Title 2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,720)}Advocate at the \NConfession Grounds

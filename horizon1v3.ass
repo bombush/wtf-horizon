@@ -19,8 +19,8 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 01 - Those Lined Up Before the 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 303
-Active Line: 308
+Scroll Position: 12
+Active Line: 13
 Video Position: 27134
 
 [V4+ Styles]
@@ -50,9 +50,9 @@ Dialogue: 1,0:00:49.23,0:00:52.65,date,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899
 Dialogue: 2,0:00:49.23,0:00:52.65,date,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(100,100)\move(1000,780,982,780)\fs75}7:58, hřbitov v Okutamě
 Dialogue: 0,0:00:55.99,0:01:02.71,INS,,0,0,0,,{\fad(200,200)\blur1.5}Až k bohům do nebes, kde všechno živé počíná.
 Dialogue: 0,0:01:02.71,0:01:06.06,INS,,0,0,0,,{\fad(200,200)\blur1.5}Ty však mlč - slova zbytečně jen maří
-Dialogue: 0,0:01:06.07,0:01:09.00,INS,,0,0,0,,{\fad(200,200)\blur1.5}ten, komu projít se ji nepodaří.
-Dialogue: 0,0:01:09.26,0:01:16.35,INS,,0,0,0,,{\fad(200,500)\blur1.5}Desáté výročí to robě prý slaví,
-Dialogue: 0,0:01:16.35,0:01:22.94,INS,,0,0,0,,{\fad(400,200)\blur1.5}darem amuletů pár mu přinesu.
+Dialogue: 0,0:01:06.07,0:01:09.00,INS,,0,0,0,,{\fad(200,200)\blur1.5}ten, jemuž projít se ji nepodaří.
+Dialogue: 0,0:01:09.26,0:01:16.35,INS,,0,0,0,,{\fad(200,500)\blur1.5}Desáté výročí ta dívka že prý slaví,
+Dialogue: 0,0:01:16.35,0:01:22.94,INS,,0,0,0,,{\fad(400,200)\blur1.5}darem amuletů pár já teď nesu jí.
 Dialogue: 0,0:01:23.40,0:01:29.82,INS,,0,0,0,,{\fad(200,200)\blur1.5}A ta cesta vpřed jako sad líbezný se vine, při návratu však srdce strachy hyne.
 Dialogue: 0,0:01:26.85,0:01:30.31,Title,,0,0,0,,{\fs39\shad0\bord0\blur0.8\3c&HDAECDE&\move(1194,358.5,1113,357,0,3450)\c&H918772&\frz357.609}1638 \N Nechť slečna \N Horizon A. odpočívá v pokoji. \N ~Občané Musaši
 Dialogue: 0,0:01:29.82,0:01:39.82,INS,,0,0,0,,{\fad(200,1200)\blur1.5}Snad to chvějící se srdce mé cíle svého dosáhne.
@@ -188,7 +188,7 @@ Dialogue: 0,0:09:46.63,0:09:47.55,Title,,0,0,0,,{\fad(300,500)\fs39\shad0\pos(53
 Dialogue: 0,0:09:47.64,0:09:48.55,Title,,0,0,0,,{\fad(300,500)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Spojení vymodleno
 Dialogue: 0,0:09:48.64,0:09:48.68,Title,,0,0,0,,{\fad(100,0)\fs39\shad0\pos(532.5,594)\frz14.601\blur0.8}Spojení vymodleno
 Dialogue: 0,0:09:51.36,0:09:53.25,Default,,0,0,0,,Netřeba se mě obávat!
-Dialogue: 0,0:09:53.25,0:09:56.61,Default,,0,0,0,,Jsem jen osbcénní démon, inkubus Kendži Itó.
+Dialogue: 0,0:09:53.25,0:09:56.61,Default,,0,0,0,,Jsem jen lascivní démon, inkubus Kendži Itó.
 Dialogue: 0,0:09:56.61,0:10:00.12,Default,,0,0,0,,Omlouvám se za potíže, které vám působíme.
 Dialogue: 0,0:10:01.33,0:10:03.94,Default,,0,0,0,,Pomoc se blíží, slečno Adele!
 Dialogue: 0,0:10:04.56,0:10:05.34,Default,,0,0,0,,Nendži!

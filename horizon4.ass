@@ -18,9 +18,8 @@ Video File: [Zurako] Kyoukai Senjou no Horizon - 04 - Covert Ops Under the Night
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 356
-Active Line: 369
-Video Position: 32462
+Active Line: 10
+Video Position: 3552
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,46 +39,32 @@ Style: Title 3,Garamond,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.02,0:00:04.56,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fad(400,600)\pos(215,650)\an7}April 20, 1648 Testament Era \N 4:58 A.M., Honda Tadakatsu Manor, Mikawa
-Dialogue: 1,0:00:01.02,0:00:04.56,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\pos(215,650)\an7}April 20, 1648 Testament Era \N 4:58 A.M., Honda Tadakatsu Manor, Mikawa
-Dialogue: 2,0:00:01.02,0:00:04.56,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\pos(215,650)\an7}April 20, 1648 Testament Era \N 4:58 A.M., Honda Tadakatsu Manor, Mikawa
-Dialogue: 0,0:00:07.50,0:00:10.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,285)}4:58 A.M. \N Honda Futayo's Room
-Dialogue: 1,0:00:07.50,0:00:10.40,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,285)}4:58 A.M. \N Honda Futayo's Room
-Dialogue: 2,0:00:07.50,0:00:10.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,285)}4:58 A.M. \N Honda Futayo's Room
+Dialogue: 0,0:00:01.02,0:00:04.56,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fad(400,600)\pos(215,650)\an7}20.duben, Léta Testamentu 1648 \N 4:58, Rezidence Tadakacua Hondy, Mikawa
+Dialogue: 1,0:00:01.02,0:00:04.56,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\pos(215,650)\an7}20.duben, Léta Testamentu 1648 \N 4:58, Rezidence Tadakacua Hondy, Mikawa
+Dialogue: 2,0:00:01.02,0:00:04.56,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\pos(215,650)\an7}20.duben, Léta Testamentu 1648 \N 4:58, Rezidence Tadakacua Hondy, Mikawa
+Dialogue: 0,0:00:07.50,0:00:10.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,285)}4:58\NPokoj Futajo Hondy
+Dialogue: 1,0:00:07.50,0:00:10.40,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,285)}4:58\NPokoj Futajo Hondy
+Dialogue: 2,0:00:07.50,0:00:10.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,285)}4:58\NPokoj Futajo Hondy
 Dialogue: 0,0:00:15.11,0:00:18.40,Default,,0,0,0,,{\i1}To ráno bylo stejné jako všechna předchozí.{\i0}
 Dialogue: 0,0:00:20.33,0:00:22.04,Default,,0,0,0,,{\i1}Nebylo na něm nic zvláštního.{\i0}
-Dialogue: 0,0:00:22.04,0:00:28.30,INS,,0,0,0,,{\fad(300,500)\blur1.5}Walk yonder path, walk yonder path
+Dialogue: 0,0:00:22.04,0:00:28.30,INS,,0,0,0,,{\fad(300,500)\blur1.5}Pojď dál, jen pojď dál.
 Dialogue: 0,0:00:22.75,0:00:24.63,Default,,0,0,0,,{\i1}Svět vypadal stejně jako vždy.{\i0}
-Dialogue: 0,0:00:27.06,0:00:33.12,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života se ale začínal hro        utit.{\i0}
-Dialogue: 0,0:00:28.92,0:00:35.76,INS,,0,0,0,,{\fad(300,200)\blur1.5}Set out now, perchance to find
-Dialogue: 0,0:00:35.76,0:00:42.48,INS,,0,0,0,,{\fad(300,200)\blur1.5}the narrow path to Gods does wind
-Dialogue: 0,0:00:42.48,0:00:49.03,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Do not say such, its perils much
+Dialogue: 0,0:00:27.06,0:00:33.12,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života se ale začínal hroutit.{\i0}
+Dialogue: 0,0:00:28.92,0:00:35.76,INS,,0,0,0,,{\fad(300,200)\blur1.5}Pověz mi kam až vine se ta pěšina?
+Dialogue: 0,0:00:35.76,0:00:42.48,INS,,0,0,0,,{\fad(300,200)\blur1.5}Až k bohům do nebes, kde všechno živé počíná.
+Dialogue: 0,0:00:42.48,0:00:49.03,INS,,0,0,0,,{\fad(200,1000)\blur1.5}Ty však mlč - slova zbytečně jen maří\Nten, jemuž projít se ji nepodaří.
 Dialogue: 0,0:00:43.50,0:00:45.82,Default,,0,0,0,,{\i1}Tehdy jsem...{\i0}
-Dialogue: 0,0:01:09.25,0:01:12.26,OP,,0,0,0,,{\blur1.5\fad(300,250)}What do you see?
-Dialogue: 0,0:01:12.42,0:01:15.68,OP,,0,0,0,,{\blur1.5\fad(250,250)}You, as you are now,
-Dialogue: 0,0:01:15.84,0:01:21.56,OP,,0,0,0,,{\blur1.5\fad(300,0)}lock your heart until you've summoned the strength you need
-Dialogue: 0,0:01:21.56,0:01:24.65,OP,,0,0,0,,{\blur1.5\fad(300,250)}What do you hear?
-Dialogue: 0,0:01:24.65,0:01:27.73,OP,,0,0,0,,{\blur1.5\fad(300,250)}Shall we speak of bygone days
-Dialogue: 0,0:01:27.73,0:01:32.95,OP,,0,0,0,,{\blur1.5\fad(300,100)}in this secret, little room?
-Dialogue: 0,0:01:33.69,0:01:40.07,OP,,0,0,0,,{\blur1.5\fad(300,100)}My memories embraced all mysteries and smashed them
-Dialogue: 0,0:01:40.07,0:01:42.95,OP,,0,0,0,,{\blur1.5\fad(300,250)}with quiet prayers I overcame my suffering
-Dialogue: 0,0:01:42.95,0:01:49.26,OP,,0,0,0,,{\blur1.5\fad(250,250)}and a new world began
-Dialogue: 0,0:01:49.26,0:01:54.84,OP,,0,0,0,,{\blur1.5\fad(0,100)}I didn't know whether men could accept the future
-Dialogue: 0,0:01:54.84,0:01:58.30,OP,,0,0,0,,{\blur1.5\fad(100,100)}like drinking wine
-Dialogue: 0,0:01:58.30,0:02:01.48,OP,,0,0,0,,{\blur1.5}and threw all I had away
-Dialogue: 0,0:02:01.48,0:02:07.35,OP,,0,0,0,,{\blur1.5}This new world lies in the vale between cold reason and utter miracles
-Dialogue: 0,0:02:07.81,0:02:15.61,OP,,0,0,0,,{\blur1.5\fad(100,250)}Why was it here that I could meet you?
-Dialogue: 0,0:02:20.53,0:02:23.95,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,285)}2:12 P.M. \N Highway to Kakamigahara Checkpoint No.1, Mikawa
-Dialogue: 1,0:02:20.53,0:02:23.95,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,285)}2:12 P.M. \N Highway to Kakamigahara Checkpoint No.1, Mikawa
-Dialogue: 2,0:02:20.53,0:02:23.95,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,285)}2:12 P.M. \N Highway to Kakamigahara Checkpoint No.1, Mikawa
-Dialogue: 0,0:02:27.16,0:02:31.58,Title,,0,0,0,,{\fad(650,600)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3800,0,\blur3)\pos(1375,859)}Covert Ops Under the Night Sky
-Dialogue: 1,0:02:27.16,0:02:31.58,Title,,0,0,0,,{\fad(600,600)\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3800,0,\blur5)\pos(1371,855)}Covert Ops Under the Night Sky
-Dialogue: 0,0:02:39.51,0:02:42.30,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}2:17 P.M. \N Highway to Kakamigahara Checkpoint No.1, Mikawa
-Dialogue: 1,0:02:39.51,0:02:42.30,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)}2:17 P.M. \N Highway to Kakamigahara Checkpoint No.1, Mikawa
+Dialogue: 0,0:02:20.53,0:02:23.95,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,285)}14:12\N Cesta k prvnímu přechodu v Kakamigahaře, Mikawa
+Dialogue: 1,0:02:20.53,0:02:23.95,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,285)}14:12\N Cesta k prvnímu přechodu v Kakamigahaře, Mikawa
+Dialogue: 2,0:02:20.53,0:02:23.95,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,285)}14:12\N Cesta k prvnímu přechodu v Kakamigahaře, Mikawa
+Dialogue: 0,0:02:27.16,0:02:31.58,Title,,0,0,0,,{\fad(650,600)\bord0.9\blur5\fscx95\t(0,300,0.5,\blur0.8\fscx90)\c&H000000&\t(3800,0,\blur3)\pos(1375,859)}Agenti pod pláštíkem tmy
+Dialogue: 1,0:02:27.16,0:02:31.58,Title,,0,0,0,,{\fad(600,600)\blur5\fscx95\t(0,300,0.5,\blur0.5\fscx90)\t(3800,0,\blur5)\pos(1371,855)}Agenti pod pláštíkem tmy
+Dialogue: 0,0:02:39.51,0:02:42.30,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}14:17\N Cesta k prvnímu přechodu v Kakamigahaře, Mikawa
+Dialogue: 1,0:02:39.51,0:02:42.30,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)14:17\N Cesta k prvnímu přechodu v Kakamigahaře, Mikawa
 Dialogue: 0,0:02:42.88,0:02:43.93,Default,,0,0,0,,Sem s tím!
 Dialogue: 0,0:02:47.78,0:02:48.87,Default,,0,0,0,,Plác!
-Dialogue: 0,0:02:55.86,0:02:57.65,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}2:53 P.M. \N Diner on the Outskirts of Mikawa
-Dialogue: 1,0:02:55.86,0:02:57.65,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)}2:53 P.M. \N Diner on the Outskirts of Mikawa
+Dialogue: 0,0:02:55.86,0:02:57.65,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}14:53\NPohostinství na okraji Mikawy
+Dialogue: 1,0:02:55.86,0:02:57.65,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)}14:53\NPohostinství na okraji Mikawy
 Dialogue: 0,0:03:00.68,0:03:02.18,Default,,0,0,0,,Krucinál, Sakaii!
 Dialogue: 0,0:03:02.18,0:03:05.83,Default,,0,0,0,,Pořád jsi nepřestal v boji osahávat soupeřky?
 Dialogue: 0,0:03:06.08,0:03:11.18,Default,,0,0,0,,Normální lidi nevítají svoje skvělý kámoše tím, že na ně pošlou svoje děcko s kudlou.
@@ -146,20 +131,20 @@ Dialogue: 0,0:06:14.85,0:06:18.40,Default,,0,0,0,,Pane Tadakacu, je čas připra
 Dialogue: 0,0:06:18.40,0:06:20.19,Default,,0,0,0,,Judge, judge.
 Dialogue: 0,0:06:21.56,0:06:23.38,Default,,0,0,0,,Tak já mizím.
 Dialogue: 0,0:06:24.15,0:06:25.54,Default,,0,0,0,,Zlom vaz!
-Dialogue: 0,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,315)}5:30 P.M. \N In Front of the Diner on the Outskirts of Mikawa
-Dialogue: 1,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,315)}5:30 P.M. \N In Front of the Diner on the Outskirts of Mikawa
-Dialogue: 2,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,315)}5:30 P.M. \N In Front of the Diner on the Outskirts of Mikawa
+Dialogue: 0,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,315)}17:30\NPřed pohostinstvím na okraji Mikawy
+Dialogue: 1,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,315)}17:30\NPřed pohostinstvím na okraji Mikawy
+Dialogue: 2,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,315)}17:30\NPřed pohostinstvím na okraji Mikawy
 Dialogue: 0,0:06:30.83,0:06:33.61,Default,,0,0,0,,Sakakibaro, mám na tebe dvě otázky.
 Dialogue: 0,0:06:34.32,0:06:36.08,Default,,0,0,0,,Kde je Ii?
 Dialogue: 0,0:06:36.08,0:06:39.73,Default,,0,0,0,,Stalo se mu něco? Proto dneska nepřišel?
 Dialogue: 0,0:06:41.01,0:06:44.88,Default,,0,0,0,,Na Musaši se objevila kyberloutka typu P-01s.
 Dialogue: 0,0:06:45.64,0:06:49.04,Default,,0,0,0,,Přišla loni z Mikawy a zajímalo by mě, co je zač.
-Dialogue: 0,0:06:50.31,0:06:54.88,Default,,0,0,0,,Slyšel jsi o tajemných zmizeních, která lidé připisují duchovi Krvavé princezny?
-Dialogue: 0,0:06:57.89,0:06:59.85,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}6:09 P.M. \N Above the Normal Land Port, Mikawa
-Dialogue: 8,0:06:57.89,0:06:59.85,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)}6:09 P.M. \N Above the Normal Land Port, Mikawa
-Dialogue: 0,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(215,650)}6:11 P.M. \N Prefecture Highway 79, Mikawa
-Dialogue: 1,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}6:11 P.M. \N Prefecture Highway 79, Mikawa
-Dialogue: 2,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}6:11 P.M. \N Prefecture Highway 79, Mikawa
+Dialogue: 0,0:06:50.31,0:06:54.88,Default,,0,0,0,,Slyšel jsi o případech tajemného zmizení, které lidé připisují duchovi Krvavé princezny?
+Dialogue: 0,0:06:57.89,0:06:59.85,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}18:09\NProstor nad přístavištěm pro běžný provoz, Mikawa
+Dialogue: 8,0:06:57.89,0:06:59.85,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)}18:09\NProstor nad přístavištěm pro běžný provoz, Mikawa
+Dialogue: 0,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(215,650)}18:11\NPrefekturní cesta 79, Mikawa
+Dialogue: 1,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}18:11\NPrefekturní cesta 79, Mikawa
+Dialogue: 2,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}18:11\NPrefekturní cesta 79, Mikawa
 Dialogue: 0,0:07:10.87,0:07:12.01,Default,,0,0,0,,Tak je pryč.
 Dialogue: 0,0:07:12.46,0:07:16.63,Default,,0,0,0,,Zrovna když vyplovali, přistála loď inkvizice z Tres España.
 Dialogue: 0,0:07:17.39,0:07:18.28,Default,,0,0,0,,Zdá se...
@@ -181,9 +166,9 @@ Dialogue: 0,0:08:06.75,0:08:10.02,Default,,0,0,0,,Nerozumím vašim záměrům,
 Dialogue: 0,0:08:10.02,0:08:13.13,Default,,0,0,0,,ale budu vám sloužit až do konce.
 Dialogue: 0,0:08:13.87,0:08:17.27,Default,,0,0,0,,Je čas. Prosím, pohodlně se usaďte a dívejte se.
 Dialogue: 0,0:08:17.72,0:08:23.01,Default,,0,0,0,,Právě začíná ohňostroj, kterým Mikawa hodí rukavici celému světu. Bude to poslední ohňostroj Mikawy.
-Dialogue: 0,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fad(400,600)\an7\pos(215,650)}6:59 P.M. \N Kakamigahara, Mikawa
-Dialogue: 1,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}6:59 P.M. \N Kakamigahara, Mikawa
-Dialogue: 2,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}6:59 P.M. \N Kakamigahara, Mikawa
+Dialogue: 0,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fad(400,600)\an7\pos(215,650)}18:59\N Kakamigahara, Mikawa
+Dialogue: 1,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}18:59\N Kakamigahara, Mikawa
+Dialogue: 2,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}18:59\N Kakamigahara, Mikawa
 Dialogue: 0,0:08:34.86,0:08:35.61,Default,,0,0,0,,Vpřed!
 Dialogue: 0,0:08:46.16,0:08:48.28,Default,,0,0,0,,Tady B1T3. Volám B2T3.
 Dialogue: 0,0:08:48.28,0:08:50.10,Default,,0,0,0,,Ve službě se nestojí.
@@ -193,9 +178,9 @@ Dialogue: 0,0:08:57.72,0:08:58.22,Default,,0,0,0,,Co to?!
 Dialogue: 0,0:09:06.43,0:09:08.41,Default,,0,0,0,,Kontakt s cílem B2T3.
 Dialogue: 0,0:09:08.41,0:09:10.52,Default,,0,0,0,,Výsledek pozitivní.
 Dialogue: 0,0:09:10.52,0:09:13.40,Default,,0,0,0,,Kontakt s cílem B1T3. Stejný výsledek.
-Dialogue: 0,0:09:23.25,0:09:25.83,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}7:44 P.M. \N Tea House Next to Sakakibara Manor
-Dialogue: 0,0:09:23.25,0:09:25.83,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}7:44 P.M. \N Tea House Next to Sakakibara Manor
-Dialogue: 2,0:09:23.25,0:09:25.83,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}7:44 P.M. \N Tea House Next to Sakakibara Manor
+Dialogue: 0,0:09:23.25,0:09:25.83,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}19:44\NČajovna vedle rezidence Sakakibarů
+Dialogue: 0,0:09:23.25,0:09:25.83,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}19:44\NČajovna vedle rezidence Sakakibarů
+Dialogue: 2,0:09:23.25,0:09:25.83,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}19:44\NČajovna vedle rezidence Sakakibarů
 Dialogue: 0,0:09:23.99,0:09:26.92,Default,,0,0,0,,Pane Sakai. Tohle je pro vás.
 Dialogue: 0,0:09:27.25,0:09:29.19,Default,,0,0,0,,Díky.
 Dialogue: 0,0:09:29.19,0:09:30.21,Default,,0,0,0,,Od Sakakibary?
@@ -208,9 +193,9 @@ Dialogue: 0,0:09:44.89,0:09:45.98,Default,,0,0,0,,Pane Sakaii?
 Dialogue: 0,0:09:47.25,0:09:49.10,Default,,0,0,0,,Hledej Krvavou princeznu.
 Dialogue: 0,0:09:50.81,0:09:52.22,Default,,0,0,0,,Neboj se.
 Dialogue: 0,0:09:52.22,0:09:56.37,Default,,0,0,0,,Macudairovi králové nebes budou vždy pospolu.
-Dialogue: 0,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(215,285)}7:51 P.M. \N Sakakibara Manor Study
-Dialogue: 1,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,285)}7:51 P.M. \N Sakakibara Manor Study
-Dialogue: 2,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,285)}7:51 P.M. \N Sakakibara Manor Study
+Dialogue: 0,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(215,285)}19:51\NPracovna v rezidenci Sakakibarů
+Dialogue: 1,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,285)}19:51\NPracovna v rezidenci Sakakibarů
+Dialogue: 2,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,285)}19:51\NPracovna v rezidenci Sakakibarů
 Dialogue: 0,0:09:59.97,0:10:00.91,Default,,0,0,0,,Sakakibaro!
 Dialogue: 0,0:10:04.88,0:10:09.61,Default,,0,0,0,,Pán nebyl doma, takže jsem jeho práci považovala za dokončenou.
 Dialogue: 0,0:10:09.61,0:10:12.62,Default,,0,0,0,,Nyní bych ráda započala úklid pokoje.
@@ -219,9 +204,9 @@ Dialogue: 0,0:10:25.60,0:10:29.35,spell,,0,0,0,,{\fs120\bord0.3\blur5\pos(960,12
 Dialogue: 0,0:10:26.73,0:10:28.96,Default,,0,0,0,,Hledej symbol dvojí hranice.
 Dialogue: 0,0:10:32.56,0:10:34.06,spell,,0,0,0,,{\fad(500,0)\fs90\blur1.7\pos(1618.5,318)\c&HA28D7A&}{(note: he reads this after this goes off screen)}Projekt Genesis?
 Dialogue: 0,0:10:34.67,0:10:38.40,Default,,0,0,0,,Projekt Genesis? Hledej Krvavou princeznu?
-Dialogue: 0,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}7:53 P.M. \N Musashi Ariadust Academy
-Dialogue: 1,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}7:53 P.M. \N Musashi Ariadust Academy
-Dialogue: 2,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}7:53 P.M. \N Musashi Ariadust Academy
+Dialogue: 0,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}19:53\NAriadustova akademie na Musaši
+Dialogue: 1,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}19:53\NAriadustova akademie na Musaši
+Dialogue: 2,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}19:53\NAriadustova akademie na Musaši
 Dialogue: 0,0:10:39.21,0:10:41.34,Default,,0,0,0,,Jedem!
 Dialogue: 0,0:10:45.19,0:10:47.12,Default,,0,0,0,,N-Nendži!
 Dialogue: 0,0:10:48.58,0:10:52.66,Default,,0,0,0,,Vsadím se, že v tom prezident má prsty.
@@ -238,8 +223,6 @@ Dialogue: 0,0:11:24.76,0:11:27.15,Default,,0,0,0,,Tohle je tvoje práce?!
 Dialogue: 0,0:11:27.15,0:11:28.87,Default,,0,0,0,,A je ze mě mrtvola!
 Dialogue: 0,0:11:32.15,0:11:33.08,Default,,0,0,0,,Co to...
 Dialogue: 0,0:11:35.93,0:11:39.36,Default,,0,0,0,,To je strážnice Unie Testamentu. Stala se tam nějaká nehoda?
-Dialogue: 0,0:11:38.08,0:11:43.80,Title 3,,0,0,0,,{\fad(0,100)\bord0\fs45\fscx85\shad0\pos(600,693)\blur8\3c&H211E23&\c&H181518&}{\p1}m 0 0 l 249 0 249 54 0 54{\p0}
-Dialogue: 1,0:11:38.08,0:11:43.80,Title 3,,0,0,0,,{\fad(300,500)\bord0\blur0.8\fs42\fscx85\shad0\3c&H211E23&\c&HCAC7C7&\frx348\fry0\org(731,716)\pos(603,687)}{flashing on the shrine thing) - }Divine Contact
 Dialogue: 0,0:11:39.82,0:11:40.80,Default,,0,0,0,,Nevím.
 Dialogue: 0,0:11:40.80,0:11:43.80,Default,,0,0,0,,Zkusil jsem kontaktovat Svaz obchodu, ale žádná odpověď.
 Dialogue: 0,0:11:44.22,0:11:46.18,Default,,0,0,0,,Tak jo! Pro dnešek stačí!
@@ -255,10 +238,10 @@ Dialogue: 0,0:12:17.64,0:12:20.08,Default,,0,0,0,,Kde je maminka?
 Dialogue: 0,0:12:20.08,0:12:21.04,Default,,0,0,0,,Du...
 Dialogue: 0,0:12:21.25,0:12:22.01,Default,,0,0,0,,Du...
 Dialogue: 0,0:12:22.76,0:12:25.05,Default,,0,0,0,,Duch!
-Dialogue: 0,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}7:57 P.M. \N In Front of Sakakibara Manor
-Dialogue: 1,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}7:57 P.M. \N In Front of Sakakibara Manor
-Dialogue: 2,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}7:57 P.M. \N In Front of Sakakibara Manor
-Dialogue: 0,0:12:31.37,0:12:32.99,Default,,0,0,0,,Strážnice v Kagamihaře?
+Dialogue: 0,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}19:57\NPřed rezidencí Sakakibarů
+Dialogue: 1,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}19:57\NPřed rezidencí Sakakibarů
+Dialogue: 2,0:12:29.01,0:12:32.64,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}19:57\NPřed rezidencí Sakakibarů
+Dialogue: 0,0:12:31.37,0:12:32.99,Default,,0,0,0,,Strážnice v Kakamigahaře?
 Dialogue: 0,0:12:44.40,0:12:45.43,Default,,0,0,0,,Hóňo?
 Dialogue: 0,0:12:46.38,0:12:49.96,Default,,0,0,0,,Začínáš dědkovatět. Tohle bys normálně přeskočil.
 Dialogue: 0,0:12:52.04,0:12:53.17,Default,,0,0,0,,To je Hbitá vážka.
@@ -272,12 +255,12 @@ Dialogue: 0,0:13:21.29,0:13:23.62,Default,,0,0,0,,To je Šin-nagojský tektonick
 Dialogue: 0,0:13:23.62,0:13:24.44,Default,,0,0,0,,O co se to snažíte?!
 Dialogue: 0,0:13:25.32,0:13:26.88,Default,,0,0,0,,Necháme ho přehřát.
 Dialogue: 0,0:13:27.14,0:13:28.11,Default,,0,0,0,,Cože??
-Dialogue: 0,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,1200)\pos(1713,650)}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
-Dialogue: 1,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,1200)\pos(1713,650)}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
-Dialogue: 2,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,1200)\pos(1713,650)}7:59 P.M. \N Shin-Nagoya Castle, Mikawa
-Dialogue: 0,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(1200,600)\pos(1713,650)}7:59 P.M. \NCentral Unification Reactor, Mikawa
-Dialogue: 1,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(1200,600)\pos(1713,650)}7:59 P.M. \NCentral Unification Reactor, Mikawa
-Dialogue: 2,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(1200,600)\pos(1713,650)}7:59 P.M. \NCentral Unification Reactor, Mikawa
+Dialogue: 0,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,1200)\pos(1713,650)}19:59\NŠin-nagojský hrad, Mikawa
+Dialogue: 1,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,1200)\pos(1713,650)}19:59\NŠin-nagojský hrad, Mikawa
+Dialogue: 2,0:13:28.74,0:13:32.26,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,1200)\pos(1713,650)}19:59\NŠin-nagojský hrad, Mikawa
+Dialogue: 0,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(1200,600)\pos(1713,650)}19:59\NCentrální slučovací reaktor, Mikawa
+Dialogue: 1,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(1200,600)\pos(1713,650)}19:59\NCentrální slučovací reaktor, Mikawa
+Dialogue: 2,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(1200,600)\pos(1713,650)}19:59\NCentrální slučovací reaktor, Mikawa
 Dialogue: 0,0:13:39.78,0:13:43.29,Default,,0,0,0,,Pokud vybuchne, zničí Nagoju, ne-li celou Mikawu.
 Dialogue: 0,0:13:43.29,0:13:45.47,Default,,0,0,0,,Všichni lidé jsou z Mikawy už pryč.
 Dialogue: 0,0:13:45.47,0:13:47.38,Default,,0,0,0,,Zbyli jsme tu jen my dva a kyberloutky.
@@ -291,7 +274,7 @@ Dialogue: 0,0:14:08.80,0:14:09.80,Default,,0,0,0,,Přestaň!
 Dialogue: 0,0:14:09.80,0:14:10.74,Default,,0,0,0,,Přivážu tě!
 Dialogue: 0,0:14:11.28,0:14:12.57,Default,,0,0,0,,Přivážeš mě?
 Dialogue: 0,0:14:13.18,0:14:15.72,Default,,0,0,0,,Hbitá vážka dokáže zrušit oddělit od světa samotné ideje.
-Dialogue: 0,0:14:15.72,0:14:17.84,Default,,0,0,0,,Takže strážnice je v plamenech...
+Dialogue: 0,0:14:15.72,0:14:17.84,Default,,0,0,0,,Takže strážnice je v plamenech protože...
 Dialogue: 0,0:14:17.84,0:14:20.00,Default,,0,0,0,,Oddělil jsem od světa její samotnou ideu.
 Dialogue: 0,0:14:20.60,0:14:22.58,Default,,0,0,0,,Hóňo. Proč?
 Dialogue: 0,0:14:22.85,0:14:24.31,Default,,0,0,0,,Odejdi, Sakaii.
@@ -327,9 +310,9 @@ Dialogue: 0,0:16:30.78,0:16:31.40,Default,,0,0,0,,Judge!
 Dialogue: 0,0:16:37.47,0:16:40.14,Default,,0,0,0,,{\i1}Říkal jsi, že můžu dělat, co chci, otče?
 Dialogue: 0,0:16:41.00,0:16:43.43,Default,,0,0,0,,{\i1}Chtěl, abych si se situací poradila po svém.
 Dialogue: 0,0:16:44.60,0:16:47.39,Default,,0,0,0,,{\i1}Co by na mém místě dělala Masazumi?
-Dialogue: 0,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Deck Bow, Tama
-Dialogue: 1,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Deck Bow, Tama
-Dialogue: 2,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Deck Bow, Tama
+Dialogue: 0,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}20:01\NPřídní paluba, Tama
+Dialogue: 1,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}20:01\NPřídní paluba, Tama
+Dialogue: 2,0:16:47.90,0:16:52.19,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}20:01\NPřídní paluba, Tama
 Dialogue: 0,0:16:49.63,0:16:50.69,Default,,0,0,0,,Co se děje?
 Dialogue: 0,0:16:51.11,0:16:52.99,Default,,0,0,0,,Ohňostroj již začal?
 Dialogue: 0,0:16:53.20,0:16:54.87,Default,,0,0,0,,Ohňostroj? Ohňostroj?
@@ -353,9 +336,9 @@ Dialogue: 0,0:18:00.66,0:18:01.70,Default,,0,0,0,,Tes!
 Dialogue: 0,0:18:02.64,0:18:05.33,Default,,0,0,0,,A1 a A2. Povedete hlavní útok.
 Dialogue: 0,0:18:05.33,0:18:07.62,Default,,0,0,0,,A3 bude uržovat přehled nad bojištěm a krýt vás.
 Dialogue: 0,0:18:07.62,0:18:08.40,Default,,0,0,0,,Tes!
-Dialogue: 0,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Prefecture Highway 79, Mikawa
-Dialogue: 1,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Prefecture Highway 79, Mikawa
-Dialogue: 2,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}8:01 P.M. \N Prefecture Highway 79, Mikawa
+Dialogue: 0,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}20:01\NPrefekturní cesta 79, Mikawa
+Dialogue: 1,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}20:01\NPrefekturní cesta 79, Mikawa
+Dialogue: 2,0:18:09.73,0:18:13.15,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}20:01\NPrefekturní cesta 79, Mikawa
 Dialogue: 0,0:18:24.17,0:18:25.38,Default,,0,0,0,,Jedna potopená.
 Dialogue: 0,0:18:35.68,0:18:36.94,Default,,0,0,0,,Co se děje, Zaragozo?
 Dialogue: 0,0:18:36.94,0:18:38.00,Default,,0,0,0,,Ztrácíte výšku!
@@ -411,12 +394,5 @@ Dialogue: 0,0:22:22.04,0:22:26.48,Default,,0,0,0,,{\i1}Tu noc se náš svět zm�
 Dialogue: 0,0:22:26.79,0:22:31.74,Default,,0,0,0,,{\i1}Ráno jsem myslela jsem, že nás čeká den jako každý jiný.{\i0}
 Dialogue: 0,0:22:32.61,0:22:36.45,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života se ale začínal hroutit{\i0}
 Dialogue: 0,0:22:36.89,0:22:40.20,Default,,0,0,0,,{\i1}a my jsme se vydali na cestu bez návratu.{\i0}
-Dialogue: 0,0:22:41.37,0:22:45.13,Default,,0,0,0,,{\i1}Tehdy jsem ještě o ničem nevěděl.{\i0}
-Dialogue: 0,0:22:45.98,0:22:54.72,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}I gather my dented courage and walk forward
-Dialogue: 0,0:22:54.72,0:23:03.15,ED-4,,0,0,0,,{\fad(200,800)\blur1.6}because I swore to myself I would create my own future
-Dialogue: 0,0:23:03.76,0:23:12.92,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}Shower your light, O Star, upon the melody sprung forth here
-Dialogue: 0,0:23:12.92,0:23:21.77,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}and let me see your smile by my side
-Dialogue: 0,0:23:21.77,0:23:31.12,ED-4,,0,0,0,,{\fad(200,200)\blur1.6}I kept on calling your name even as pain stabbed my body
-Dialogue: 0,0:23:31.12,0:23:41.30,ED-4,,0,0,0,,{\fad(200,1200)\blur1.6}I hope you will hear me some day, above the distant horizon
-Dialogue: 0,0:24:16.97,0:24:20.93,Title 2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,187)}Next Episode
-Dialogue: 0,0:24:16.97,0:24:20.93,Title 2,,0,0,0,,{\fad(250,0)\blur0.5\pos(960,720)}Graduates Under the Moon
+Dialogue: 0,0:22:41.37,0:22:45.13,Default,,0,0,0,,{\i1}Tehdy jsem ještě ale o ničem nevěděl.{\i0}
+Dialogue: 0,0:22:45.13,0:22:47.13,Default,,0,0,0,,
