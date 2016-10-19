@@ -18,10 +18,10 @@ Audio File: [Zurako] Kyoukai Senjou no Horizon - 05 - Graduates Under the Moon (
 Video File: [Zurako] Kyoukai Senjou no Horizon - 05 - Graduates Under the Moon (BD 1080p AAC) [4AA857DE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 251
-Active Line: 256
-Video Position: 26353
+Video Zoom Percent: 0.375000
+Scroll Position: 290
+Active Line: 304
+Video Position: 34058
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,8 +69,8 @@ Dialogue: 0,0:02:19.86,0:02:22.16,Default,,0,0,0,,Kazuno, nehýbej se.
 Dialogue: 0,0:02:26.93,0:02:27.85,Default,,0,0,0,,Přivázat!
 Dialogue: 0,0:02:38.76,0:02:40.93,Default,,0,0,0,,C-co to je...
 Dialogue: 0,0:02:41.36,0:02:43.39,Default,,0,0,0,,Zdá se, že nevíš.
-Dialogue: 0,0:02:43.80,0:02:48.28,Default,,0,0,0,,Na hrotu čepele jednou přistála vážka. Jen co usedla, rozpůlila se vedví. Odtud pochází jméno
-Dialogue: 0,0:02:48.28,0:02:49.54,Default,,0,0,0,,této z Božských zbraní.
+Dialogue: 0,0:02:43.80,0:02:48.28,Default,,0,0,0,,Na hrotu této čepele se kdysi pokusila přistát vážka. Jen co usedla, rozpůlila se vedví.
+Dialogue: 0,0:02:48.28,0:02:49.54,Default,,0,0,0,,Odtud pochází jméno této z Božských zbraní.
 Dialogue: 0,0:02:50.71,0:02:52.33,Default,,0,0,0,,Hbitá vážka.
 Dialogue: 0,0:03:01.80,0:03:05.41,Default,,0,0,0,,Za šest minut dosáhne reaktor kritického stavu.
 Dialogue: 0,0:03:05.41,0:03:07.55,Default,,0,0,0,,Zdá se, že jste si dal načas.
@@ -105,7 +105,7 @@ Dialogue: 0,0:05:09.07,0:05:11.08,Default,,0,0,0,,Musím tedy zůstat mimo dosah
 Dialogue: 0,0:05:11.08,0:05:13.92,Default,,0,0,0,,abych se vůbec na čepeli odrazil.
 Dialogue: 0,0:05:14.82,0:05:16.12,Default,,0,0,0,,Jak to všechno víš?
 Dialogue: 0,0:05:16.67,0:05:18.80,Default,,0,0,0,,Copak, pořád naživu?
-Dialogue: 0,0:05:19.06,0:05:22.87,Default,,0,0,0,,Netušila jsem, že vás tak zajímají mrtvoly.
+Dialogue: 0,0:05:19.06,0:05:22.87,Default,,0,0,0,,Netušila jsem, že máte takový zájem o mrtvoly.
 Dialogue: 0,0:05:22.87,0:05:24.45,Default,,0,0,0,,Hodíš se mi jako brnění.
 Dialogue: 0,0:05:25.00,0:05:28.18,Default,,0,0,0,,Pak byste mě měl držet takto.
 Dialogue: 0,0:05:28.83,0:05:32.56,Default,,0,0,0,,Nechala jsem střelu vstoupit do těla
@@ -114,10 +114,10 @@ Dialogue: 0,0:05:37.36,0:05:38.81,Default,,0,0,0,,Co to bylo?
 Dialogue: 0,0:05:38.81,0:05:41.78,Default,,0,0,0,,Hypermód Lenosti smutku.
 Dialogue: 0,0:05:44.41,0:05:47.45,Default,,0,0,0,,Lenost smutku může pracovat ve třech módech.
 Dialogue: 0,0:05:47.67,0:05:50.17,Default,,0,0,0,,Pevní je běžný gunblade.
-Dialogue: 0,0:05:50.17,0:05:54.01,Default,,0,0,0,,Dále běžný mód podobný Hbité vážce.
-Dialogue: 0,0:05:54.01,0:05:57.42,Default,,0,0,0,,A poté hypermód schopný hromadného ničení.
+Dialogue: 0,0:05:50.17,0:05:54.01,Default,,0,0,0,,V druhém módu funguje stejně jako Hbitá vážka.
+Dialogue: 0,0:05:54.01,0:05:57.42,Default,,0,0,0,,A pak má hypermód schopný hromadného ničení.
 Dialogue: 0,0:05:58.49,0:06:03.14,Default,,0,0,0,,V něm může odříznout od existence cokoliv v operační vzdálenosti, co se odrazí na její čepeli.
-Dialogue: 0,0:06:03.98,0:06:08.38,Default,,0,0,0,,Po aktivaci začne ničit vše v okolí jako člověk, který zešílel zoufalstvím.
+Dialogue: 0,0:06:03.98,0:06:08.38,Default,,0,0,0,,Po aktivaci začne ničit vše v okolí jako člověk, který smutkem zešílel.
 Dialogue: 0,0:06:12.02,0:06:14.60,Default,,0,0,0,,Dosah má zhruba tři kilometry, že?
 Dialogue: 0,0:06:15.30,0:06:18.60,Default,,0,0,0,,Usuzuji, že teď můžeš hypermód aktivovat už jen jednou.
 Dialogue: 0,0:06:18.91,0:06:19.82,Default,,0,0,0,,Tes.
@@ -136,24 +136,24 @@ Dialogue: 0,0:07:19.26,0:07:20.71,Default,,0,0,0,,Gratuluji, dostal jsi se dalek
 Dialogue: 0,0:07:21.32,0:07:24.06,Default,,0,0,0,,Máš zhruba pět minut, abys nás zastavil.
 Dialogue: 0,0:07:23.46,0:07:27.80,spell,,0,0,0,,{\fad(1200,0)\bord3\blur3.5\fs37.5\c&H1F2570&\pos(538.5,46.5)\3c&H2436E7&}Motonobu {\3c&H45E0F3&}Macudaira
 Dialogue: 0,0:07:24.06,0:07:26.72,Default,,0,0,0,,Jak to dokážeš, Munešige Tačibano?
-Dialogue: 0,0:07:27.46,0:07:30.11,Default,,0,0,0,,Dobře si rozmysli, jak ten čas využiješ.
+Dialogue: 0,0:07:27.46,0:07:30.11,Default,,0,0,0,,Dobře si rozmysli, jak svůj čas využiješ.
 Dialogue: 0,0:07:31.64,0:07:34.01,Default,,0,0,0,,Lidé všech zemí! Přeji vám
 Dialogue: 0,0:07:34.39,0:07:35.97,Default,,0,0,0,,dobrý večer!
-Dialogue: 0,0:07:35.97,0:07:41.90,Default,,0,0,0,,Hlásím se vám z Mikawy, kde se reaktory chystají na explozi zábavy.
+Dialogue: 0,0:07:35.97,0:07:41.90,Default,,0,0,0,,Hlásím se vám z Mikawy. Místní reaktory si připravují učiněnou explozi zábavy.
 Dialogue: 0,0:07:42.48,0:07:43.73,Default,,0,0,0,,Pane Motonobu...
 Dialogue: 0,0:07:44.12,0:07:46.17,Default,,0,0,0,,Ano, Munešige?
-Dialogue: 0,0:07:46.17,0:07:47.69,Default,,0,0,0,,Chceš ne na něco zeptat?
+Dialogue: 0,0:07:46.17,0:07:47.69,Default,,0,0,0,,Chceš se na něco zeptat?
 Dialogue: 0,0:07:48.52,0:07:49.51,Default,,0,0,0,,Tes!
 Dialogue: 0,0:07:49.51,0:07:50.84,Default,,0,0,0,,Mám otázku!
 Dialogue: 0,0:07:51.26,0:07:53.70,Default,,0,0,0,,Proč u všech všudy chcete zničit Mikawu
-Dialogue: 0,0:07:53.70,0:07:56.08,Default,,0,0,0,,a uvrhnout celý Dálný východ do nebezpečí.
+Dialogue: 0,0:07:53.70,0:07:56.08,Default,,0,0,0,,a uvrhnout celý Dálný východ do nebezpečí?
 Dialogue: 0,0:07:57.22,0:07:58.69,Default,,0,0,0,,Dobrá otázka!
-Dialogue: 0,0:07:59.08,0:08:01.94,Default,,0,0,0,,Dovol mi také otázku.
+Dialogue: 0,0:07:59.08,0:08:01.94,Default,,0,0,0,,Dovol mi také jednu.
 Dialogue: 0,0:08:02.65,0:08:05.33,Default,,0,0,0,,Není být pod tlakem skvělý pocit?
 Dialogue: 0,0:08:06.89,0:08:10.54,Default,,0,0,0,,Jak jsem vždy říkal, řešit rébusy je zábava.
 Dialogue: 0,0:08:11.00,0:08:15.36,Default,,0,0,0,,Dovedeš si představit větši odvaz, než mít před sebou pekelně složitý,
 Dialogue: 0,0:08:15.36,0:08:19.99,Default,,0,0,0,,totálně zamotaný probém, který buďto vyřešíš, nebo skončíš na popel?
-Dialogue: 0,0:08:20.98,0:08:23.44,Default,,0,0,0,,Já vím ale o něčem lepším!
+Dialogue: 0,0:08:20.98,0:08:23.44,Default,,0,0,0,,Já vím ale o něčem ještě lepším!
 Dialogue: 0,0:08:23.44,0:08:27.38,Default,,0,0,0,,O něčem, co ti opravdu provětrá mozkové závity.
 Dialogue: 0,0:08:27.79,0:08:29.86,Default,,0,0,0,,Co myslíš, že to je, Munešige?
 Dialogue: 0,0:08:30.30,0:08:31.45,Default,,0,0,0,,Nevím!
@@ -167,17 +167,17 @@ Dialogue: 0,0:08:48.70,0:08:51.84,Default,,0,0,0,,Neznám!
 Dialogue: 0,0:08:51.84,0:08:52.56,Default,,0,0,0,,Dobrá.
 Dialogue: 0,0:08:52.56,0:08:56.39,Default,,0,0,0,,Za trest zůstaneš stát na mostě s kyberloutkou kolem krku.
 Dialogue: 0,0:08:56.39,0:08:58.39,Default,,0,0,0,,To není fér!
-Dialogue: 0,0:08:58.66,0:09:02.71,Default,,0,0,0,,Děti moje, vdyť je to jednoduché.
+Dialogue: 0,0:08:58.66,0:09:02.71,Default,,0,0,0,,Děti moje, vždyť je to jednoduché.
 Dialogue: 0,0:09:02.71,0:09:06.22,Default,,0,0,0,,Je jenom jedna věc děsivější, než přivést Dálný východ na pokraj záhuby.
 Dialogue: 0,0:09:06.90,0:09:07.65,Default,,0,0,0,,Přesně tak!
 Dialogue: 0,0:09:08.22,0:09:10.65,Default,,0,0,0,,Je to konec světa!
 Dialogue: 0,0:09:10.90,0:09:14.40,Default,,0,0,0,,Konec našeho světa - to je dokonalá šou!
-Dialogue: 0,0:09:14.96,0:09:19.66,Default,,0,0,0,,Školní léta se blíží ke konci. Absolventy čeká konec světa.
+Dialogue: 0,0:09:14.96,0:09:19.66,Default,,0,0,0,,Školní léta se blíží ke konci. A absolventy čeká konec světa.
 Dialogue: 0,0:09:19.92,0:09:21.48,Default,,0,0,0,,To je rauš, co?
 Dialogue: 0,0:09:21.48,0:09:23.59,Default,,0,0,0,,Jestli se chcete vyhnout konci světa,
 Dialogue: 0,0:09:23.59,0:09:26.31,Default,,0,0,0,,musíte vymyslet, jak.
 Dialogue: 0,0:09:26.31,0:09:29.17,Default,,0,0,0,,Musíte nahlédnout do budoucnosti.
-Dialogue: 0,0:09:29.75,0:09:32.60,Default,,0,0,0,,Ukažte, že umíte tu zbávající trošku času využít.
+Dialogue: 0,0:09:29.75,0:09:32.60,Default,,0,0,0,,Ukažte, že umíte tu zbývající trošku času využít.
 Dialogue: 0,0:09:32.60,0:09:36.40,Default,,0,0,0,,Kdo zvládne zkoušku na výbornou, dostane odměnu.
 Dialogue: 0,0:09:37.04,0:09:40.18,Default,,0,0,0,,Něco, co dokáže zabránit konci světa.
 Dialogue: 0,0:09:40.63,0:09:41.39,Default,,0,0,0,,Tím myslí...
@@ -185,29 +185,29 @@ Dialogue: 0,0:09:42.29,0:09:43.85,Default,,0,0,0,,Zbraně smrtelných hříchů.
 Dialogue: 0,0:09:46.01,0:09:47.46,Default,,0,0,0,,Jednoduše řečeno,
 Dialogue: 0,0:09:47.46,0:09:51.77,Default,,0,0,0,,kdo vládne Zbraněmi smrtelných hříchů, má moc konec světa odvrátit.
 Dialogue: 0,0:09:52.00,0:09:55.51,Default,,0,0,0,,Nebyl jste to vy, kdo Zbraně rozdělil mezi jednotlivé země?
-Dialogue: 0,0:09:55.51,0:09:57.49,Default,,0,0,0,,Říkáte, že všech osm zbraní musí být pohromadě?
+Dialogue: 0,0:09:55.51,0:09:57.49,Default,,0,0,0,,Přitom říkáte, že všech osm zbraní musí být pohromadě.
 Dialogue: 0,0:09:57.78,0:10:01.20,Default,,0,0,0,,Chcete, abychom o ně vedli válku?
 Dialogue: 0,0:10:01.46,0:10:02.56,Default,,0,0,0,,Osm?
 Dialogue: 0,0:10:02.56,0:10:04.92,Default,,0,0,0,,Kdepak, je jich devět.
-Dialogue: 0,0:10:05.30,0:10:06.62,Default,,0,0,0,,Ty vychcánku!
+Dialogue: 0,0:10:05.30,0:10:06.62,Default,,0,0,0,,To nemyslíš vážně!
 Dialogue: 0,0:10:06.95,0:10:09.35,Default,,0,0,0,,Jako model pro Zbraně smrtelných hříchů
 Dialogue: 0,0:10:09.35,0:10:12.29,Default,,0,0,0,,posloužil Evagriův seznam osmi hříchů.
 Dialogue: 0,0:10:12.29,0:10:15.31,Default,,0,0,0,,Ale Evagrius zmiňuje i hřích devátý.
-Dialogue: 0,0:10:15.71,0:10:19.47,Default,,0,0,0,,Závist je devátý hřích, který není v seznamu obsažen.
+Dialogue: 0,0:10:15.71,0:10:19.47,Default,,0,0,0,,Ten devátý hřích, který v seznamu chybí, je závist.
 Dialogue: 0,0:10:20.85,0:10:23.60,Default,,0,0,0,,Všechny hříchy pramení ze závisti.
 Dialogue: 0,0:10:23.81,0:10:26.56,Default,,0,0,0,,A kde tedy najdeme tu "závist"?
 Dialogue: 0,0:10:26.56,0:10:28.99,Default,,0,0,0,,Víte, jak se šeptá,
-Dialogue: 0,0:10:28.99,0:10:32.18,Default,,0,0,0,,že k výrobě těch zbraní byla použiva lidská bytost?
+Dialogue: 0,0:10:28.99,0:10:32.18,Default,,0,0,0,,že k výrobě Zbraní smrtelných hříchů byla použiva lidská bytost?
 Dialogue: 0,0:10:32.87,0:10:34.53,Default,,0,0,0,,Je to pravda.
 Dialogue: 0,0:10:35.40,0:10:40.09,Default,,0,0,0,,Zbraně smrtelných hříchů byly vytvořeny z emocí jisté dívky.
-Dialogue: 0,0:10:41.46,0:10:45.64,Default,,0,0,0,,Před deseti lety jsem zapříčinil její nehodu a vytvořil z ní Zbraně smrtelných hříchů.
+Dialogue: 0,0:10:41.46,0:10:45.64,Default,,0,0,0,,Před deseti lety jsem zapříčinil její nehodu a použil ji k výrobě Zbraní smrtelných hříchů.
 Dialogue: 0,0:10:46.12,0:10:52.21,Default,,0,0,0,,A před rokem jsem do její duše vložil pocit závisti,
 Dialogue: 0,0:10:52.21,0:10:55.38,Default,,0,0,0,,uzavřel ji v těle kyberloutky a poslal na Musaši.
 Dialogue: 0,0:10:56.19,0:10:57.36,Default,,0,0,0,,To snad...
 Dialogue: 0,0:10:58.38,0:11:00.15,Default,,0,0,0,,Je to Horizon Ariadust,
 Dialogue: 0,0:11:00.58,0:11:03.28,Default,,0,0,0,,neboli kyberloutka P-01s.
 Dialogue: 0,0:11:04.35,0:11:06.03,Default,,0,0,0,,Její samotná duše
-Dialogue: 0,0:11:06.03,0:11:10.66,Default,,0,0,0,,je Zbraní smrtelných hříchů - Veškerenstvo toužení.
+Dialogue: 0,0:11:06.03,0:11:10.66,Default,,0,0,0,,je Zbraní smrtelných hříchů zvanou "Veškerenstvo toužení".
 Dialogue: 0,0:11:12.23,0:11:13.07,Default,,0,0,0,,Třeštidlo!
 Dialogue: 0,0:11:17.77,0:11:19.28,Default,,0,0,0,,Zastavte ho... prosím.
 Dialogue: 0,0:11:22.06,0:11:23.74,Default,,0,0,0,,Zpráva od Unie Testamentu:
@@ -215,22 +215,22 @@ Dialogue: 0,0:11:24.08,0:11:26.75,Default,,0,0,0,,"Najděte a zabavte Zbraně sm
 Dialogue: 0,0:11:28.93,0:11:32.93,Default,,0,0,0,,Proč?! Proč z kyberloutky s duší udělal Zbraň smrtelných hříchů?
 Dialogue: 0,0:11:33.46,0:11:35.67,Default,,0,0,0,,Dnes jsem Horizon viděl.
 Dialogue: 0,0:11:36.28,0:11:37.77,Default,,0,0,0,,Mávala na mě.
-Dialogue: 0,0:11:43.96,0:11:48.98,Default,,0,0,0,,Co se za těch let změnilo?
+Dialogue: 0,0:11:43.96,0:11:48.98,Default,,0,0,0,,Co se za těch deset let změnilo?
 Dialogue: 0,0:11:49.18,0:11:51.05,Default,,0,0,0,,Zbytek je na vás.
 Dialogue: 0,0:11:51.05,0:11:53.77,Default,,0,0,0,,Možná vypukne světová válka.
 Dialogue: 0,0:11:53.77,0:11:55.61,Default,,0,0,0,,A Dálný východ upadne pod totalitní vládu.
 Dialogue: 0,0:11:56.03,0:11:57.74,Default,,0,0,0,,Ale nebylo by skvělé
 Dialogue: 0,0:11:58.32,0:12:02.54,Default,,0,0,0,,vidět svět, o kterém se v Testamentu nepíše?
-Dialogue: 0,0:12:02.54,0:12:04.99,Default,,0,0,0,,Zastavím vás, tady a teď.
+Dialogue: 0,0:12:02.54,0:12:04.99,Default,,0,0,0,,Zastavím vás. Tady a teď.
 Dialogue: 0,0:12:05.58,0:12:06.96,Default,,0,0,0,,Hezká odpověď.
 Dialogue: 0,0:12:07.58,0:12:10.98,Default,,0,0,0,,Trochu by mi to ale přidělalo problémy.
 Dialogue: 0,0:12:10.98,0:12:14.54,Default,,0,0,0,,Támhle pan viceprezident se o tebe postará.
 Dialogue: 0,0:12:17.38,0:12:18.97,Default,,0,0,0,,Tadakacu Honda!
 Dialogue: 0,0:12:21.44,0:12:24.35,Default,,0,0,0,,Zbývají tři minuty.
-Dialogue: 0,0:12:25.00,0:12:28.18,Default,,0,0,0,,Zastavím toho zlobila.
-Dialogue: 0,0:12:45.27,0:12:46.93,Default,,0,0,0,,Zvládneš to rychleji?
+Dialogue: 0,0:12:25.00,0:12:28.18,Default,,0,0,0,,Zastavím toho vyrušovače.
+Dialogue: 0,0:12:45.27,0:12:46.93,Default,,0,0,0,,Zrychlíme to?
 Dialogue: 0,0:12:46.93,0:12:48.28,Default,,0,0,0,,To si piš!
-Dialogue: 0,0:12:51.15,0:12:53.08,Default,,0,0,0,,Lenost smutku! Navázat!
+Dialogue: 0,0:12:51.15,0:12:53.08,Default,,0,0,0,,Lenost smutku! Přivázat!
 Dialogue: 0,0:12:58.27,0:13:02.88,Default,,0,0,0,,Nechal jsi na Hbité vážce vykreslit odraz Lenosti smutku a tím neutralizoval její útok?
 Dialogue: 0,0:13:03.38,0:13:05.34,Default,,0,0,0,,Rozdíl našich schopností je zřejmý.
 Dialogue: 0,0:13:05.34,0:13:06.09,Default,,0,0,0,,To znamená...
@@ -250,7 +250,7 @@ Dialogue: 0,0:14:11.99,0:14:14.37,Default,,0,0,0,,Odstranil jsem naši ideu seve
 Dialogue: 0,0:14:15.98,0:14:17.16,Default,,0,0,0,,To je šílenství!
 Dialogue: 0,0:14:17.56,0:14:19.12,Default,,0,0,0,,Hbitá vážka!
 Dialogue: 0,0:14:24.84,0:14:25.89,Default,,0,0,0,,Uzavřít.
-Dialogue: 0,0:14:37.09,0:14:38.02,Default,,0,0,0,,Navázat!
+Dialogue: 0,0:14:37.09,0:14:38.02,Default,,0,0,0,,Přivázat!
 Dialogue: 0,0:14:45.19,0:14:48.75,Default,,0,0,0,,Omlouvám se za svoji neuctivost.
 Dialogue: 0,0:14:48.75,0:14:51.70,Default,,0,0,0,,Kdepak, jsem rád, že má moje zbroj zvláštní schopnosti.
 Dialogue: 0,0:14:52.00,0:14:55.12,Default,,0,0,0,,Soupeř měl lepší zbraň.
@@ -270,7 +270,7 @@ Dialogue: 0,0:15:53.41,0:15:54.49,Default,,0,0,0,,Judge.
 Dialogue: 0,0:15:54.49,0:15:56.23,Default,,0,0,0,,Míří na reaktor.
 Dialogue: 0,0:15:56.23,0:15:58.76,Default,,0,0,0,,Dokážete znovu odstranit směr, kterým míří?
 Dialogue: 0,0:15:59.17,0:16:02.14,Default,,0,0,0,,Obávám se, že už hypermód nemůžu použít.
-Dialogue: 0,0:16:02.59,0:16:07.65,Default,,0,0,0,,Moje schopnost gravitační manipulace také není plně vyvinutá.
+Dialogue: 0,0:16:02.59,0:16:07.65,Default,,0,0,0,,Moje schopnost gravitační manipulace ne to také nestačí.
 Dialogue: 0,0:16:07.65,0:16:10.86,Default,,0,0,0,,Jistě víte, co teď musíte udělat.
 Dialogue: 0,0:16:18.85,0:16:21.66,Default,,0,0,0,,Tvoji duši jsem vytvořil z prstene mé ženy
 Dialogue: 0,0:16:21.91,0:16:25.43,Default,,0,0,0,,a tobě musela zůstat zrovna její nevymáchaná pusa.
@@ -281,20 +281,20 @@ Dialogue: 0,0:16:50.66,0:16:51.36,Default,,0,0,0,,Judge.
 Dialogue: 0,0:16:54.63,0:16:55.78,Default,,0,0,0,,Zahajuji.
 Dialogue: 0,0:17:02.56,0:17:03.89,Default,,0,0,0,,Hbitá vážka!
 Dialogue: 0,0:17:10.85,0:17:12.13,Default,,0,0,0,,{\i1}Pane Tadakacu...
-Dialogue: 0,0:17:17.06,0:17:18.21,Default,,0,0,0,,Navázat!
+Dialogue: 0,0:17:17.06,0:17:18.21,Default,,0,0,0,,Přivázat!
 Dialogue: 0,0:17:36.76,0:17:38.78,Default,,0,0,0,,Vedle!
 Dialogue: 0,0:17:42.13,0:17:46.29,Default,,0,0,0,,Odstranil jste útok Lenosti smutku pomocí Hbité vážky.
-Dialogue: 0,0:17:47.13,0:17:49.78,Default,,0,0,0,,Vaše schopnosti jsou úžasné.
+Dialogue: 0,0:17:47.13,0:17:49.78,Default,,0,0,0,,Smekám před vašimi schopnostmi.
 Dialogue: 0,0:17:51.20,0:17:53.85,Default,,0,0,0,,Nebylo to nic těžkého.
 Dialogue: 0,0:17:53.85,0:17:56.68,Default,,0,0,0,,Stačilo postavit Kazuno do cesty útoku a pak oddělit její existenci.
 Dialogue: 0,0:17:57.42,0:17:59.36,Default,,0,0,0,,Brzy tady všechno vyletí do vzduchu.
-Dialogue: 0,0:17:59.36,0:18:01.26,Default,,0,0,0,,Vezmi si ho a odejdi.
+Dialogue: 0,0:17:59.36,0:18:01.26,Default,,0,0,0,,Vezmi toho klučinu a odejdi.
 Dialogue: 0,0:18:01.26,0:18:03.53,Default,,0,0,0,,Nebo si to chceš rozdat?
 Dialogue: 0,0:18:03.53,0:18:05.31,Default,,0,0,0,,Jistě jen žertujete...
 Dialogue: 0,0:18:05.53,0:18:09.98,Default,,0,0,0,,Jsi Gin Tačibana, dcera Dósecua Tačibany.
 Dialogue: 0,0:18:09.98,0:18:11.47,Default,,0,0,0,,Slyšel jsem, že jsi silná!
 Dialogue: 0,0:18:13.24,0:18:16.97,Default,,0,0,0,,Otec učinil svým dědicem Munešigeho.
-Dialogue: 0,0:18:16.97,0:18:18.42,Default,,0,0,0,,Nemá co víc říci.
+Dialogue: 0,0:18:16.97,0:18:18.42,Default,,0,0,0,,Nemám co víc říci.
 Dialogue: 0,0:18:19.12,0:18:22.66,Default,,0,0,0,,To ale neznamená, že ty jsi slabá.
 Dialogue: 0,0:18:25.37,0:18:27.33,Default,,0,0,0,,Mám zakázáno účastnit se boje.
 Dialogue: 0,0:18:27.33,0:18:29.72,Default,,0,0,0,,Nyní se vzdálím.
@@ -302,27 +302,27 @@ Dialogue: 0,0:18:30.99,0:18:31.92,Default,,0,0,0,,Judge.
 Dialogue: 0,0:18:33.65,0:18:36.17,Default,,0,0,0,,Hodláš mi tím přenechat vítězství?
 Dialogue: 0,0:18:36.42,0:18:38.34,Default,,0,0,0,,Následnictví má svá pravidla.
 Dialogue: 0,0:18:38.34,0:18:43.10,Default,,0,0,0,,Věřím, že pán Munešige se dočká odvety s vaším dědicem.
-Dialogue: 0,0:18:43.10,0:18:45.42,Default,,0,0,0,,Vy neumíte prohrávat!
+Dialogue: 0,0:18:43.10,0:18:45.42,Default,,0,0,0,,Vy vážně neumíte prohrávat!
 Dialogue: 0,0:18:49.46,0:18:50.23,Default,,0,0,0,,To je...
 Dialogue: 0,0:18:50.23,0:18:53.69,Default,,0,0,0,,Jestli chcete odvetu, předejte to mé dedičce.
-Dialogue: 0,0:18:53.69,0:18:56.69,Default,,0,0,0,,Měla by mít možnost s tím tvým klučinou bojovat vyrovnaně.
+Dialogue: 0,0:18:53.69,0:18:56.69,Default,,0,0,0,,Zaslouží si možnost s tím tvým klučinou bojovat vyrovnaně.
 Dialogue: 0,0:18:57.80,0:18:58.42,Default,,0,0,0,,Tes.
 Dialogue: 0,0:19:09.63,0:19:11.39,Default,,0,0,0,,Tak tedy...
 Dialogue: 0,0:19:38.21,0:19:40.77,Default,,0,0,0,,Není vám zima, slečno Masazumi?
-Dialogue: 0,0:19:40.77,0:19:41.70,Default,,0,0,0,,Jsem v pořádku!
+Dialogue: 0,0:19:40.77,0:19:41.70,Default,,0,0,0,,Jsem v pořádku.
 Dialogue: 0,0:19:46.59,0:19:47.92,Default,,0,0,0,,Slečno Masazumi...
 Dialogue: 0,0:19:49.33,0:19:53.58,Default,,0,0,0,,Já doopravdy nejsem P-01s, že?
-Dialogue: 0,0:20:12.23,0:20:14.35,Default,,0,0,0,,Oscilační vzorce éteru sedí.
+Dialogue: 0,0:20:12.23,0:20:14.35,Default,,0,0,0,,Oscilační vzorce éteru souhlasí.
 Dialogue: 0,0:20:14.65,0:20:17.15,Default,,0,0,0,,Bezpochyby to je Zbraň smrtelných hříchů.
 Dialogue: 0,0:20:19.93,0:20:21.05,Default,,0,0,0,,Chci, abyste ji polapili.
 Dialogue: 0,0:20:32.47,0:20:33.53,Default,,0,0,0,,Horizon!
 Dialogue: 0,0:20:46.37,0:20:47.05,spell,,0,0,0,,{\fad(0,50)\bord3.75\blur1.8\fs52.5\c&HC4CC16&\frz318.197\clip(290,300,741,717)\move(915,891,525,558,0,292)\3c&H393642&}Aktivace schopnosti: "březnové"
 Dialogue: 0,0:20:46.39,0:20:47.01,spell,,0,0,0,,{\blur2\c&HEBEEFD&\pos(1048.5,817.5)\frz228.733}Univerzální
 Dialogue: 0,0:20:50.69,0:20:52.43,Default,,0,0,0,,To mě možná tak polechtalo.
-Dialogue: 0,0:20:56.98,0:21:01.06,Default,,0,0,0,,Dle zmocnění Unie Testamentu přebýrá nyní K.P.A Italia
+Dialogue: 0,0:20:56.98,0:21:01.06,Default,,0,0,0,,Dle zmocnění Unie Testamentu přebírá nyní K.P.A Italia
 Dialogue: 0,0:21:01.06,0:21:03.16,Default,,0,0,0,,správu nad touto oblastí!
 Dialogue: 0,0:21:04.34,0:21:05.48,Default,,0,0,0,,Horizon!
-Dialogue: 0,0:21:10.59,0:21:12.80,Default,,0,0,0,,Odpor je zbytečný.
+Dialogue: 0,0:21:10.59,0:21:12.80,Default,,0,0,0,,Odpor nemá smysl.
 Dialogue: 0,0:21:18.84,0:21:20.47,Default,,0,0,0,,Já, P-01s...
 Dialogue: 0,0:21:21.49,0:21:22.69,Default,,0,0,0,,Horizon...
 Dialogue: 0,0:21:24.07,0:21:27.14,Default,,0,0,0,,s tím nic nenadělám, že?
@@ -337,14 +337,14 @@ Dialogue: 0,0:21:50.87,0:21:52.49,Default,,0,0,0,,{\i1}Musím ho umlčet...
 Dialogue: 0,0:21:52.78,0:21:54.20,Default,,0,0,0,,Drž už zobák, pitomče!
 Dialogue: 0,0:22:00.97,0:22:03.31,Default,,0,0,0,,{\i1}Takhle nikoho nezachráníš.
 Dialogue: 0,0:22:08.96,0:22:11.20,Default,,0,0,0,,{\i1}Je mimo tvůj dosah.
-Dialogue: 0,0:22:12.44,0:22:18.27,Default,,0,0,0,,{\fad(0,2000)}Začíná hodina!
-Dialogue: 0,0:22:40.40,0:22:43.10,Default,,0,0,0,,Na tohle ještě nenastal čas.
+Dialogue: 0,0:22:12.44,0:22:18.27,Default,,0,0,0,,{\fad(0,2000)}Začíná výuka!
+Dialogue: 0,0:22:40.40,0:22:43.10,Default,,0,0,0,,Na tohle je ještě brzy.
 Dialogue: 0,0:23:10.81,0:23:13.56,Default,,0,0,0,,{\an8}Už nás nic nerozdělí.
 Dialogue: 0,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}Léta Testamentu 1648
 Dialogue: 1,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\fs90\shad0\pos(960,150)}Léta Testamentu 1648
 Dialogue: 0,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\fs90\shad0\pos(960,840)}20. dubna, 21:03
 Dialogue: 1,0:23:16.58,0:23:19.25,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\fs90\shad0\pos(960,840)}20. dubna, 21:03
-Dialogue: 1,0:23:40.22,0:23:46.45,Default,,0,0,0,,O šesté hodině ranní, 21. dubna Let Testamentu 1648 
+Dialogue: 1,0:23:40.22,0:23:46.45,Default,,0,0,0,,O šesté hodině ranní, 21. dubna, Léta Testamentu 1648
 Dialogue: 0,0:23:46.45,0:23:49.00,Default,,0,0,0,,byla kyberloutka P-01s
 Dialogue: 0,0:23:49.00,0:23:52.78,Default,,0,0,0,,oficiálně prohlášena za Horizon Ariadust, vládkyni Mikawy.
 Dialogue: 0,0:23:53.69,0:23:58.04,Default,,0,0,0,,Zároveň byla jakožto vládce shledána vinnou z destrukce Mikawy

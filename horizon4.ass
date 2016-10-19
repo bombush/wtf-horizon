@@ -17,9 +17,10 @@ Audio File: [Zurako] Kyoukai Senjou no Horizon - 04 - Covert Ops Under the Night
 Video File: [Zurako] Kyoukai Senjou no Horizon - 04 - Covert Ops Under the Night Sky (BD 1080p AAC) [4D5577C1].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 10
-Video Position: 3552
+Video Zoom Percent: 0.375000
+Scroll Position: 341
+Active Line: 356
+Video Position: 33263
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,14 +68,14 @@ Dialogue: 0,0:02:55.86,0:02:57.65,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\s
 Dialogue: 1,0:02:55.86,0:02:57.65,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)}14:53\NPohostinství na okraji Mikawy
 Dialogue: 0,0:03:00.68,0:03:02.18,Default,,0,0,0,,Krucinál, Sakaii!
 Dialogue: 0,0:03:02.18,0:03:05.83,Default,,0,0,0,,Pořád jsi nepřestal v boji osahávat soupeřky?
-Dialogue: 0,0:03:06.08,0:03:11.18,Default,,0,0,0,,Normální lidi nevítají svoje skvělý kámoše tím, že na ně pošlou svoje děcko s kudlou.
+Dialogue: 0,0:03:06.08,0:03:11.18,Default,,0,0,0,,Normální lidi nevítají svoje skvělý kámoše tím, že na ně pošlou děcko s kudlou.
 Dialogue: 0,0:03:11.18,0:03:12.65,Default,,0,0,0,,Jmenuješ se Futajo, že?
 Dialogue: 0,0:03:12.65,0:03:14.79,Default,,0,0,0,,Máš docela páru!
 Dialogue: 0,0:03:15.77,0:03:18.39,Default,,0,0,0,,Otče, mohl bys nás řádně představit?
 Dialogue: 0,0:03:19.16,0:03:22.01,Default,,0,0,0,,Já jsem Tadacugu Sakai,
 Dialogue: 0,0:03:22.01,0:03:24.67,Default,,0,0,0,,skutečný vůdce Macudairových králů nebes.
 Dialogue: 0,0:03:24.67,0:03:25.84,Default,,0,0,0,,Když jsme byli ve škole,
-Dialogue: 0,0:03:25.84,0:03:29.80,Default,,0,0,0,,pán Motonobu Macudaira byl ředitel a předseda studentské rady v jedné osobě.
+Dialogue: 0,0:03:25.84,0:03:29.80,Default,,0,0,0,,pán Motonobu Macudaira zastával funkci našeho ředitel a předsedy studentské rady zároveň.
 Dialogue: 0,0:03:30.10,0:03:33.72,Default,,0,0,0,,Já jsem byl prezident a tvůj táta velitel zvláštních jednotek.
 Dialogue: 0,0:03:33.72,0:03:35.83,Default,,0,0,0,,Viceprezident, vole!
 Dialogue: 0,0:03:35.83,0:03:38.23,Default,,0,0,0,,Ii byl zástupce předsedy
@@ -111,17 +112,17 @@ Dialogue: 0,0:05:07.16,0:05:11.99,Default,,0,0,0,,Vyvolený válečník Tadakacu
 Dialogue: 0,0:05:11.99,0:05:15.16,Default,,0,0,0,,zatímco v Tres España získává své jméno
 Dialogue: 0,0:05:15.16,0:05:18.04,Default,,0,0,0,,Munešige Tačibana, titán západních zemí.
 Dialogue: 0,0:05:24.53,0:05:25.52,Default,,0,0,0,,Kazuno?!
-Dialogue: 0,0:05:25.92,0:05:28.30,Default,,0,0,0,,To není nikdo jiný, než pan Sakai.
+Dialogue: 0,0:05:25.92,0:05:28.30,Default,,0,0,0,,No tedy,To není nikdo jiný, než pan Sakai.
 Dialogue: 0,0:05:29.08,0:05:32.48,Default,,0,0,0,,Hóňo, ty ještě pořád máš tuhle ženskou?
 Dialogue: 0,0:05:32.48,0:05:34.18,Default,,0,0,0,,Co se dá dělat!
 Dialogue: 0,0:05:34.18,0:05:37.29,Default,,0,0,0,,Nikdo nedokáže zastoupit moji manželku tak jako ona -
 Dialogue: 0,0:05:37.29,0:05:39.46,Default,,0,0,0,,ať u jde o šerm nebo vaření.
 Dialogue: 0,0:05:39.98,0:05:42.73,Default,,0,0,0,,A navíc se vyzná v etiketě.
 Dialogue: 0,0:05:42.73,0:05:43.84,Default,,0,0,0,,Judge.
-Dialogue: 0,0:05:43.84,0:05:47.95,Default,,0,0,0,,Snažím se slečnu Futajo naučit její základy.
+Dialogue: 0,0:05:43.84,0:05:47.95,Default,,0,0,0,,Snažím se slečnu Futajo naučit základy etikety.
 Dialogue: 0,0:05:47.95,0:05:50.40,Default,,0,0,0,,Ale ač je to již dospělá slečna,
-Dialogue: 0,0:05:50.40,0:05:53.20,Default,,0,0,0,,pán Tadakacu by se s ní stále chtěl koupat,
-Dialogue: 0,0:05:53.41,0:05:54.98,Default,,0,0,0,,brát ji na opékačky a podobně.
+Dialogue: 0,0:05:50.40,0:05:53.20,Default,,0,0,0,,pán Tadakacu by se nejraději pořád společně koupal,
+Dialogue: 0,0:05:53.41,0:05:54.98,Default,,0,0,0,,chodil na grilovačky a podobně.
 Dialogue: 0,0:05:54.98,0:05:56.24,Default,,0,0,0,,Je to s ním na houby.
 Dialogue: 0,0:05:57.03,0:06:00.88,Default,,0,0,0,,Hóňa je na houby, to jsme říkali už my.
 Dialogue: 0,0:06:04.39,0:06:06.84,Default,,0,0,0,,Přestaňte si prosím z pána utahovat.
@@ -130,7 +131,7 @@ Dialogue: 0,0:06:10.43,0:06:12.72,Default,,0,0,0,,že je jediná, kdo si z tebe 
 Dialogue: 0,0:06:14.85,0:06:18.40,Default,,0,0,0,,Pane Tadakacu, je čas připravit loď k vyplutí.
 Dialogue: 0,0:06:18.40,0:06:20.19,Default,,0,0,0,,Judge, judge.
 Dialogue: 0,0:06:21.56,0:06:23.38,Default,,0,0,0,,Tak já mizím.
-Dialogue: 0,0:06:24.15,0:06:25.54,Default,,0,0,0,,Zlom vaz!
+Dialogue: 0,0:06:24.15,0:06:25.54,Default,,0,0,0,,Zlomte vaz!
 Dialogue: 0,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,315)}17:30\NPřed pohostinstvím na okraji Mikawy
 Dialogue: 1,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,315)}17:30\NPřed pohostinstvím na okraji Mikawy
 Dialogue: 2,0:06:27.19,0:06:30.53,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,315)}17:30\NPřed pohostinstvím na okraji Mikawy
@@ -139,14 +140,14 @@ Dialogue: 0,0:06:34.32,0:06:36.08,Default,,0,0,0,,Kde je Ii?
 Dialogue: 0,0:06:36.08,0:06:39.73,Default,,0,0,0,,Stalo se mu něco? Proto dneska nepřišel?
 Dialogue: 0,0:06:41.01,0:06:44.88,Default,,0,0,0,,Na Musaši se objevila kyberloutka typu P-01s.
 Dialogue: 0,0:06:45.64,0:06:49.04,Default,,0,0,0,,Přišla loni z Mikawy a zajímalo by mě, co je zač.
-Dialogue: 0,0:06:50.31,0:06:54.88,Default,,0,0,0,,Slyšel jsi o případech tajemného zmizení, které lidé připisují duchovi Krvavé princezny?
+Dialogue: 0,0:06:50.31,0:06:54.88,Default,,0,0,0,,Slyšel jsi o případech tajemných zmizení, která lidé připisují duchovi Krvavé princezny?
 Dialogue: 0,0:06:57.89,0:06:59.85,date,,0,0,0,,{\fad(200,40)\an8\blur6\bord4.5\shad0\fs90\pos(960,150)}18:09\NProstor nad přístavištěm pro běžný provoz, Mikawa
 Dialogue: 8,0:06:57.89,0:06:59.85,date,,0,0,0,,{\fad(200,40)\an8\blur1.5\bord0\shad0\fs90\pos(960,150)}18:09\NProstor nad přístavištěm pro běžný provoz, Mikawa
 Dialogue: 0,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(215,650)}18:11\NPrefekturní cesta 79, Mikawa
 Dialogue: 1,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}18:11\NPrefekturní cesta 79, Mikawa
 Dialogue: 2,0:07:07.40,0:07:10.32,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}18:11\NPrefekturní cesta 79, Mikawa
 Dialogue: 0,0:07:10.87,0:07:12.01,Default,,0,0,0,,Tak je pryč.
-Dialogue: 0,0:07:12.46,0:07:16.63,Default,,0,0,0,,Zrovna když vyplovali, přistála loď inkvizice z Tres España.
+Dialogue: 0,0:07:12.46,0:07:16.63,Default,,0,0,0,,Zrovna když vyplouvali, přistála loď inkvizice z Tres España.
 Dialogue: 0,0:07:17.39,0:07:18.28,Default,,0,0,0,,Zdá se...
 Dialogue: 0,0:07:18.58,0:07:21.53,Default,,0,0,0,,že se na její palubě nachází Munešige Tačibana.
 Dialogue: 0,0:07:21.53,0:07:22.77,Default,,0,0,0,,To jsem zvědavý.
@@ -154,7 +155,7 @@ Dialogue: 0,0:07:22.77,0:07:26.17,Default,,0,0,0,,Škoda, že neuvidím jeho sou
 Dialogue: 0,0:07:27.04,0:07:29.59,Default,,0,0,0,,Pane Tadakacu, je čas.
 Dialogue: 0,0:07:30.19,0:07:32.61,Default,,0,0,0,,Rozumím. Sfouknu to rychle.
 Dialogue: 0,0:07:37.98,0:07:40.44,Default,,0,0,0,,Nyní zahájíme připravy na ohňostroj.
-Dialogue: 0,0:07:40.44,0:07:44.05,Default,,0,0,0,,Zaujměte určené pozice.
+Dialogue: 0,0:07:40.44,0:07:44.05,Default,,0,0,0,,Zaujměte své pozice.
 Dialogue: 0,0:07:49.03,0:07:51.88,Default,,0,0,0,,Pane Motonobu, plán byl zahájen dle rozvrhu.
 Dialogue: 0,0:07:52.42,0:07:55.41,Default,,0,0,0,,Co je náš ohňostroj zač, bude všem jasné někdy po osmé hodině.
 Dialogue: 0,0:07:55.99,0:07:59.37,Default,,0,0,0,,A co on? Nemá námitky?
@@ -165,7 +166,7 @@ Dialogue: 0,0:08:05.39,0:08:06.25,Default,,0,0,0,,Dobrá.
 Dialogue: 0,0:08:06.75,0:08:10.02,Default,,0,0,0,,Nerozumím vašim záměrům,
 Dialogue: 0,0:08:10.02,0:08:13.13,Default,,0,0,0,,ale budu vám sloužit až do konce.
 Dialogue: 0,0:08:13.87,0:08:17.27,Default,,0,0,0,,Je čas. Prosím, pohodlně se usaďte a dívejte se.
-Dialogue: 0,0:08:17.72,0:08:23.01,Default,,0,0,0,,Právě začíná ohňostroj, kterým Mikawa hodí rukavici celému světu. Bude to poslední ohňostroj Mikawy.
+Dialogue: 0,0:08:17.72,0:08:23.01,Default,,0,0,0,,Začíná ohňostroj, kterým Mikawa hodí rukavici celému světu. Poslední ohňostroj v Mikawě.
 Dialogue: 0,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\fad(400,600)\an7\pos(215,650)}18:59\N Kakamigahara, Mikawa
 Dialogue: 1,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,650)}18:59\N Kakamigahara, Mikawa
 Dialogue: 2,0:08:26.94,0:08:30.40,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,650)}18:59\N Kakamigahara, Mikawa
@@ -192,7 +193,7 @@ Dialogue: 0,0:09:42.26,0:09:43.15,Default,,0,0,0,,Kruci!
 Dialogue: 0,0:09:44.89,0:09:45.98,Default,,0,0,0,,Pane Sakaii?
 Dialogue: 0,0:09:47.25,0:09:49.10,Default,,0,0,0,,Hledej Krvavou princeznu.
 Dialogue: 0,0:09:50.81,0:09:52.22,Default,,0,0,0,,Neboj se.
-Dialogue: 0,0:09:52.22,0:09:56.37,Default,,0,0,0,,Macudairovi králové nebes budou vždy pospolu.
+Dialogue: 0,0:09:52.22,0:09:56.37,Default,,0,0,0,,Macudairovy krály nebes nic nerozdělí.
 Dialogue: 0,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&H1E1E1E&\fad(400,600)\an7\pos(215,285)}19:51\NPracovna v rezidenci Sakakibarů
 Dialogue: 1,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\fad(400,600)\an7\pos(215,285)}19:51\NPracovna v rezidenci Sakakibarů
 Dialogue: 2,0:09:57.95,0:10:00.62,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\fad(400,600)\an7\pos(215,285)}19:51\NPracovna v rezidenci Sakakibarů
@@ -202,14 +203,14 @@ Dialogue: 0,0:10:09.61,0:10:12.62,Default,,0,0,0,,Nyní bych ráda započala úk
 Dialogue: 0,0:10:13.39,0:10:15.61,Default,,0,0,0,,{\i1}Ty taky, Sakakibaro...
 Dialogue: 0,0:10:25.60,0:10:29.35,spell,,0,0,0,,{\fs120\bord0.3\blur5\pos(960,127.5)\c&HB09A82&}{note: he reads this aloud) - }Hledej symbol dvojí hranice.
 Dialogue: 0,0:10:26.73,0:10:28.96,Default,,0,0,0,,Hledej symbol dvojí hranice.
-Dialogue: 0,0:10:32.56,0:10:34.06,spell,,0,0,0,,{\fad(500,0)\fs90\blur1.7\pos(1618.5,318)\c&HA28D7A&}{(note: he reads this after this goes off screen)}Projekt Genesis?
+Dialogue: 0,0:10:32.56,0:10:34.06,spell,,0,0,0,,{\fad(500,0)\fs90\blur1.7\pos(1618.5,318)\c&HA28D7A&}{(note: he reads this after this goes off screen)}Projekt Genesis
 Dialogue: 0,0:10:34.67,0:10:38.40,Default,,0,0,0,,Projekt Genesis? Hledej Krvavou princeznu?
 Dialogue: 0,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur20\c&HFFFFFF&\an9\fad(400,600)\pos(1713,650)}19:53\NAriadustova akademie na Musaši
 Dialogue: 1,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\fscx102\fscy110\blur1.6\1c&H899294&\an9\fad(400,600)\pos(1713,650)}19:53\NAriadustova akademie na Musaši
 Dialogue: 2,0:10:38.82,0:10:42.45,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\blur1\an9\fad(400,600)\pos(1713,650)}19:53\NAriadustova akademie na Musaši
 Dialogue: 0,0:10:39.21,0:10:41.34,Default,,0,0,0,,Jedem!
 Dialogue: 0,0:10:45.19,0:10:47.12,Default,,0,0,0,,N-Nendži!
-Dialogue: 0,0:10:48.58,0:10:52.66,Default,,0,0,0,,Vsadím se, že v tom prezident má prsty.
+Dialogue: 0,0:10:48.58,0:10:52.66,Default,,0,0,0,,Vsadím se, že v tomhle má prsty prezident.
 Dialogue: 0,0:10:56.47,0:10:59.11,Default,,0,0,0,,Fakticky. Co ho to napadlo?
 Dialogue: 0,0:10:59.11,0:11:00.42,Default,,0,0,0,,Chceš vodu?
 Dialogue: 0,0:11:00.65,0:11:02.58,Default,,0,0,0,,Co se tu děje?!
@@ -245,11 +246,11 @@ Dialogue: 0,0:12:31.37,0:12:32.99,Default,,0,0,0,,Strážnice v Kakamigahaře?
 Dialogue: 0,0:12:44.40,0:12:45.43,Default,,0,0,0,,Hóňo?
 Dialogue: 0,0:12:46.38,0:12:49.96,Default,,0,0,0,,Začínáš dědkovatět. Tohle bys normálně přeskočil.
 Dialogue: 0,0:12:52.04,0:12:53.17,Default,,0,0,0,,To je Hbitá vážka.
-Dialogue: 0,0:12:53.43,0:12:55.18,Default,,0,0,0,,To je jedna z Božských zbraní!
+Dialogue: 0,0:12:53.43,0:12:55.18,Default,,0,0,0,,Jedna z Božských zbraní!
 Dialogue: 0,0:13:12.07,0:13:13.54,Default,,0,0,0,,Co je to za zvuk?
 Dialogue: 0,0:13:14.10,0:13:15.00,Default,,0,0,0,,Něco pod nohama?
 Dialogue: 0,0:13:15.00,0:13:17.19,Default,,0,0,0,,Ne, je to mnohem hlouběji.
-Dialogue: 0,0:13:17.61,0:13:18.23,Default,,0,0,0,,To jsou...
+Dialogue: 0,0:13:17.61,0:13:18.23,Default,,0,0,0,,To je...
 Dialogue: 0,0:13:19.56,0:13:20.47,Default,,0,0,0,,Tektonická tepna.
 Dialogue: 0,0:13:21.29,0:13:23.62,Default,,0,0,0,,To je Šin-nagojský tektonický reaktor.
 Dialogue: 0,0:13:23.62,0:13:24.44,Default,,0,0,0,,O co se to snažíte?!
@@ -264,7 +265,7 @@ Dialogue: 2,0:13:30.89,0:13:34.00,date 2,,0,0,0,,{\shad0\bord0\fscx102\fscy110\b
 Dialogue: 0,0:13:39.78,0:13:43.29,Default,,0,0,0,,Pokud vybuchne, zničí Nagoju, ne-li celou Mikawu.
 Dialogue: 0,0:13:43.29,0:13:45.47,Default,,0,0,0,,Všichni lidé jsou z Mikawy už pryč.
 Dialogue: 0,0:13:45.47,0:13:47.38,Default,,0,0,0,,Zbyli jsme tu jen my dva a kyberloutky.
-Dialogue: 0,0:13:48.06,0:13:49.11,Default,,0,0,0,,Řekni mi, co víš.
+Dialogue: 0,0:13:48.06,0:13:49.11,Default,,0,0,0,,Řekni mi, co o tom víš.
 Dialogue: 0,0:13:51.48,0:13:53.28,Default,,0,0,0,,Já nevím nic.
 Dialogue: 0,0:13:53.28,0:13:57.94,Default,,0,0,0,,Pán mi řekl jenom, že se jedná o začátek projektu Genesis.
 Dialogue: 0,0:13:58.12,0:13:58.83,spell,,0,0,0,,{\fad(200,200)\fs90\blur1.7\pos(1618.5,318)\c&HA38F7B&}{(brief flashback of the 10:33 typeset) - }Projekt Genesis.
@@ -273,7 +274,7 @@ Dialogue: 0,0:14:01.29,0:14:05.28,Default,,0,0,0,,Projekt Genesis by mohl všech
 Dialogue: 0,0:14:08.80,0:14:09.80,Default,,0,0,0,,Přestaň!
 Dialogue: 0,0:14:09.80,0:14:10.74,Default,,0,0,0,,Přivážu tě!
 Dialogue: 0,0:14:11.28,0:14:12.57,Default,,0,0,0,,Přivážeš mě?
-Dialogue: 0,0:14:13.18,0:14:15.72,Default,,0,0,0,,Hbitá vážka dokáže zrušit oddělit od světa samotné ideje.
+Dialogue: 0,0:14:13.18,0:14:15.72,Default,,0,0,0,,Hbitá vážka dokáže oddělit od světa samotné ideje.
 Dialogue: 0,0:14:15.72,0:14:17.84,Default,,0,0,0,,Takže strážnice je v plamenech protože...
 Dialogue: 0,0:14:17.84,0:14:20.00,Default,,0,0,0,,Oddělil jsem od světa její samotnou ideu.
 Dialogue: 0,0:14:20.60,0:14:22.58,Default,,0,0,0,,Hóňo. Proč?
@@ -343,10 +344,10 @@ Dialogue: 0,0:18:24.17,0:18:25.38,Default,,0,0,0,,Jedna potopená.
 Dialogue: 0,0:18:35.68,0:18:36.94,Default,,0,0,0,,Co se děje, Zaragozo?
 Dialogue: 0,0:18:36.94,0:18:38.00,Default,,0,0,0,,Ztrácíte výšku!
 Dialogue: 0,0:18:39.24,0:18:42.22,Default,,0,0,0,,D-dostali jsme zásah ze země.
-Dialogue: 0,0:18:42.59,0:18:45.01,Default,,0,0,0,,Zdroj projektilu je kyberloutka.
+Dialogue: 0,0:18:42.59,0:18:45.01,Default,,0,0,0,,Zdroj střely je kyberloutka.
 Dialogue: 0,0:18:45.39,0:18:48.10,Default,,0,0,0,,Je to Kazuno z Mikawského rodu Honda.
 Dialogue: 0,0:18:53.54,0:18:54.84,Default,,0,0,0,,Rohatice!
-Dialogue: 0,0:18:55.54,0:18:56.79,Default,,0,0,0,,Meče dle rozkazu!
+Dialogue: 0,0:18:55.54,0:18:56.79,Default,,0,0,0,,Meče tas!
 Dialogue: 0,0:19:11.85,0:19:13.22,Default,,0,0,0,,Štít před zraky!
 Dialogue: 0,0:19:14.05,0:19:15.20,Default,,0,0,0,,Zvýšit počet.
 Dialogue: 0,0:19:37.44,0:19:38.57,Default,,0,0,0,,Přestavit.
@@ -365,7 +366,7 @@ Dialogue: 0,0:20:34.14,0:20:36.29,Default,,0,0,0,,To přetížení je vyvolané 
 Dialogue: 0,0:20:37.00,0:20:39.22,Default,,0,0,0,,Zprávy indikují, že Mikawské kyberloutky
 Dialogue: 0,0:20:39.22,0:20:41.92,Default,,0,0,0,,se vzbouřily proti Unii Testamentu.
 Dialogue: 0,0:20:43.81,0:20:46.28,Default,,0,0,0,,Předpokládám, že vzpouru vede Kazuno.
-Dialogue: 0,0:20:46.28,0:20:50.02,Default,,0,0,0,,To znamená, že můj otec, pán Tadakacu je součástí vzpoury.
+Dialogue: 0,0:20:46.28,0:20:50.02,Default,,0,0,0,,To znamená, že můj otec, pán Tadakacu, je součástí vzpoury.
 Dialogue: 0,0:20:50.02,0:20:54.66,Default,,0,0,0,,Paní Futajo, naše loď může být pánu nápomocná.
 Dialogue: 0,0:20:55.18,0:21:00.02,Default,,0,0,0,,Musíme zvážit, nakolik naše kroky mohou prospět Dálnému východu.
 Dialogue: 0,0:21:00.66,0:21:02.04,Default,,0,0,0,,Návrhy?
@@ -394,5 +395,5 @@ Dialogue: 0,0:22:22.04,0:22:26.48,Default,,0,0,0,,{\i1}Tu noc se náš svět zm�
 Dialogue: 0,0:22:26.79,0:22:31.74,Default,,0,0,0,,{\i1}Ráno jsem myslela jsem, že nás čeká den jako každý jiný.{\i0}
 Dialogue: 0,0:22:32.61,0:22:36.45,Default,,0,0,0,,{\i1}Ten neměnný klid našeho života se ale začínal hroutit{\i0}
 Dialogue: 0,0:22:36.89,0:22:40.20,Default,,0,0,0,,{\i1}a my jsme se vydali na cestu bez návratu.{\i0}
-Dialogue: 0,0:22:41.37,0:22:45.13,Default,,0,0,0,,{\i1}Tehdy jsem ještě ale o ničem nevěděl.{\i0}
+Dialogue: 0,0:22:41.37,0:22:45.13,Default,,0,0,0,,{\i1}Tehdy jsem ale ještě nic netušil{\i0}
 Dialogue: 0,0:22:45.13,0:22:47.13,Default,,0,0,0,,
